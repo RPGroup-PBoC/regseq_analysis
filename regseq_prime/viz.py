@@ -1,4 +1,4 @@
-from regseq import information
+from regseq_prime import information
 import numpy as np
 import matplotlib.pyplot as plt
 # import logomaker

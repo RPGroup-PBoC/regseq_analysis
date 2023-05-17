@@ -1,0 +1,3696 @@
+Transcription-Units	Genes of transcription unit	Regulated-By
+hicAB	hicB // hicA	
+yjhR	yjhR	
+bipA	bipA	
+focA-pflB	pflB // focA	
+yddLKJ	yddL // yddK // yddJ	
+yfhG	qseG	
+yafDE	yafE // yafD	
+metY-yhbC-nusA-infB	infB // nusA // rimP // metY	
+aegA	aegA	Regulation of aegA by CRP-cyclic-AMP DNA-binding transcriptional dual regulator
+pcnB-folK	folK // pcnB	
+btsT	btsT	
+mntR-ybiR	ybiR // mntR	
+gadX	gadX	Regulation of gadX by ppGpp
+yafL	yafL	
+gltP	gltP	Regulation of gltP by small regulatory RNA GcvB // Regulation of gltP by DNA-binding transcriptional dual regulator Nac
+adhP	adhP	Regulation of adhP by ppGpp
+ycaR-kdsB	kdsB // ycaR	
+alsRBACE	alsE // alsC // alsA // alsB // alsR	
+malS	malS	
+ykfGH-yafW-ykfI	ykfI // yafW // ykfH // ykfG	
+cbpA-cbpM	cbpM // cbpA	
+rpsU-dnaG-rpoD	rpsU // dnaG // rpoD	
+yeeX	tmaR	
+entCEBA-ybdB	entC // entE // entB // entA // entH	
+gltIJKL-sroC	sroC // gltL // gltK // gltJ // gltI	
+metR	metR	
+ecpR	matA	
+ilvY	ilvY	
+CsiR	glaR	
+ampC	ampC	
+mug	mug	
+sbmC	sbmC	
+selAB	selB // selA	Regulation of selAB by SelB-L-selenocysteinyl-tRNAsec
+yqgB	yqgB	
+pyrF-yciH	yciH // pyrF	
+essD-ybcS-rzpD	rzpD // rrrD // essD	
+pspF	pspF	
+hokB	hokB	
+yciSM-pyrF-yciH	yciH // pyrF // lapB // lapA	
+ibaG-murA	murA // ibaG	
+galET	galT // galE	
+iap	iap	
+mgtA	mgtL // mgtA	
+hldE	hldE	
+yaeH	yaeH	
+lit	lit	
+yfhH	yfhH	
+yedN	yedN	
+fkpA	fkpA	
+ompL	ompL	
+ydfI	ydfI	Regulation of ydfI by DNA-binding transcriptional repressor GlaR
+fumAC	fumC // fumA	
+yeeY	yeeY	
+cbrA	cbrA	
+lpdA	lpd	
+ppk-ppx	ppx // ppk	
+ypjA	ypjA	Regulation of ypjA by DNA-binding transcriptional repressor GlaR
+gabDTP	gabP // gabT // gabD	Regulation of gabDTP by ppGpp
+sbcB	sbcB	
+eda	eda	
+lysQ	lysQ	
+fadR	fadR	
+sroH	sroH	
+ydhB	punR	
+gltF	gltF	Regulation of gltF by DNA-binding transcriptional dual regulator LeuO
+yraR	yraR	
+menD-yfbB-menBCE	menE // menC // menB // menH // menD	
+pflB	pflB	
+acs-yjcHG	actP // yjcH // acs	
+araFGH	araH // araG // araF	
+betIBA	betA // betB // betI	
+manA	manA	
+rutR	rutR	
+rybA-mntS	rybA // mntS	
+bcsABZC	bcsC // bcsZ // bcsB // bcsA	
+pssA	pssA	
+yjjZ	yjjZ	
+ubiD	ubiD	
+ptsG	ptsG	Regulation of ptsG by small regulatory RNA SgrS
+aroH	aroH	
+yzcX	yzcX	
+yafZ	yafZ	
+dinB-yafNOP	yafP // yafO // yafN // dinB	
+pyrG-eno	eno // pyrG	
+bssR	bssR	
+ydcJ	ydcJ	
+acpP	acpP	
+rluD-pgeF	rluD // yfiH	
+lysC	lysC	
+fliC	fliX // fliC	
+fadH	fadH	
+ypfH	ypfH	
+ykgA	ykgA	
+mltF	mltF	
+cynR	cynR	
+yhbX	yhbX	Regulation of yhbX by DNA-binding transcriptional dual regulator Nac
+yobB-exoX	exoX // yobB	Regulation of yobB-exoX by DNA-binding transcriptional dual regulator OmpR-phosphorylated
+argQ	argQ	
+pqqL	pqqL	
+trmC	mnmC	
+yihA	yihA	
+yadN	yadN	Regulation of yadN by DNA-binding transcriptional repressor GlaR
+pspABCDE	pspA // pspB // pspC // pspD // pspE	
+appCBA-yccB	appX // appC // appB // appA	
+ygcG	ygcG	
+yncD	yncD	
+pheV	pheV	
+ygjJK	ygjK // ygjJ	
+ybhH	ybhH	Regulation of ybhH by DNA-binding transcriptional dual regulator Nac
+ruvC	ruvC	
+pheM	pheM	
+frsA	frsA	
+iscRSUA	iscA // iscU // iscS // iscR	Regulation of iscRSUA by small regulatory RNA RyhB
+rrlB-rrfB	rrfB // rrlB	
+ybjO-rlmC	rlmC // ybjO	
+aroM	aroM	
+ynaK-ydaY	ydaY // ynaK	
+sfsA-dksA	dksA // sfsA	
+yihR	yihR	
+fur	fur	
+hchA	hchA	Regulation of hchA by ppGpp
+ddpXABCDF	ddpF // ddpD // ddpC // ddpB // ddpA // ddpX	
+ypjC	ypjC	
+perR	perR	
+exuT	exuT	
+recC	recC	
+rraA	rraA	
+fur	fur	
+yjaA	yjaA	
+mdoC	opgC	
+putP	putP	
+ygdD	ygdD	
+yidQ	yidQ	
+moeAB	moeB // moeA	
+yfeCD	yfeD // yfeC	
+yaiA-aroM	aroM // yaiA	Regulation of yaiA-aroM by ppGpp
+ycgR	ycgR	
+ibsD	ibsD	
+rpoH	rpoH	
+cobUST	cobT // cobS // cobU	
+insA-7	insA7	
+osmY	osmY	Regulation of osmY by ppGpp
+plsC	plsC	
+yigE	yigE	
+pykA	pykA	
+fsaA	fsaA	
+iraP	iraP	
+yihXY-dtd-fabY	fabY // dtd // yihY // yihX	
+yicJI	yicI // yicJ	
+ydbD	ydbD	
+yeeJ	yeeJ	
+panZ	panZ	
+rpe-gph-trpS	trpS // gph // rpe	
+pykF	pykF	
+ydcL	ydcL	Regulation of ydcL by DNA-binding transcriptional dual regulator Rob // Regulation of ydcL by ppGpp
+metT-leuW-glnUW-metU-glnVX	glnX // glnV // metU // glnW // glnU // leuW // metT	
+aspC	aspC	
+yfgG	yfgG	
+rclR	rclR	
+fdhD	fdhD	Regulation of fdhD by DNA-binding transcriptional dual regulator Nac
+fixABCX	fixX // fixC // fixB // fixA	
+miaB	miaB	
+trxA	trxA	
+rarD	rarD	
+ydeN	ydeN	
+tyrV-tpr	tpr // tyrV	
+alx	alx	Regulation of alx by Mn2+ // Regulation of alx by H+
+murR	murR	
+araFGH	araH // araG // araF	
+hemA-prfA-prmC	prmC // prfA // hemA	
+yfiR-dgcN-yfiB	yfiB // dgcN // yfiR	
+rfaDFCL	rfaD // waaF // waaC // waaL	
+qseBC	qseC // qseB	
+yjfP	yjfP	
+yebB	yebB	
+pdxH-tyrS-pdxY	pdxY // tyrS // pdxH	
+phnLMNOP	phnP // phnO // phnN // phnM // phnL	
+cysG	cysG	
+yggG	loiP	
+acrZ	acrZ	
+tisB	tisB	Regulation of tisB by small regulatory RNA IstR-1
+tcyJ	tcyJ	Regulation of tcyJ by small regulatory RNA GcvB
+sspAB	sspB // sspA	
+rlhA	rlhA	
+ybhM	ybhM	Regulation of ybhM by DNA-binding transcriptional dual regulator Nac
+pcnB-folK	folK // pcnB	
+gcvR	gcvR	
+ykfBF-yafX-ykfGH-yafW-ykfI	ykfI // yafW // ykfH // ykfG // yafX // ykfF // ykfB	
+ucpA	ucpA	
+rtcR	rtcR	
+sdiA	sdiA	
+mdaB	mdaB	Regulation of mdaB by DNA-binding transcriptional dual regulator SoxS // Regulation of mdaB by DNA-binding transcriptional dual regulator Rob // Regulation of mdaB by DNA-binding transcriptional dual regulator MarA
+ebgAC	ebgA // ebgC	
+tilS	tilS	
+yjbD	yjbD	
+patD	patD	
+yhaH	yhaH	
+pdeD	pdeD	
+yiaF	yiaF	
+pinR	pinR	Regulation of pinR by DNA-binding transcriptional dual regulator Nac
+trpL	trpL	
+rnt-lhr	rnt // lhr	
+modABC	modC // modB // modA	
+yjgM	yjgM	Regulation of yjgM by DNA-binding transcriptional dual regulator Nac
+pyrLBI	pyrL // pyrI // pyrB	
+pgl	pgl	
+mmuPM	mmuM // mmuP	
+pykA	pykA	
+rhsC-ybfB	ybfB // rhsC	
+sodB	sodB	Regulation of sodB by small regulatory RNA FnrS // Regulation of sodB by small regulatory RNA RyhB
+grxD	grxD	Regulation of grxD by small regulatory RNA RyhB
+ybbY-glxK	glxK // ybbY	
+rplM-rpsI	rpsI // rplM	Regulation of rplM-rpsI by ATP-dependent RNA helicase SrmB // Regulation of rplM-rpsI by 50S ribosomal subunit protein L13
+ybiX	ybiX	
+gnsA	gnsA	
+cpdB	cpdB	
+fumC	fumC	
+napFDAGHBC-ccmABCDEFGH	ccmH // ccmG // ccmF // ccmE // ccmD // ccmC // ccmB // ccmA // napC // napB // napH // napG // napA // napD // napF	
+eptB	eptB	Regulation of eptB by small regulatory RNA MgrR // Regulation of eptB by small regulatory RNA ArcZ
+metH	metH	
+insA5B5AB5	insA5 // insB5 // insAB5	
+appY	appY	
+srlAEBD-gutM-srlR-gutQ	srlA // srlE // srlB // srlD // gutM // srlR // gutQ	
+arcB	arcB	
+lpxC	lpxC	
+insH-10	insH10	
+rlmN	rlmN	
+yncJ	yncJ	
+serU	serU	
+recQ	recQ	
+yneL	yneL	
+leuO	leuO	
+yrbG-kdsD	kdsD // yrbG	
+yghG	yghG	Regulation of yghG by DNA-binding transcriptional dual regulator Nac
+pgk	pgk	
+yqjA-mzrA	mzrA // yqjA	
+yfjD	yfjD	Regulation of yfjD by DNA-binding transcriptional repressor GlaR
+topA	topA	
+gudPXD	gudD // gudX // gudP	
+osmC	osmC	
+ybhD	ybhD	Regulation of ybhD by DNA-binding transcriptional dual regulator Nac
+yidZ	yidZ	
+kdgT	kdgT	Regulation of kdgT by DNA-binding transcriptional repressor GlaR
+dinQ	dinQ	Regulation of dinQ by small regulatory RNA AgrB
+yebO	yebO	
+flhBAE	flhE // flhA // flhB	
+tufA	tufA	
+tehAB	tehA // tehB	
+xapAB	xapB // xapA	
+dcyD-tcyLN	dcyD // tcyL // tcyN	
+ybeM	ybeM	
+asnC-mioC-mnmG	mnmG // mioC // asnC	
+argU	argU	
+ypeA-yfeZ	ypeA // yfeZ	
+hypBCDE-fhlA	fhlA // hypE // hypD // hypC // hypB	
+ryfA	ryfA	
+folA	folA	
+maeB	maeB	
+proK	proK	
+purEK	purK // purE	
+clpPX	clpX // clpP	
+casDE-ygbTF	cas2 // cas1 // casE // casD	
+yaeF	yaeF	Regulation of yaeF by DNA-binding transcriptional dual regulator Nac
+nanY	nanY	
+ygiL	ygiL	
+ompN	ompN	
+ivbL	ivbL	
+trmJ	trmJ	
+pdeL	pdeL	
+ytjA	ytjA	
+mutY-yggX-mltC	mltC // yggX // mutY	
+yiaG	yiaG	Regulation of yiaG by ppGpp
+yagEF	yagF // yagE	Regulation of yagEF by XynR-D-xylonate
+hokE	hokE	
+yidI	yidI	
+yhjJ	yhjJ	
+glmY	glmY	
+cspF	cspF	
+mnaT-ydcZ	mnaT // ydcZ	
+hdfR	hdfR	
+gss	gss	
+ybgQPO	ybgQ // ybgP // ybgO	
+nikABCDER	nikR // nikA // nikB // nikC // nikD // nikE	
+recAX	recX // recA	
+ackA-pta	pta // ackA	Regulation of ackA-pta by DNA-binding transcriptional regulator CreB-phosphorylated
+gltX	gltX	
+dgcJ	dgcJ	
+tar-tap-cheRBYZ	cheZ // cheY // cheB // cheR // tap // tar	
+ygjH	ygjH	Regulation of ygjH by DNA-binding transcriptional dual regulator Nac
+ppdD-hofBC	ppdD // hofB // hofC	
+insH-8	insH8	
+dkgB	dkgB	
+argD	argD	
+yggE	yggE	
+folB	folB	
+glgCAP	glgP // glgA // glgC	Regulation of glgCAP by carbon storage regulator // Regulation of glgCAP by carbon storage regulator
+pgrR	pgrR	
+rpmBG	rpmG // rpmB	
+bioP	bioP	
+dacA	dacA	
+ftsZ	ftsZ	
+rseP	rseP	
+smpB	smpB	
+gloB	gloB	
+yieG	adeP	
+imp-surA-pdxA	pdxA // surA // lptD	
+tyrP	tyrP	
+cbrC	cbrC	Regulation of cbrC by DNA-binding transcriptional dual regulator Nac
+sbp	sbp	
+hokA	hokA	
+eno	eno	
+zitB	zitB	
+malZ	malZ	
+hemCDXY	hemY // hemX // hemD // hemC	
+rsmG	rsmG	
+rfbACX	rfbX // rfbC // rfbA	
+serB	serB	
+yebW	yebW	
+yffL	yffL	
+macB	macB	
+ompW	ompW	Regulation of ompW by small regulatory RNA MicA // Regulation of ompW by small regulatory RNA RybB
+bioBFCD	bioB // bioF // bioC // bioD	
+zapA	zapA	
+yebK	yebK	Regulation of yebK by DNA-binding transcriptional repressor YebK
+rhaD	rhaD	
+yggDC	yggC // fumE	
+mutL-miaA-hfq-hflXKC	hflC // hflK // hflX // hfq // miaA // mutL	
+tatD	tatD	
+asnT	asnT	
+clcA	clcA	
+thrS-infC-rpmI-rplT-pheMST-ihfA	ihfA // pheT // pheS // pheM // rplT // rpmI // infC // thrS	
+yahO	yahO	Regulation of yahO by ppGpp
+yjeFE-amiB-mutL-miaA-hfq-hflXKC	hflC // hflK // hflX // hfq // miaA // mutL // amiB // tsaE // nnr	
+ompF	ompF	Regulation of ompF by small regulatory RNA MicF // Regulation of ompF by small regulatory RNA RybB
+ydbA	ydbA	
+dmlR	dmlR	
+btuE	btuE	
+ansP	ansP	
+insA3B3AB3	insA3 // insB3 // insAB3	
+pepQ-yigZ-trkH-hemG	hemG // trkH // yigZ // pepQ	
+flgMN	flgN // flgM	
+ybdG	ybdG	
+cvpA-purF-ubiX	ubiX // purF // cvpA	
+dacC	dacC	Regulation of dacC by ppGpp
+yncG	yncG	
+selD-topB	topB // selD	
+yfeKS	yfeS // yfeK	
+yebE	yebE	
+sulA	sulA	
+mpaA	mpaA	Regulation of mpaA by DNA-binding transcriptional repressor PgrR
+hcaT	hcaT	
+rimP-nusA-infB	rimP // infB // nusA	
+glrK	glrK	
+serC	serC	
+yadGH	yadH // yadG	
+intG	intG	
+rrlE-rrfE	rrfE // rrlE	
+argX-hisR-leuT-proM	argX // hisR // leuT // proM	
+yjiK	yjiK	
+leuX	leuX	
+mutM	mutM	
+ynaJ	ynaJ	Regulation of ynaJ by DNA-binding transcriptional dual regulator ArcA-phosphorylated
+rpoZ-spoT-trmH-recG	rpoZ // spoT // trmH // recG	
+pdxI	pdxI	
+yqhG	yqhG	
+emtA	emtA	
+nei	nei	
+mdh	mdh	
+ypdJ	ypdJ	
+lolB-ispE-prs	prs // ispE // lolB	
+yciT	yciT	
+cmtBA-yggPF-fumE-yggC	cmtB // cmtA // yggP // yggF // fumE // yggC	
+yhdH	yhdH	
+mioC	mioC	
+priA	priA	
+hrpA	hrpA	
+infA	infA	
+hxpB	hxpB	
+yajQ	yajQ	
+hsdMS	hsdS // hsdM	
+fumC	fumC	
+yhdT-panF-prmA	yhdT // panF // prmA	
+rihA	rihA	Regulation of rihA by CRP-cyclic-AMP DNA-binding transcriptional dual regulator
+entS	entS	
+yecM-cutC	yecM // cutC	
+ompT	ompT	Regulation of ompT by small regulatory RNA OmrB // Regulation of ompT by small regulatory RNA OmrA
+gmhA	gmhA	
+yffS	yffS	
+ybdM	ybdM	
+purA	purA	
+pdxY	pdxY	
+hfq-hflXKC	hflC // hflK // hflX // hfq	
+phoPQ	phoQ // phoP	Regulation of phoPQ by small regulatory RNA GcvB // Regulation of phoPQ by small regulatory RNA MicA
+ygiS	ygiS	
+mlaFEDCB	mlaB // mlaC // mlaD // mlaE // mlaF	
+sokX	sokX	
+ada-alkB	alkB // ada	
+yeiL	yeiL	
+gadBC	gadC // gadB	Regulation of gadBC by ppGpp
+ppk-ppx	ppx // ppk	
+ftsZ	ftsZ	
+rhlB	rhlB	
+yhhS	yhhS	
+gnd	gnd	Regulation of gnd by NIL
+satP	satP	
+norR	norR	
+artJ	artJ	
+yjiV	yjiV	
+mgrR	mgrR	
+dld	dld	Regulation of dld by DNA-binding transcriptional dual regulator Nac
+yncI	yncI	
+csrA	csrA	Regulation of csrA by ppGpp
+chiQ	chiQ	
+yqeA	yqeA	
+ahpCF	ahpF // ahpC	
+ydeNM	ydeM // ydeN	
+yphFED	yphF // yphE // yphD	
+eutSPQTDM	eutS // eutP // eutQ // eutT // eutD // eutM	Regulation of eutSPQTDM by DNA-binding transcriptional dual regulator NagC
+yoaA	yoaA	
+cydAB	cydA // cydB	
+ubiF	ubiF	
+setC	setC	
+yihI	yihI	
+yadC	yadC	
+ynjI	ynjI	
+ptsHI-crr	ptsH // ptsI // crr	
+zntB	zntB	
+rpsJ-rplCDWB-rpsS-rplV-rpsC-rplP-rpmC-rpsQ	rpsQ // rpmC // rplP // rpsC // rplV // rpsS // rplB // rplW // rplD // rplC // rpsJ	
+nudK	nudK	
+yeiW	yeiW	
+sfmA	sfmA	
+htrG-cca	cca // ygiM	
+livKHMGF	livF // livG // livM // livH // livK	
+yfdV	yfdV	Regulation of yfdV by DNA-binding transcriptional dual regulator Nac
+yoeA	yoeA	
+ybjP	ybjP	Regulation of ybjP by ppGpp
+allB	allB	
+gcvP	gcvP	
+hemL	hemL	
+ompF	ompF	Regulation of ompF by small regulatory RNA RybB // Regulation of ompF by small regulatory RNA MicF
+glnS	glnS	
+rrlA-rrfA	rrfA // rrlA	
+yieP-hsrA	yieP // hsrA	
+yihUTS	yihS // yihT // yihU	
+mutY-yggX-mltC	mltC // yggX // mutY	
+hybOABCDEFG	hybO // hybG // hybF // hybE // hybD // hybC // hybB // hybA	
+thrL	thrL	
+metE	metE	Regulation of metE by small regulatory RNA FnrS
+cbl	cbl	
+nanXY	nanY // nanX	
+flk	flk	
+lsrACDBFG-tam	tam // lsrG // lsrF // lsrB // lsrD // lsrC // lsrA	
+dinJ-yafQ	dinJ // yafQ	Regulation of dinJ-yafQ by DNA-binding transcriptional activator YgfI
+mrcB	mrcB	
+yggM	yggM	
+rpoN-hpf-ptsN-yhbJ-npr	rpoN // hpf // ptsN // rapZ // npr	
+tolC-ygiBC	ygiA // ygiC // ygiB // tolC	
+ydcA	ydcA	
+nrdG	nrdG	
+xanQ-guaD-ghxQ	ghxQ // guaD // xanQ	
+ybeQ	ybeQ	Regulation of ybeQ by DNA-binding transcriptional dual regulator LeuO // Regulation of ybeQ by DNA-binding transcriptional dual regulator Nac
+phoH	phoH	
+osmY	osmY	Regulation of osmY by ppGpp
+dgt	dgt	
+mngB	mngB	
+rydB	rydB	
+metY-yhbC-nusA-infB-rbfA-truB-rpsO-pnp	pnp // rpsO // truB // rbfA // infB // nusA // rimP // metY	
+yacH	yacH	Regulation of yacH by DNA-binding transcriptional dual regulator Rob
+mokC-hokC	mokC // hokC	
+narP	narP	
+eco	eco	
+citT	citT	
+ydaSTUVW-rzpR	rzpR // ydaW // ydaV // ydaU // ydaT // ydaS	Regulation of ydaSTUVW-rzpR by Rac prophage; DNA-binding transcriptional repressor RacR // Regulation of ydaSTUVW-rzpR by Rac prophage; DNA-binding transcriptional repressor RacR // Regulation of ydaSTUVW-rzpR by Rac prophage; DNA-binding transcriptional repressor RacR // Regulation of ydaSTUVW-rzpR by Rac prophage; DNA-binding transcriptional repressor RacR
+gadEF-mdtEF	gadF // mdtF // mdtE // gadE	Regulation of gadEF-mdtEF by ppGpp
+rpsU-dnaG-rpoD	rpsU // dnaG // rpoD	
+potFGHI	potF // potG // potH // potI	
+racC	racC	
+ybcK	ybcK	Regulation of ybcK by DNA-binding transcriptional dual regulator Nac
+cysJIH	cysH // cysI // cysJ	
+rfaDFCL	waaL // waaC // waaF // rfaD	
+pgpC-tadA	pgpC // tadA	
+fadE	fadE	
+yghJ	yghJ	Regulation of yghJ by DNA-binding transcriptional dual regulator/c-di-GMP phosphodiesterase PdeL
+sdiA	sdiA	
+purHD	purD // purH	
+yicN	yicN	
+yihN	yihN	
+gpp	gpp	
+yjjP	yjjP	
+ybiA	ybiA	
+idnR	idnR	
+csrA	csrA	
+kdtA-coaD	waaA // coaD	
+yjhU	yjhU	
+azuC	azuC	Regulation of azuC by small regulatory RNA FnrS
+alaC	alaC	
+zinT	zinT	
+yifK	yifK	
+lipA	lipA	
+yqeIJ	yqeJ // yqeI	
+ygiW	ygiW	
+gadW	gadW	
+ybeD-lipB	lipB // ybeD	
+deoABD	deoD // deoB // deoA	
+glxK	glxK	
+yeaD	yeaD	
+minCDE	minE // minD // minC	
+rpoH	rpoH	
+sraA	sraA	
+yffB-dapE-ypfN	ypfN // dapE // yffB	
+tgt-yajC	yajC // tgt	Regulation of tgt-yajC by ppGpp
+ydiNB-aroD	aroD // ydiB // ydiN	
+ppiA	ppiA	
+dhaR	dhaR	
+lafU	lafU	
+cysH	cysH	
+ftsAZ	ftsZ // ftsA	
+ybaN	ybaN	Regulation of ybaN by DNA-binding transcriptional repressor GlaR
+nlpD-rpoS	rpoS // nlpD	
+omrB	omrB	
+sokB	sokB	
+racR	racR	
+garR	garR	
+nikABCDER	nikE // nikR // nikD // nikC // nikB // nikA	
+katG	katG	Regulation of katG by small regulatory RNA SdhX
+yebC-ruvC	ruvC // yebC	
+ydiY	ydiY	Regulation of ydiY by DNA-binding transcriptional dual regulator Nac
+rpoE-rseABC	rseC // rseB // rseA // rpoE	
+ccmABCDEFGH	ccmH // ccmG // ccmF // ccmE // ccmD // ccmC // ccmB // ccmA	
+rihC	rihC	
+mrcA	mrcA	
+trkG	trkG	
+nimT	nimT	
+tamAB-ytfP	ytfP // tamB // tamA	
+yhjB	yhjB	
+gntXY	nfuA // yhgH	
+yciW	yciW	
+proBA	proB // proA	
+menFD-yfbB-menBCE	menE // menC // menB // menH // menD // menF	
+yqfA	trhA	
+damX-dam-rpe-gph-trpS	trpS // gph // rpe // dam // damX	
+fliAZY	tcyJ // fliZ // fliA	
+map-glnD-dapD	map // glnD // dapD	Regulation of map-glnD-dapD by DNA-binding transcriptional dual regulator SoxS // Regulation of map-glnD-dapD by DNA-binding transcriptional dual regulator Rob // Regulation of map-glnD-dapD by DNA-binding transcriptional dual regulator MarA
+yfeO	yfeO	
+ygeLK	ygeL // ygeK	
+yafV	yafV	
+yidHGF	yidH // yidG // yidF	
+yihQ	yihQ	
+modABC	modA // modB // modC	
+secMA-mutT	mutT // secA // secM	
+srmB	srmB	
+feoABC	feoC // feoA // feoB	
+ddpXABCDF	ddpF // ddpD // ddpC // ddpB // ddpA // ddpX	
+aroKB-damX-dam-rpe-gph-trpS	trpS // gph // rpe // dam // damX // aroB // aroK	
+ybcW	ybcW	
+ynfEFGH-dmsD	dmsD // ynfH // ynfG // ynfF // ynfE	
+fimZ	fimZ	
+acrD	acrD	
+cueR	cueR	
+recA	recA	
+ycjXF-tyrR	tyrR // ycjF // ycjX	
+safA-ydeO	ydeO // safA	
+dam-rpe-gph-trpS	trpS // gph // rpe // dam	
+yqfE	yqfE	
+ybfA	ybfA	
+melR	melR	
+ftsQ	ftsQ	
+hda	hda	
+yggN	yggN	
+nanS	nanS	
+sdiA	sdiA	
+yaiY	yaiY	Regulation of yaiY by DNA-binding transcriptional dual regulator Nac
+yigGF	yigG // yigF	
+djlA	djlA	
+bdcA	bdcA	
+pepA	pepA	
+ade	adeD	
+ydcH	ydcH	
+ygiM	ygiM	
+ybdJ	ybdJ	
+yfaXWVU	yfaU // yfaV // rhmD // yfaX	
+mlc	mlc	
+yebB	yebB	
+pdeA	pdeA	
+arpB	arpB	
+tyrR	tyrR	
+csgC	csgC	
+yidE	yidE	
+ydhF	ydhF	
+clpA	clpA	
+sapABCDF	sapA // sapB // sapC // sapD // sapF	
+rcsC	rcsC	
+cysZ	cysZ	
+mdtM-yjiN	mdtM // yjiN	Regulation of mdtM-yjiN by DNA-binding transcriptional dual regulator SlyA
+fumA	fumA	Regulation of fumA by small regulatory RNA RyhB
+hypBCDE	hypB // hypC // hypD // hypE	
+yfcJ	yfcJ	
+yaeR	yaeR	
+pgk-fbaA	fbaA // pgk	
+ymdAB-clsC	clsC // ymdB // ymdA	Regulation of ymdAB-clsC by FlhDC DNA-binding transcriptional dual regulator
+ligA-ypeB	ligA // ypeB	
+exuT	exuT	
+stfR-tfaR	tfaR // stfR	
+nfuA	nfuA	
+accA	accA	
+metA	metA	
+flgBCDEFGHIJ	flgB // flgC // flgD // flgE // flgF // flgG // flgH // flgI // flgJ	
+sdiA	sdiA	
+aspS	aspS	
+ydjO	ydjO	
+yibN-grxC-secB-gpsA	grxC // yibN // gpsA // secB	
+yegRZ	yegZ // yegR	
+gltS	gltS	
+sgrR-sroA-thiBPQ	sgrR // sroA // thiB // thiP // thiQ	
+ygeW	ygeW	Regulation of ygeW by CRP-cyclic-AMP DNA-binding transcriptional dual regulator
+endA	endA	
+mreBCD	mreD // mreC // mreB	
+ampH	ampH	
+crr	crr	
+tesB	tesB	
+yggN	yggN	
+gntR	gntR	
+cra	cra	
+argH	argH	Regulation of argH by ppGpp
+yncL	yncL	
+ppdAB-ygdB-ppdC-recC	ppdA // ppdB // ygdB // ppdC // recC	
+dnaN-recF	recF // dnaN	
+pldA	pldA	
+yihG	yihG	
+fdrA-ylbEF-ybcF	ybcF // ylbF // ylbE // fdrA	
+epd-pgk-fbaA	fbaA // pgk // epd	
+ulaABCDEF	ulaF // ulaE // ulaD // ulaC // ulaB // ulaA	
+bamA	bamA	
+puuDRCBE	puuE // puuB // puuC // puuR // puuD	
+rhlE	rhlE	Regulation of rhlE by DNA-binding transcriptional dual regulator CecR
+nirBDC-cysG	nirB // nirD // nirC // cysG	
+xapR	xapR	
+yfgJ	yfgJ	
+mdtL	mdtL	
+yqeC	yqeC	
+queC	queC	
+grxC	grxC	
+dhaM	dhaM	
+rrsA-ileT-alaT-rrlA-rrfA	rrfA // rrlA // alaT // ileT // rrsA	
+yjgR	yjgR	
+uspC	uspC	Regulation of uspC by DNA-binding transcriptional dual regulator Nac // Regulation of uspC by ppGpp
+murQP-yfeW	yfeW // murP // murQ	
+fliLMNOPQR	fliL // fliM // fliN // fliO // fliP // fliQ // fliR	
+dusB-fis	dusB // fis	
+mdtEF	mdtF // mdtE	
+yfcV	yfcV	
+insK	insK	
+xerD-dsbC-recJ	recJ // dsbC // xerD	
+sfmHF	sfmF // sfmH	
+pfkA	pfkA	
+yjeT	yjeT	
+ftsK	ftsK	
+uspF	uspF	
+bisC	bisC	Regulation of bisC by DNA-binding transcriptional dual regulator Nac
+ydhXUT	ydhX // ydhU // ydhT	
+sgrST-setA	sgrT // setA // sgrS	
+phoA-psiF	phoA // psiF	
+talA-tktB	tktB // talA	
+dsbC	dsbC	
+tpiA	tpiA	
+trmA	trmA	
+yrbL	yrbL	
+yaeQ-arfB-nlpE	nlpE // arfB // yaeQ	
+crcB	crcB	
+insN-2	insO	
+ynfD	ynfD	Regulation of ynfD by ppGpp
+alaE	alaE	
+nfrBA	nfrA // nfrB	
+ompG	ompG	
+lgt	lgt	
+murQP	murP // murQ	
+coaE-zapD-yacG	coaE // zapD // yacG	
+acnA	ymiC // acnA	
+yadV-htrE	htrE // yadV	
+gapA-yeaD	yeaD // gapA	
+gdhA	gdhA	
+guaC	guaC	
+ycjY	ycjY	
+ydiK	ydiK	
+yobF-cspC	yobF // cspC	
+lapAB	lapB // lapA	
+ychS	ychS	
+bamD	bamD	
+glgS	glgS	Regulation of glgS by ppGpp // Regulation of glgS by carbon storage regulator
+kduI	kduI	Regulation of kduI by DNA-binding transcriptional dual regulator Nac
+yidB	yidB	Regulation of yidB by DNA-binding transcriptional repressor GlaR
+rpoD	rpoD	
+cbrB	cbrB	Regulation of cbrB by DNA-binding transcriptional dual regulator Nac // Regulation of cbrB by DNA-binding transcriptional regulator CreB-phosphorylated
+yfdC	yfdC	Regulation of yfdC by DNA-binding transcriptional repressor GlaR
+hemF	hemF	
+aas-lplT	aas // lplT	
+yibD	waaH	
+pldB-yigL	yigL // pldB	
+hdeAB-yhiD	yhiD // hdeB // hdeA	Regulation of hdeAB-yhiD by ppGpp
+sdsN	sdsN	
+ygcNOP	ygcP // ygcO // ygcN	
+creABCD	creA // creB // creC // creD	
+intZ	intZ	
+bamC	bamC	
+rpmE	rpmE	Regulation of rpmE by 50S ribosomal subunit protein L31
+gntT	gntT	
+dcd	dcd	
+slyB	slyB	
+napFDAGHBC	napC // napB // napH // napG // napA // napD // napF	
+ybaA	ybaA	Regulation of ybaA by ppGpp
+wzbc	wza // wzc // wzb	
+lacYA	lacA // lacY	
+phoQ	phoQ	
+ygeG	ygeG	Regulation of ygeG by DNA-binding transcriptional dual regulator Nac
+thrW	thrW	
+iraP	iraP	
+kdsC-lptCAB	lptB // lptA // lptC // kdsC	
+ansP	ansP	
+yjeFE-amiB-mutL-miaA-hfq-hflXKC	hflC // hflK // hflX // hfq // miaA // mutL // amiB // tsaE // nnr	
+glnALG	glnG // glnL // glnA	
+rrsE-gltV-rrlE-rrfE	rrfE // rrlE // gltV // rrsE	
+sraG	sraG	
+dacB	dacB	
+chpSB	chpB // chpS	
+argF	argF	
+fklB	fklB	Regulation of fklB by DNA-binding transcriptional dual regulator Nac
+ygeV	ygeV	
+ydbH-ynbE-ydbL	ydbL // ynbE // ydbH	
+yfdRST	yfdT // yfdS // yfdR	
+dnaX	dnaX	
+yjdM	yjdM	
+torYZ	torZ // torY	
+yacL	yacL	Regulation of yacL by small regulatory RNA CyaR
+tfaS	tfaS	
+groL	groL	
+lacZYA	lacA // lacY // lacZ	
+insH4	insH4	
+yicC	yicC	
+bepA-yfgD	yfgD // bepA	
+mdtUJI	mdtU // mdtJ // mdtI	
+ychJ	ychJ	
+nuoABCEFGHIJKLMN	nuoN // nuoM // nuoL // nuoK // nuoJ // nuoI // nuoH // nuoG // nuoF // nuoE // nuoC // nuoB // nuoA	Regulation of nuoABCEFGHIJKLMN by small regulatory RNA RyhB
+ybjG	ybjG	
+tldE	tldE	
+paaJ	paaJ	
+ynfN	ynfN	
+yfbM	yfbM	
+mnmG-rsmG	mnmG // rsmG	
+nagA	nagA	
+fimB	fimB	Regulation of fimB by small regulatory RNA MicA
+can	can	
+creD	creD	
+hisLGDCBHAFI	hisL // hisG // hisD // hisC // hisB // hisH // hisA // hisF // hisI	
+chaC	chaC	
+cbpAM	cbpM // cbpA	Regulation of cbpAM by ppGpp
+galET	galT // galE	
+dapA-nlpB	bamC // dapA	
+yghF	yghF	
+mog	mog	
+ytfL	paeA	
+feaR	feaR	
+amyA	amyA	
+yacG	yacG	
+yaaX	yaaX	
+zntA	zntA	
+gpt	gpt	
+cdd	cdd	
+yghT	yghT	Regulation of yghT by DNA-binding transcriptional dual regulator Nac
+ftsQAZ	ftsQ // ftsA // ftsZ	
+rlmD	rlmD	
+yjbEFGH	yjbH // yjbG // yjbF // yjbE	
+yffQR	yffR // yffQ	
+selC	selC	
+add	add	
+mutY-yggX	yggX // mutY	
+ygaM	ygaM	
+ghrB	ghrB	
+ddlA	ddlA	Regulation of ddlA by DNA-binding transcriptional dual regulator Nac
+gmk	gmk	
+pepT	pepT	
+ycjXF	ycjF // ycjX	
+gltA	gltA	
+gadC	gadC	Regulation of gadC by ppGpp
+yciI	yciI	
+ydgK-rsxABCDGE-nth	nth // rsxE // rsxG // rsxD // rsxC // rsxB // rsxA // ydgK	
+yajD	yajD	Regulation of yajD by DNA-binding transcriptional dual regulator Nac
+paaXY	paaY // paaX	
+msyB	msyB	Regulation of msyB by ppGpp
+ribE-nusB-thiL-pgpA	pgpA // thiL // nusB // ribE	
+micL	micL	
+yahDEFG	yahG // yahF // yahE // yahD	
+eno	eno	
+abgABT-ogt	abgA // abgB // abgT // ogt	
+nagC	nagC	
+aroL-yaiA-aroM	aroL // yaiA // aroM	
+lacZYA	lacA // lacY // lacZ	
+yfdE	yfdE	Regulation of yfdE by DNA-binding transcriptional dual regulator Nac
+dnaAN-recF	recF // dnaN // dnaA	
+allR	allR	
+dsbD-yjdC	dsbD // yjdC	
+alaA	alaA	
+yadE	yadE	
+ygiZ	ygiZ	
+csdAE	csdE // csdA	
+pitB	pitB	
+yjbJ	yjbJ	Regulation of yjbJ by ppGpp // Regulation of yjbJ by DNA-binding transcriptional regulator FliZ
+yfaL	yfaL	
+hyaABCDEF	hyaA // hyaB // hyaC // hyaD // hyaE // hyaF	
+ygiD	ygiD	Regulation of ygiD by DNA-binding transcriptional activator YhaJ
+rpoS	rpoS	
+glmUS	glmS // glmU	Regulation of glmUS by small regulatory RNA GlmZ
+rdlA	rdlA	
+rpsT	rpsT	
+dgkA	dgkA	
+acnA	acnA	
+ydfV	ydfV	
+evgAS	evgS // evgA	
+kup	kup	
+yciK-btuR	yciK // btuR	
+yajG	yajG	
+dgcF	dgcF	
+pdeG	pdeG	Regulation of pdeG by DNA-binding transcriptional repressor GlaR
+clsA-yciU	yciU // clsA	
+yciGFE	yciE // yciF // yciG	
+stpA	stpA	
+deoCABD	deoC // deoA // deoB // deoD	
+insL1	insL1	
+proVWX	proX // proW // proV	
+udk-dcd	dcd // udk	Regulation of udk-dcd by RbsR-D-ribose
+gcvR	gcvR	
+yiaB	yiaB	
+yajO	yajO	Regulation of yajO by ppGpp
+exbBD	exbD // exbB	
+yjeM	yjeM	
+tsaD	tsaD	
+tatABC	tatC // tatB // tatA	
+ampDE	ampD // ampE	
+rfaDFCL	waaL // waaC // waaF // rfaD	
+dppABCDF	dppF // dppD // dppC // dppB // dppA	Regulation of dppABCDF by small regulatory RNA GcvB
+rrsE-gltV-rrlE-rrfE	rrfE // rrlE // gltV // rrsE	
+yceI	yceI	
+yheO-tusDCB	tusB // tusC // tusD // yheO	
+nepI	nepI	
+yfbU-hxpA	yfbU // hxpA	
+can	can	
+pncC	pncC	
+emrE	emrE	
+recET-ralR-rcbA-xisR-intR	recE // recT // ralR // rcbA // xisR // intR	
+rapA-rluA	rluA // rapA	
+ynfP	ynfP	
+yfjM	yfjM	
+yciG	yciG	
+tpke70	tpke70	
+acs-yjcHG	actP // yjcH // acs	
+tppB	dtpA	
+yjaZ	yjaZ	
+ygbF	cas2	
+allA	allA	
+mutM	mutM	
+mhpT	mhpT	
+yfbN	yfbN	
+kdpDE	kdpE // kdpD	
+zraSR	zraR // zraS	
+aroL-yaiA-aroM	aroM // yaiA // aroL	
+ybeD	ybeD	
+paoABCD	paoA // paoB // paoC // paoD	
+gadAX	gadX // gadA	
+mglAC	mglC // mglA	
+rpmH-rnpA	rnpA // rpmH	
+mraZW-ftsLI-murEF-mraY-murD-ftsW-murGC-ddlB-ftsQAZ-lpxC	lpxC // ftsZ // ftsA // ftsQ // ddlB // murC // murG // ftsW // murD // mraY // murF // murE // ftsI // ftsL // rsmH // mraZ	
+yfdONMLK	yfdO // yfdN // yfdM // yfdL // yfdK	Regulation of yfdONMLK by DNA-binding transcriptional activator YgfI // Regulation of yfdONMLK by DNA-binding transcriptional activator YgfI // Regulation of yfdONMLK by DNA-binding transcriptional activator YgfI // Regulation of yfdONMLK by DNA-binding transcriptional activator YgfI
+osmE	osmE	
+dcuD	dcuD	
+yiaWV	yiaW // yiaV	Regulation of yiaWV by DNA-binding transcriptional activator YiaU
+ldrB	ldrB	
+yjbQR	yjbR // yjbQ	
+ymgGD	ymgG // ymgD	
+yajC-secDF	secF // secD // yajC	
+yfcG	yfcG	
+ygbE	ygbE	
+yijO	yijO	Regulation of yijO by DNA-binding transcriptional dual regulator Nac
+istR-2	istR	
+insA1B1AB1	insA1 // insB1 // insAB1	
+yfcD	yfcD	
+pykA	pykA	
+appY	appY	
+lapAB	lapB // lapA	
+shoB	shoB	Regulation of shoB by small regulatory RNA OhsC
+lpxC	lpxC	
+dgcZ	dgcZ	Regulation of dgcZ by carbon storage regulator // Regulation of dgcZ by carbon storage regulator
+artPIQM	artM // artQ // artI // artP	
+lpxD	lpxD	
+fhuF	fhuF	
+yaiP	yaiP	
+tyrB	tyrB	
+yddM	yddM	
+yhiS	yhiS	
+emrD	emrD	
+allDC-ylbA	allE // allC // allD	
+focA-pflB	pflB // focA	
+hemL	hemL	
+aceBAK	aceB // aceA // aceK	
+fdoGHI-fdhE	fdhE // fdoI // fdoH // fdoG	Regulation of fdoGHI-fdhE by small regulatory RNA SdhX
+yfeH	yfeH	
+secE-nusG	secE // nusG	
+cbpA-cbpM	cbpM // cbpA	
+alaA-yfbR	yfbR // alaA	
+fryBC-ypdFE-fryA	fryB // fryC // ypdF // ypdE // fryA	
+rrsD-ileU-alaU-rrlD-rrfD-thrV-rrfF	rrfF // thrV // rrfD // rrlD // alaU // ileU // rrsD	
+mdtNOP	mdtN // mdtO // mdtP	
+yibD	waaH	Regulation of yibD by DNA-binding transcriptional dual regulator BasR-phosphorylated
+dgt	dgt	
+yciSM-pyrF-yciH	yciH // pyrF // lapB // lapA	
+rhsA-yibA	yibA // rhsA	
+lapAB	lapB // lapA	
+glk	glk	
+sra	sra	
+ycgM	ycgM	
+hepA	rapA	
+yfjXY-ypjJ-yfjZ-ypjF	ypjF // yfjZ // ypjJ // yfjY // yfjX	
+dnaAN-recF	recF // dnaN // dnaA	
+glnQ	glnQ	
+yibIH	yibI // yibH	
+yntF-ydfK	ynfT // ydfK	
+yjjJ	yjjJ	
+kgtP	kgtP	Regulation of kgtP by small regulatory RNA GcvB // Regulation of kgtP by DNA-binding transcriptional dual regulator ArcA-phosphorylated
+yeaM	nimR	
+acpH	acpH	
+sroA	sroA	
+rssB	rssB	Regulation of rssB by ppGpp
+yaaA	yaaA	
+pflB	pflB	
+pfkA	pfkA	
+atpIBEFHAGDC	atpC // atpD // atpG // atpA // atpH // atpF // atpE // atpB // atpI	
+barA	barA	
+eaeH-insE1EF1F1	insF1 // insE1 // insEF1 // eaeH	
+hcaEFCBD	hcaD // hcaB // hcaC // hcaF // hcaE	
+kefFC	kefC // kefF	
+gadXW	gadW // gadX	Regulation of gadXW by small regulatory RNA GadY
+ydbK-ompN	ompN // ydbK	
+ykfA-yafZ	ykfA // yafZ	
+rluE-nudJ	rluE // nudJ	
+ycjD	ycjD	
+yfgF	pdeF	
+rplT-pheM	pheM // rplT	
+dnaN-recF	recF // dnaN	
+folC-dedD	folC // dedD	
+pstCAB-phoU	phoU // pstB // pstA // pstC	
+mak	mak	
+yjaG	yjaG	
+yhjA	ccp	
+glvCBG-ysdC	glvC // glvB // glvG	
+yfiE	yfiE	
+ygaQ	ygaQ	
+actP	actP	
+yiiF	yiiF	
+lysU	lysU	
+flgAMN	flgN // flgM // flgA	
+nhaB	nhaB	
+ampH	ampH	
+xanP	xanP	
+ybfHG	ybfG	
+ydeO	ydeO	
+rtcBA	rtcA // rtcB	
+tdcBCDEFG	tdcG // tdcF // tdcE // tdcD // tdcC // tdcB	
+ydeM	ydeM	
+crp	crp	
+creABC	creC // creB // creA	
+ymgE	ymgE	
+ykgH	ykgH	
+ydcR	ydcR	
+yeaY	yeaY	
+csiE	csiE	
+btuCED	btuD // btuE // btuC	
+speF-potE	speFL // potE // speF	Regulation of speF-potE by OmpR dimer
+yjjB-dnaTC-yjjA	yjjA // dnaC // dnaT // yjjB	
+dnaN-recF	recF // dnaN	
+yrdD-rimN-aroE-yrdB	yrdB // aroE // tsaC // yrdD	
+rplJL-rpoBC	rplJ // rplL // rpoB // rpoC	
+sucAB	sucB // sucA	
+yecF	yecF	
+amiC	amiC	
+chaBC	chaB // chaC	Regulation of chaBC by DNA-binding transcriptional repressor GlaR
+yjbFGH	yjbH // yjbG // yjbF	
+yeaR-yoaG	yeaR // yoaG	
+shiA	shiA	Regulation of shiA by small regulatory RNA RyhB
+yejG	yejG	
+xapR	xapR	
+uxaB	uxaB	
+ynfEFGH-dmsD	dmsD // ynfH // ynfG // ynfF // ynfE	
+nagC	nagC	
+ltaE-ybjT	ybjT // ltaE	
+secB-gpsA	secB // gpsA	
+yhjE	yhjE	Regulation of yhjE by DNA-binding transcriptional dual regulator ArcA-phosphorylated // Regulation of yhjE by DNA-binding transcriptional dual regulator Nac
+frdABCD	frdD // frdC // frdB // frdA	
+ypjD	ypjD	
+ymfJ	ymfJ	
+puuAP	ymjE // puuP // puuA	
+iraM	iraM	
+lsrK	lsrK	
+pepB	pepB	
+ilvLXG_1G_2MEDA	ilvX // ilvG // ilvA // ilvD // ilvE // ilvM // ilvL	
+yfcUSRQPO	yfcU // yfcS // yfcR // yfcQ // yfcP // yfcO	
+nac	nac	
+hypABCDE-fhlA	fhlA // hypE // hypD // hypC // hypB // hypA	
+thrS-infC	infC // thrS	
+ftsLI-murEF-mraY-murD-ftsW-murGC-ddlB-ftsQAZ-lpxC	lpxC // ftsZ // ftsA // ftsQ // ddlB // murC // murG // ftsW // murD // mraY // murF // murE // ftsI // ftsL	
+cyaA	cyaA	
+rimJ	rimJ	
+yagAB-insX	yagA // yagB // insX	Regulation of yagAB-insX by XynR-D-xylonate
+serA	serA	
+fliFGHIJK	fliF // fliG // fliH // fliI // fliJ // fliK	
+xylAB	xylB // xylA	
+bglG	bglG	
+glnB	glnB	
+mltD	mltD	Regulation of mltD by DNA-binding transcriptional dual regulator Nac
+cspB	cspB	
+yfdX	yfdE // yfdV // oxc // frc // yfdX	
+arnBCADTEF	arnF // arnE // arnT // arnD // arnA // arnC // arnB	Regulation of arnBCADTEF by DNA-binding transcriptional dual regulator BasR-phosphorylated
+insH-5	insH5	
+ygiH	plsY	
+cfa	cfa	Regulation of cfa by small regulatory RNA CpxQ // Regulation of cfa by small regulatory RNA RydC // Regulation of cfa by small regulatory RNA ArrS
+yfjH	yfjH	
+yedD	yedD	
+ompX	ompX	Regulation of ompX by small regulatory RNA MicA // Regulation of ompX by small regulatory RNA CyaR
+fieF	fieF	
+yfeYX	yfeX // yfeY	
+pdeR	pdeR	
+elaA	elaA	
+alpA	alpA	
+fre	fre	
+rsmD-yhhL	yhhL // rsmD	
+uspB	uspB	
+mntH	mntH	
+mutL-miaA-hfq-hflXKC	hflC // hflK // hflX // hfq // miaA // mutL	
+bssS	bssS	
+dauA	dauA	
+stfE-tfaE	stfE // tfaE	
+caiCDE	caiE // caiD // caiC	
+mcbR	mcbR	Regulation of mcbR by DNA-binding transcriptional repressor YgiV
+radD	radD	
+acnA	acnA	Regulation of acnA by ppGpp
+ves	ves	
+yagML	yagM // yagL	
+puuP	ymjE // puuP	
+ynbABCD	ynbD // ynbC // ynbB // ynbA	
+ydaL	smrA	
+gpmM-envC-yibQ	yibQ // envC // gpmM	
+bcsEFG	bcsG // bcsF // bcsE	
+rpoE-rseABC	rseC // rseB // rseA // rpoE	
+yciVOQ	yciQ // yciO // rnm	
+ivy	ivy	Regulation of ivy by DNA-binding transcriptional dual regulator Nac
+cobUST	cobT // cobS // cobU	
+edd-eda	eda // edd	
+pflDC	pflD // pflC	
+gapA	gapA	
+poxB	poxB	Regulation of poxB by ppGpp
+yfdF	yfdF	
+eptB	eptB	Regulation of eptB by small regulatory RNA ArcZ // Regulation of eptB by small regulatory RNA MgrR
+yijE	yijE	
+gpmM-envC-yibQ	yibQ // envC // gpmM	
+dinI	dinI	
+hcp-hcr	hcr // hcp	
+hypF	hypF	
+osmB	osmB	
+yjjQ-bglJ	bglJ // yjjQ	
+yrbG-kdsDC-lptCAB	lptB // lptA // lptC // kdsC // kdsD // yrbG	
+argT-hisJQMP	hisP // hisM // hisQ // hisJ // argT	
+ypfG	ypfG	
+aaeR	aaeR	
+yphCB	yphC // yphB	
+gcd	gcd	
+rstAB	rstB // rstA	
+pdeL	pdeL	
+pptA	pptA	
+yicR-rpmBG-mutM	mutM // rpmG // rpmB // yicR	
+yggE	yggE	
+speAB	speB // speA	
+ygdI	ygdI	
+yegE	dgcE	
+acrR	acrR	
+yadV-htrE	htrE // yadV	
+rpsMKD-rpoA-rplQ	rplQ // rpoA // rpsD // rpsK // rpsM	
+rpmH-rnpA	rnpA // rpmH	
+mqo	mqo	Regulation of mqo by DNA-binding transcriptional dual regulator ArcA-phosphorylated
+mnt-btuF-yadS	mtn // btuF // yadS	
+ldtF	dpaA	Regulation of ldtF by DNA-binding transcriptional dual regulator Nac
+dcrB	dcrB	
+sugE	gdx	Regulation of sugE by guanidinium // Regulation of sugE by guanidinium
+yegJ	yegJ	
+yhjX	yhjX	
+envR	envR	
+gspCDEFGHIJKLMO	gspO // gspM // gspL // gspK // gspJ // gspI // gspH // gspG // gspF // gspE // gspD // gspC	
+purU	purU	Regulation of purU by small regulatory RNA GcvB
+icdC	icdC	
+nhoA	nhoA	
+pfkA	pfkA	
+yfbL	yfbL	Regulation of yfbL by DNA-binding transcriptional dual regulator Nac
+tpx	tpx	
+rfe-wzzE-wecBC-rffGHC-wecE-wzxE-wecF-wzyE-rffM	rffM // wzyE // wecF // wzxE // wecE // rffC // rffH // rffG // wecC // wecB // wzzE // rfe	
+ymiA-yciX	yciX // ymiA	
+yihLM	yihM // yihL	
+ydbK	ydbK	
+htrL	htrL	
+bluR	bluR	
+yfhL	yfhL	
+mscS	mscS	
+rrfG	rrfG	
+recF	recF	
+dadAX	dadA // dadX	
+accA	accA	Regulation of accA by acetyl-CoA carboxyltransferase
+glcBA	glcA // glcB	
+acs-yjcHG	actP // yjcH // acs	
+ydhP	ydhP	
+galU	galU	
+srlR	srlR	
+rzoR	rzoR	
+mokB	mokB	Regulation of mokB by CRP-cyclic-AMP DNA-binding transcriptional dual regulator
+mdtH	mdtH	
+clpX-lon	lon // clpX	
+acrAB	acrA // acrB	
+yafNOP	yafP // yafO // yafN	
+moaABCDE	moaA // moaB // moaC // moaD // moaE	
+dusC	dusC	
+lptAB	lptB // lptA	
+yhdWXYZ	yhdZ // yhdY // yhdX // yhdW	
+prfB-lysS	lysS // prfB	Regulation of prfB-lysS by ppGpp
+micC	micC	
+yiaD	yiaD	Regulation of yiaD by DNA-binding transcriptional dual regulator Nac
+rhsB	rhsB	
+dam-rpe-gph-trpS	trpS // gph // rpe // dam	
+fabHDG	fabH // fabD // fabG	
+azoR	azoR	
+wza-wzb-wzc-wcaAB	wcaB // wcaA // wzc // wzb // wza	
+yggR	yggR	
+glrR-glnB	glnB // glrR	
+yihUTS	yihU // yihT // yihS	
+yaiZ	yaiZ	
+yggN	yggN	
+garPLRK-rnpB	rnpB // garK // garR // garL // garP	
+hyfABCDEFGHIJR-focB	focB // hyfR // hyfJ // hyfI // hyfH // hyfG // hyfF // hyfE // hyfD // hyfC // hyfB // hyfA	
+atoSC	atoC // atoS	
+ypfJ-tmcA	ypfJ // tmcA	
+cedA	cedA	
+alsBACE	alsE // alsC // alsA // alsB	
+eno	eno	
+ydcO	ydcO	Regulation of ydcO by DNA-binding transcriptional dual regulator SutR
+zipA	zipA	
+nudB-yebC-ruvC	ruvC // yebC // nudB	
+gspAB	gspB // gspA	
+ychE	ychE	
+yfaVU	yfaV // yfaU	
+yncK	yncK	
+pgk	pgk	
+valS	valS	
+yfbP	yfbP	
+pqiABC	pqiC // pqiB // pqiA	
+dxr-uppS-cdsA	cdsA // ispU // dxr	
+rfbBDACX	rfbX // rfbC // rfbA // rfbD // rfbB	
+yfaH	yfaH	
+rluC	rluC	Regulation of rluC by ppGpp
+leuO	leuO	
+nhaAR	nhaR // nhaA	
+ggt	ggt	Regulation of ggt by ppGpp
+infC-rpmI-rplT	rplT // rpmI // infC	
+def-fmt	def // fmt	
+hlyE	hlyE	
+cbrA	cbrA	Regulation of cbrA by DNA-binding transcriptional regulator CreB-phosphorylated
+ybdD	ybdD	
+mnmE	mnmE	
+yhfXW-php-yhfUTS	yhfX // yhfW // php // yhfU // yhfT // yhfS	
+sthA	sthA	
+yzfA	yzfA	
+yigI	yigI	
+yfcE	yfcE	
+csrA	csrA	Regulation of csrA by ppGpp
+ymgC	ymgC	
+ftsQAZ	ftsQ // ftsA // ftsZ	
+rapA	rapA	
+ybjN	ybjN	
+preTA	preA // preT	
+plsB	plsB	
+rirA-rfaQGPSBIJYZ-waaU	rirA // waaU // waaZ // waaY // waaJ // waaO // waaB // waaS // waaP // waaG // waaQ	
+ndk	ndk	Regulation of ndk by DNA-binding transcriptional dual regulator ArcA-phosphorylated
+chaA	chaA	Regulation of chaA by DNA-binding transcriptional repressor GlaR
+yccR	sxy	
+yiaA	yiaA	
+yhhI	yhhI	
+ynaE	ynaE	Regulation of ynaE by DNA-binding transcriptional repressor GlaR
+symE	symE	Regulation of symE by small regulatory RNA antitoxin SymR
+yjeFE-amiB-mutL-miaA-hfq-hflXKC	tsaE // nnr // amiB // mutL // miaA // hfq // hflX // hflK // hflC	
+insJ	insJ	
+ymjC-mpaA	ymjC // mpaA	
+rsd	rsd	
+narZYWV	narV // narW // narY // narZ	
+hupA	hupA	
+proVWX	proX // proW // proV	
+yhiL	yhiL	
+rcsF-trmO	rcsF // trmO	
+uvrD	uvrD	
+glyQS	glyS // glyQ	
+torS	torS	
+hchA	hchA	
+ydeE	ydeE	Regulation of ydeE by small regulatory RNA GcvB // Regulation of ydeE by DNA-binding transcriptional dual regulator Nac
+rpsI	rpsI	
+yhhY	yhhY	
+helD	helD	
+cbrBC	cbrC // cbrB	
+gpmA	gpmA	Regulation of gpmA by small regulatory RNA FnrS
+bhsA	bhsA	
+eutBCLKR	eutB // eutC // eutL // eutK // eutR	
+cstA	cstA	
+yfbS	yfbS	
+mreB	mreB	
+rmuC	rmuC	
+yfdPQ	yfdQ // yfdP	Regulation of yfdPQ by DNA-binding transcriptional activator YgfI // Regulation of yfdPQ by DNA-binding transcriptional activator YgfI // Regulation of yfdPQ by DNA-binding transcriptional activator YgfI // Regulation of yfdPQ by DNA-binding transcriptional activator YgfI
+fpr	fpr	
+yfbK	yfbK	Regulation of yfbK by DNA-binding transcriptional dual regulator Nac
+ycfJ	ycfJ	
+ytfK	ytfK	
+rrlH-rrfH	rrfH // rrlH	
+degP	degP	
+yeiH	yeiH	Regulation of yeiH by DNA-binding transcriptional dual regulator Nac
+pagP	pagP	
+folX-yfcH	yfcH // folX	Regulation of folX-yfcH by small regulatory RNA FnrS
+nadC	nadC	
+hofMNOP	hofM // hofN // hofO // hofP	
+polB	polB	
+ydgJ	ydgJ	
+insC2D2CD2	insC2 // insD2 // insCD2	
+yjiT	yjiT	
+yaaJ	yaaJ	
+rnd	rnd	
+ycgH	ycgH	
+treBC	treC // treB	
+bglH-yieLK	bglH // yieL // yieK	
+yibJ	yibJ	
+otsBA	otsA // otsB	Regulation of otsBA by ppGpp
+waaA	waaA	
+hupB	hupB	
+yicH	yicH	
+dksA-yadB	gluQ // dksA	
+ycdT	dgcT	Regulation of ycdT by carbon storage regulator // Regulation of ycdT by carbon storage regulator
+ysaA	ysaA	
+lolCDE	lolE // lolD // lolC	
+yffO-yffP	yffP // yffO	
+ileS-lspA-fkpB-ispH	ispH // fkpB // lspA // ileS	
+amiA-hemF	hemF // amiA	
+arsRBC	arsR // arsB // arsC	
+lpxP	lpxP	
+dcp	dcp	Regulation of dcp by DNA-binding transcriptional dual regulator Nac
+eutHA	eutH // eutA	Regulation of eutHA by antitoxin/DNA-binding transcriptional repressor HipB // Regulation of eutHA by antitoxin/DNA-binding transcriptional repressor HipB
+rlmJ	rlmJ	
+ilvIH	ilvH // ilvI	
+ttdR	ttdR	
+otsBA	otsB // otsA	
+uspE	uspE	
+efeU	efeU	
+ohsC	ohsC	
+glpTQ	glpQ // glpT	
+pfkB	pfkB	
+tsaE-amiB-mutL-miaA-hfq-hflXKC	hflC // hflK // hflX // hfq // miaA // mutL // amiB // tsaE	
+rluB	rluB	
+yehDCBA	yehD // yehC // yehB // yehA	
+pcnB-folk	folK // pcnB	
+psuKG	psuK // psuG	Regulation of psuKG by CRP-cyclic-AMP DNA-binding transcriptional dual regulator
+hslVU	hslU // hslV	
+csgDEFG	csgG // csgF // csgE // csgD	
+hrpB	hrpB	
+rydC	rydC	
+hslO	hslO	
+envY-ompT	ompT // envY	
+rihB	rihB	
+metC	metC	
+yfdY	yfdY	
+psd-mscM	mscM // psd	
+ppiC	ppiC	
+metBL	metL // metB	
+napFDAGHBC-ccmABCDEFGH	ccmH // ccmG // ccmF // ccmE // ccmD // ccmC // ccmB // ccmA // napC // napB // napH // napG // napA // napD // napF	
+yiaKLMNO-lyx-sgbHUE	yiaM // sgbE // sgbU // sgbH // lyxK // yiaO // yiaN // yiaL // yiaK	
+paaABCDEFGHIJK	paaK // paaJ // paaI // paaH // paaG // paaF // paaE // paaD // paaC // paaB // paaA	Regulation of paaABCDEFGHIJK by DNA-binding transcriptional activator YgfI
+ydeI	ydeI	
+fucR	fucR	
+yeaL	yeaL	
+bhsA	bhsA	
+zraP	zraP	
+rrsD-ileU-alaU-rrlD-rrfD-thrV-rrfF	rrfF // thrV // rrfD // rrlD // alaU // ileU // rrsD	
+oxc	oxc	
+clpS	clpS	
+ycgL	ycgL	
+yeiR-lpxT	lpxT // yeiR	
+kilR-ydaE	kilR // ydaE	
+ynjE	ynjE	
+yfcF	yfcF	
+poxB	poxB	Regulation of poxB by ppGpp
+hcaR	hcaR	Regulation of hcaR by e14 prophage; small regulatory RNA C0293
+carB	carB	
+mdtABCD-baeSR	baeR // baeS // mdtD // mdtC // mdtB // mdtA	
+yfgO	yfgO	
+lgt-thyA	thyA // lgt	
+roxA	roxA	
+ymdE-ycdU	ycdU // ymdE	
+nohA-stfQ-tfaQ	tfaQ // stfQ // nohA	
+sokC	sokC	
+emrKY	emrY // emrK	
+ascG	ascG	
+cfa	cfa	
+queA	queA	
+yibG	yibG	
+atpBEFHAGDC	atpC // atpD // atpG // atpA // atpH // atpF // atpE // atpB	
+mdtEF	mdtF // mdtE	
+rpnA	rpnA	
+adeQ	adeQ	
+msrB	msrB	Regulation of msrB by small regulatory RNA RyhB // Regulation of msrB by small regulatory RNA RyhB
+trpR	trpR	
+nadB	nadB	
+dcuR	dcuR	
+yibL	yibL	
+ybeZYX-lnt	lnt // ybeX // ybeY // ybeZ	
+metG	metG	
+glgAP	glgP // glgA	
+talA-tktB	tktB // talA	Regulation of talA-tktB by RNA polymerase-binding transcription factor DksA // Regulation of talA-tktB by ppGpp
+ypeC	ypeC	
+soxR	soxR	Regulation of soxR by putrescine
+yfiC	yfiC	
+yhdJ	yhdJ	
+ileS-lspA-fkpB-ispH	ispH // fkpB // lspA // ileS	
+pliG	pliG	Regulation of pliG by Zur-Zn2+ DNA-binding transcriptional repressor
+omrA	omrA	
+cvrA	cvrA	
+gatR_2	gatR	
+sdsR-pphA	sdsR // pphA	
+insH-2	insH2	
+ldcA	ldcA	
+fabI	fabI	
+gadBC	gadC // gadB	Regulation of gadBC by ppGpp
+yceD-rpmF	rpmF // yceD	
+yhhW	yhhW	Regulation of yhhW by DNA-binding transcriptional activator YhaJ
+yabPQ	yabQ // yabP	
+chbBCARFG	chbG // chbF // chbR // chbA // chbC // chbB	
+yrdA	yrdA	
+yebQ	yebQ	Regulation of yebQ by DNA-binding transcriptional dual regulator Nac
+ycdZ	ycdZ	
+fes-ybdZ-entF-fepE	ybdZ // fes // entF // fepE	
+dgoRKADT	dgoR // dgoK // dgoA // dgoD // dgoT	
+yejABEF	yejF // yejE // yejB // yejA	
+trxC	trxC	
+ssrS	ssrS	
+rsmH-ftsLI-murEF-mraY-murD-ftsW-murGC-ddlB-ftsQAZ-lpxC	lpxC // ftsZ // ftsA // ftsQ // ddlB // murC // murG // ftsW // murD // mraY // murF // murE // ftsI // ftsL // rsmH	
+fepDGC	fepC // fepG // fepD	
+gor	gor	
+moaBCDE	moaE // moaD // moaC // moaB	
+ychO	ychO	
+hslR-hslO	hslO // hslR	
+yihUTS	yihS // yihT // yihU	
+polA	polA	
+elfDCG-ycbUVF	ycbF // ycbV // ycbU // elfG // elfC // elfD	
+ymfH-xisE-intE	ymfH // xisE // intE	
+codBA	codB // codA	
+mlc-ynfK	bidA // mlc	
+caiTABCDE	caiE // caiD // caiC // caiB // caiA // caiT	
+aslA	aslA	
+mazEFG	mazG // mazF // mazE	
+yehLMPQ	yehQ // yehP // yehM // yehL	
+elaB	elaB	Regulation of elaB by ppGpp
+prmB-aroC-mepA-yfcA-epmC-yfcL	prmB // aroC // mepA // yfcA // epmC // yfcL	
+dnaQ	dnaQ	
+yhjD	yhjD	Regulation of yhjD by DNA-binding transcriptional dual regulator Nac
+yceK	yceK	
+puuCBE	puuE // puuB // puuC	
+tktB	tktB	
+glnHPQ	glnQ // glnP // glnH	
+sdaA	sdaA	
+ybgTE	ybgE // cydX	
+frc	frc	
+rlmE-ftsH	ftsH // rlmE	
+cspI	cspI	
+glpGR	glpR // glpG	
+yhjV	yhjV	
+yfiF	yfiF	Regulation of yfiF by DNA-binding transcriptional dual regulator ArcA-phosphorylated
+dnaN-recF	recF // dnaN	
+trkA	trkA	
+dapB	dapB	
+nhaAR	nhaR // nhaA	
+mdoGH	opgH // opgG	
+usg-truA-dedA	dedA // truA // usg	
+hypF	hypF	
+isrC	isrC	
+sixA	sixA	
+cueO	cueO	
+yibN	yibN	
+ssrS	ssrS	
+acnB	acnB	Regulation of acnB by small regulatory RNA RyhB // Regulation of acnB by AcnB
+yrhB	yrhB	Regulation of yrhB by DNA-binding transcriptional dual regulator Nac
+glnS	glnS	
+yegI	yegI	
+ftsK	ftsK	
+ytfB	ytfB	
+yedA	yedA	
+aspT	aspT	
+intS	intS	
+ycgX	ycgX	Regulation of ycgX by DNA-binding transcriptional dual regulator Nac
+topA	topA	
+rsuA	rsuA	
+btsSR	btsS // btsR	
+ygbI	ygbI	
+slyB	slyB	
+ycjW	ycjW	
+ilvA	ilvA	
+accD	accD	Regulation of accD by acetyl-CoA carboxyltransferase
+ycgY	ycgY	
+rttR	rttR	
+yccFS	yccF // yccS	
+ymfTLMNR-beeE-jayE-ymfQ-ycfK-tfaP	tfaP // ycfK // ymfQ // jayE // beeE // ymfR // ymfN // ymfM // ymfL // ymfT	
+cydAB	cydB // cydA	
+yjjY	yjjY	
+ygfM-xdhD	xdhD // ygfM	
+glnD	glnD	
+wcaCDEF-gmd-fcl-gmm-wcaI-cpsBG-wcaJ-wzxC	wcaC // wcaD // wcaE // wcaF // gmd // fcl // gmm // wcaI // cpsB // cpsG // wcaJ // wzxC	
+ilvEDA	ilvA // ilvD // ilvE	
+cmr	mdfA	
+cydDC	cydC // cydD	Regulation of cydDC by small regulatory RNA FnrS
+phoPQ	phoQ // phoP	
+dinD	dinD	
+solA-yceO	solA // yceO	
+yhdN-zntR	yhdN // zntR	
+rpnE-ypaA	ypaA // rpnE	
+kdsC-lptCAB	lptB // lptA // lptC // kdsC	
+ihfB	ihfB	
+argE	argE	
+pbpG	pbpG	
+potFGHI	potI // potH // potG // potF	
+rpsA-ihfB	ihfB // rpsA	
+kdsA	kdsA	
+tsr	tsr	
+mpl	mpl	
+nikR	nikR	
+yghU	yghU	
+prs	prs	
+zupT	zupT	
+bdm-sra	sra // bdm	
+chpSB	chpS // chpB	
+yfbO	yfbO	
+cdsA	cdsA	
+asnW	asnW	
+fabDG-acpP	acpP // fabG // fabD	
+yciA	yciA	
+yaaI	yaaI	
+yhiJ	yhiJ	Regulation of yhiJ by DNA-binding transcriptional dual regulator Nac
+eno	eno	
+yhhQ	yhhQ	Regulation of yhhQ by DNA-binding transcriptional dual regulator Nac
+pnp	pnp	Regulation of pnp by 30S ribosomal subunit protein S1 // Regulation of pnp by polynucleotide phosphorylase
+bglX	bglX	
+pmrD	pmrD	
+dnaKJ	tpke11 // dnaK // dnaJ	
+gspCDEFGHIJKLMO	gspO // gspM // gspL // gspK // gspJ // gspI // gspH // gspG // gspF // gspE // gspD // gspC	
+hspQ	hspQ	
+ydgC	ydgC	
+ysaB	ysaB	
+topA	topA	
+yejLM	lapC // yejL	
+pstSCAB-phoU	phoU // pstB // pstA // pstC // pstS	
+cbpAM	cbpM // cbpA	
+ycfT	ycfT	
+rrsC-gltU-rrlC-rrfC	rrfC // rrlC // gltU // rrsC	
+ydbJ	ydbJ	
+yheO-tusDCB	yheO // tusD // tusC // tusB	
+hisJQMP	hisP // hisM // hisQ // hisJ	
+grxA	grxA	
+fldB	fldB	
+thrLABC	thrL // thrA // thrB // thrC	Regulation of thrLABC by ppGpp
+fadBA	fadA // fadB	
+tufA	tufA	
+nudI	nudI	
+sibA	sibA	
+rnpB	rnpB	
+ruvAB	ruvB // ruvA	
+yfbV	yfbV	Regulation of yfbV by DNA-binding transcriptional dual regulator Nac
+insE3EF3F3	insF3 // insE3 // insEF3	
+bamE	bamE	
+ssb	ssb	
+grxB	grxB	
+ybjK	rcdA	Regulation of ybjK by DNA binding transcriptional dual regulator RcdA // Regulation of ybjK by DNA binding transcriptional dual regulator RcdA
+ymgF	ymgF	
+rpiA	rpiA	
+allS	allS	
+mdtQ	mdtQ	
+diaA	diaA	
+yeiQ	yeiQ	
+ansA-pncA	pncA // ansA	
+arcA	arcA	
+hcp-hcr	hcr // hcp	
+yheSTU	yheU // yheT // yheS	
+yiaY	yiaY	
+cfa	cfa	Regulation of cfa by small regulatory RNA CpxQ // Regulation of cfa by small regulatory RNA ArrS // Regulation of cfa by small regulatory RNA RydC
+mlaFEDCB	mlaF // mlaE // mlaD // mlaC // mlaB	
+rbsDACBKR	rbsR // rbsD // rbsA // rbsC // rbsB // rbsK	Regulation of rbsDACBKR by small regulatory RNA GcvB // Regulation of rbsDACBKR by small regulatory RNA DsrA
+yccA	yccA	
+yciE	yciE	
+ryfD	ryfD	
+dadAX	dadX // dadA	
+fhuE	fhuE	
+argE	argE	
+xylR	xylR	
+glnK-amtB	amtB // glnK	
+sixA	sixA	
+acpT	acpT	
+ycaN	ycaN	Regulation of ycaN by DNA-binding transcriptional dual regulator Nac
+yfeN	yfeN	
+purC	purC	
+asd	asd	Regulation of asd by small regulatory RNA GcvB // Regulation of asd by small regulatory RNA SgrS // Regulation of asd by small regulatory RNA SgrS // Regulation of asd by DNA-binding transcriptional dual regulator ArgP
+yoaE	yoaE	
+gspAB	gspB // gspA	
+lrp	lrp	Regulation of lrp by small regulatory RNA GcvB // Regulation of lrp by small regulatory RNA DsrA // Regulation of lrp by small regulatory RNA MicF // Regulation of lrp by small regulatory RNA GcvB
+istR-1	istR	
+rdlD	rdlD	
+ycgN	ycgN	
+uvrYC	uvrC // uvrY	
+trhP	trhP	
+ychN	ychN	
+yhiD	yhiD	
+rrsG-gltW-rrlG-rrfG	rrfG // rrlG // gltW // rrsG	
+ydcK	ydcK	Regulation of ydcK by DNA-binding transcriptional repressor GlaR // Regulation of ydcK by ppGpp
+gfcA	gfcA	
+baeSR	baeS // baeR	
+ymdB-clsC	clsC // ymdB	
+trxB	trxB	
+infC	infC	
+galF	galF	
+ileS-lspA-fkpB-ispH	ispH // fkpB // lspA // ileS	
+pstB-phoU	phoU // pstB	
+yhfL	yhfL	Regulation of yhfL by DNA-binding transcriptional dual regulator Nac
+arcA	arcA	
+nrfABCDEFG	nrfA // nrfB // nrfC // nrfD // nrfE // nrfF // nrfG	
+rbn	rbn	
+yeaP	dgcP	
+kbaZ-agaVWA	agaA // agaW // agaV // kbaZ	
+yceQ	yceQ	
+livKHMGF	livF // livG // livM // livH // livK	
+dcuA	dcuA	
+insB7	insB7	
+yebA	mepM	
+narXL	narL // narX	
+sanA-yeiS	yeiS // sanA	
+micF	micF	
+ymfED	ymfE // ymfD	
+hypF	hypF	
+yfaY	yfaY	
+ycbX	ycbX	
+cbpA-cbpM	cbpM // cbpA	
+xdhABC	xdhB // xdhC // xdhA	
+oppABCDF	oppA // oppB // oppC // oppD // oppF	Regulation of oppABCDF by spermidine // Regulation of oppABCDF by small regulatory RNA GcvB
+yhcADE	yhcE // yhcD // yhcA	
+zwf	zwf	
+mviM	yceM	
+smf	smf	
+yohO	yohO	Regulation of yohO by DNA-binding transcriptional dual regulator Nac
+glf-rfc	wbbH // glf	
+pdxJ-acpS	acpS // pdxJ	
+yegTUV	yegV // yegU // yegT	
+yiiS-uspD	uspD // yiiS	
+yhjG	yhjG	
+yccM	yccM	Regulation of yccM by DNA-binding transcriptional dual regulator Nac
+ppiD	ppiD	
+acpP-fabF	fabF // acpP	
+agp	agp	Regulation of agp by ppGpp
+bcr	bcr	
+yoaI	yoaI	
+relBE-hokD	hokD // relE // relB	
+isrC-flu	isrC // flu	
+cyaA	cyaA	
+gadW	gadW	
+pstS	pstS	
+mfd	mfd	
+cstA	cstA	
+arcA	arcA	
+ilvLXG_1G_2MEDA	ilvX // ilvG // ilvA // ilvD // ilvE // ilvM // ilvL	
+yegH	yegH	
+yedP	yedP	Regulation of yedP by ppGpp
+malI	malI	
+nanR	nanR	
+rpsO-pnp	pnp // rpsO	
+cspG	cspG	
+ycaD	ycaD	Regulation of ycaD by DNA-binding transcriptional dual regulator Nac
+rrsB-gltT-rrlB-rrfB	rrfB // rrlB // gltT // rrsB	
+thiMD	thiM // thiD	Regulation of thiMD by thiamine diphosphate
+pinE	pinE	
+kefGB-yheV	kefG // kefB // yheV	
+insC3D3CD3	insC3 // insD3 // insCD3	
+hofQ	hofQ	
+rrsG-gltW-rrlG-rrfG	rrfG // rrlG // gltW // rrsG	
+yhhN	yhhN	
+gntKU	gntU // gntK	
+ogrK	ogrK	
+yohD	yohD	
+ycaK	ycaK	Regulation of ycaK by DNA-binding transcriptional dual regulator Nac
+yhjY	yhjY	
+ydaM	dgcM	Regulation of ydaM by small regulatory RNA OmrB // Regulation of ydaM by small regulatory RNA OmrA // Regulation of ydaM by small regulatory RNA RprA
+fumB	fumB	
+yeiE	yeiE	Regulation of yeiE by DNA-binding transcriptional dual regulator Nac
+cydAB	cydB // cydA	
+prpBCDE	prpE // prpD // prpC // prpB	
+ydiM	ydiM	Regulation of ydiM by DNA-binding transcriptional dual regulator Nac
+gfcBCD	gfcB // gfcC // gfcD	
+fimE	fimE	
+yccX	yccX	
+speB	speB	
+yceB	yceB	
+iraM	iraM	
+yojI	yojI	Regulation of yojI by ppGpp
+metJ	metJ	
+ycaO	ycaO	
+livJ	livJ	
+guaBA	guaA // guaB	
+hsdRMS	hsdS // hsdM // hsdR	
+hupB	hupB	
+csgDEFG	csgG // csgF // csgE // csgD	
+adhE	adhE	
+yceH	yceH	
+ssrS-ygfA	fau // ssrS	
+wrbA-yccJ	wrbA // yccJ	Regulation of wrbA-yccJ by ppGpp
+degQS	degS // degQ	
+gspAB	gspB // gspA	
+uvrD	uvrD	
+rcnB	rcnB	
+ppsA	ppsA	
+narU	narU	
+fliLMNOPQR	fliR // fliQ // fliP // fliO // fliN // fliM // fliL	
+recF	recF	
+rimK-ybjN	ybjN // rimK	
+nanCM	nanM // nanC	
+ytjB-lplA	lplA // ytjB	
+yhhH	yhhH	
+upp-uraA	uraA // upp	
+yegX	yegX	
+nrdHIEF	nrdH // nrdI // nrdF // nrdE	
+marRAB	marR // marA // marB	
+yqeK	yqeK	Regulation of yqeK by DNA-binding transcriptional dual regulator Nac
+yohJK	yohK // yohJ	
+accBC	accB // accC	
+yddH	yddH	
+ybgA-phr	phr // ybgA	Regulation of ybgA-phr by ppGpp
+holC	holC	
+nmpC	nmpC	Regulation of nmpC by small regulatory RNA RybB
+rnc-era-recO-pdxJ-acpS	acpS // pdxJ // recO // era // rnc	
+yoeF	yoeF	
+yrfG-hslR	hslR // yrfG	
+aaeXAB	aaeX // aaeA // aaeB	
+pabC-mltG-tmk-holB-ycfH	ycfH // holB // tmk // mltG // pabC	
+dps	dps	Regulation of dps by ppGpp
+lpp	lpp	
+dfp	dfp	
+ycaI-msbA-lpxK-ycaQ	ycaQ // lpxK // msbA // ycaI	
+sdhDAB	sdhB // sdhA // sdhD	
+soxS	soxS	Regulation of soxS by small regulatory RNA MgrR
+pstCAB-phoU	phoU // pstB // pstA // pstC	
+serA	serA	
+ssuEADCB	ssuB // ssuC // ssuD // ssuA // ssuE	
+yeiG	yeiG	
+yhfZY	yhfZ // yhfY	
+msrA	msrA	
+comR	comR	
+yqhA	yqhA	
+mreBCD	mreD // mreC // mreB	
+rpoE-rseABC	rseD // rseC // rseB // rseA // rpoE	
+yhcO	yhcO	Regulation of yhcO by ppGpp
+sohA-yhaV	yhaV // prlF	
+cpxRA	cpxA // cpxR	Regulation of cpxRA by small regulatory RNA MicF
+fepDGC	fepC // fepG // fepD	
+yccU	yccU	Regulation of yccU by DNA-binding transcriptional repressor GlaR // Regulation of yccU by ppGpp
+ddpXABCDF	ddpF // ddpD // ddpC // ddpB // ddpA // ddpX	
+ryhB	ryhB	
+atpBEFHAGDC	atpC // atpD // atpG // atpA // atpH // atpF // atpE // atpB	
+sbmC	sbmC	
+yqgD	yqgD	
+yccE	yccE	
+galETK	galK // galT // galE	
+insE4F4EF4	insE4 // insF4 // insEF4	
+ldtD	ldtD	
+nupX	nupX	
+ycbJ	ycbJ	
+yjiR	yjiR	
+mrp	mrp	
+ymbA	pqiC	
+nfo	nfo	
+hupB	hupB	
+csrD	csrD	
+eda	eda	
+tonB	tonB	
+ycgZ	ycgZ	
+rsmB	rsmB	
+dsbA	dsbA	
+mtlADR	mtlA // mtlD // mtlR	
+mglBAC	mglC // mglA // mglB	
+ilvIH	ilvH // ilvI	
+gntP	gntP	
+rnlAB	rnlB // rnlA	
+ybiV	ybiV	
+plaR	plaR	
+mgtA	mgtL // mgtA	
+hemF	hemF	
+yfaATSQP	yfaA // yfaT // yfaS // yfaQ // yfaP	
+greB	greB	Regulation of greB by DNA-binding transcriptional dual regulator Nac
+yraL	rsmI	
+galETKM	galM // galK // galT // galE	
+treR	treR	
+yehE	yehE	Regulation of yehE by DNA-binding transcriptional repressor GlaR // Regulation of yehE by DNA-binding transcriptional dual regulator Nac // Regulation of yehE by ppGpp
+rplKAJL-rpoBC	rpoC // rpoB // rplL // rplJ // rplA // rplK	Regulation of rplKAJL-rpoBC by 50S ribosomal subunit protein L1
+insH-7	insH7	
+secG	secG	
+ycgB	ycgB	Regulation of ycgB by ppGpp
+yeeZ	yeeZ	Regulation of yeeZ by DNA-binding transcriptional dual regulator Nac
+hns	hns	Regulation of hns by small regulatory RNA DsrA
+proVWX	proX // proW // proV	
+plaP	plaP	
+phr	phr	
+ghrA	ghrA	
+elfA	elfA	Regulation of elfA by DNA-binding transcriptional dual regulator Nac // Regulation of elfA by DNA-binding transcriptional dual regulator SlyA
+aqpZ	aqpZ	
+rpoE-rseABC	rseD // rseC // rseB // rseA // rpoE	
+acrEF	acrE // acrF	
+gyrB	gyrB	
+yraQ	yraQ	
+trxA	trxA	
+treR	treR	
+pncB	pncB	
+pbl	pbl	
+cyaR	cyaR	
+rhaM	rhaM	
+dnaQ	dnaQ	
+mobAB	mobB // mobA	
+deoBD	deoD // deoB	
+rpsA-ihfB	ihfB // rpsA	
+mnmA	mnmA	
+gcvA	gcvA	
+ung	ung	
+grcA	grcA	
+yhdU	yhdU	
+yjjX	yjjX	
+yehK	yehK	
+yefM-yoeB	yefM // yoeB	
+copA	copA	
+pabA	pabA	
+pspF	pspF	
+yhdV	yhdV	Regulation of yhdV by DNA-binding transcriptional dual regulator Nac
+gltBDF	gltB // gltD // gltF	
+ysgA	ysgA	Regulation of ysgA by small regulatory RNA GcvB // Regulation of ysgA by ppGpp
+yehR	yehR	
+sraB	sraB	
+ubiUV	ubiV // ubiU	
+folP-glmM	folP // glmM	
+fhuF	fhuF	
+zapC	zapC	
+pdeI-dgcI	dgcI // pdeI	Regulation of pdeI-dgcI by carbon storage regulator
+glpEGR	glpR // glpG // glpE	
+trpCBA	trpA // trpB // trpC	
+glpR	glpR	
+ryjA	ryjA	
+yncE	yncE	
+yodC	yodC	
+ytfA	ytfA	
+ptsG	ptsG	Regulation of ptsG by small regulatory RNA SgrS
+glpFKX	glpX // glpK // glpF	
+galP	galP	
+murQP	murP // murQ	
+topA	topA	
+rimO	rimO	
+ybjQ-amiD	amiD // ybjQ	
+ispG-sroE	ispG // sroE	
+cynTSX	cynT // cynS // cynX	
+gntR	gntR	
+cyaR	cyaR	
+umpH	umpH	
+fecABCDE	fecE // fecD // fecC // fecB // fecA	
+rseABC	rseC // rseB // rseA	
+ycbZ	ycbZ	
+lysC	lysC	
+topA	topA	
+gspCDEFGHIJKLMO	gspO // gspM // gspL // gspK // gspJ // gspI // gspH // gspG // gspF // gspE // gspD // gspC	
+wcaKLM	wcaK // wcaL // wcaM	
+deoR	deoR	
+yhfK	yhfK	
+yfaX-rhmD	yfaX // rhmD	
+asmA	asmA	
+yadMLKC	yadC // yadK // yadL // yadM	
+hisBHAFI	hisI // hisF // hisA // hisH // hisB	
+ldcC	ldcC	
+zur	zur	
+fsr	fsr	
+recN	recN	
+mqsA	mqsA	
+ihfA	ihfA	
+nlpI	nlpI	
+metY-yhbC-nusA-infB-rbfA-truB-rpsO-pnp	pnp // rpsO // truB // rbfA // infB // nusA // rimP // metY	
+yhiI-rbbA-yhhJ	yhiI // rbbA // yhhJ	
+rlmI	rlmI	
+ychQA-kdsA	kdsA // ychA // ychQ	
+cysDNC	cysC // cysN // cysD	
+yeeL	yeeL	
+sgrST-setA	sgrT // setA // sgrS	
+inaA	inaA	Regulation of inaA by small regulatory RNA GcvB
+arfA	arfA	
+pepD	pepD	
+leuLABCD	leuD // leuC // leuB // leuA // leuL	
+ompR-envZ	envZ // ompR	
+ydhIJK	ydhK // ydhJ // ydhI	
+uppS-cdsA	ispZ // cdsA // ispU	
+ynaI	ynaI	
+rrsE-gltV-rrlE-rrfE	rrfE // rrlE // gltV // rrsE	
+ligT	thpR	
+metK	metK	
+yeiL	yeiL	
+mnmG-rsmG	mnmG // rsmG	
+rnb	rnb	
+ssb	ssb	
+yedS	yedS	
+ytjC	ytjC	
+ispB	ispB	Regulation of ispB by DNA-binding transcriptional dual regulator Nac
+gyrB	gyrB	
+malPQ	malQ // malP	
+rpmF-plsX-fabHDG	fabG // fabD // fabH // plsX // rpmF	
+pepD	pepD	
+topA	topA	
+ybjL	ybjL	
+elbB-mtgA	elbB // mtgA	
+ydeJ	ydeJ	
+cyaR	cyaR	
+rrsC-gltU-rrlC-rrfC	rrfC // rrlC // gltU // rrsC	
+gabDTP	gabP // gabT // gabD	Regulation of gabDTP by ppGpp
+glnS	glnS	
+yoaF	yoaF	
+aldA	aldA	
+yccT	yccT	Regulation of yccT by ppGpp
+ynfC	ynfC	
+arcA	arcA	
+yhaI	yhaI	Regulation of yhaI by DNA-binding transcriptional dual regulator Nac
+rlmG	rlmG	
+yegL-pphC	yegL // pphC	
+dsdC	dsdC	
+lolA-rarA	rarA // lolA	
+dnaN-recF	recF // dnaN	
+proS	proS	
+hiuH-msrPQ	msrQ // msrP // hiuH	
+yjgN	yjgN	Regulation of yjgN by DNA-binding transcriptional dual regulator Nac
+rfaQGPSBIJYZ-waaU	waaU // waaZ // waaY // waaJ // waaO // waaB // waaS // waaP // waaG // waaQ	
+fdnGHI	fdnG // fdnH // fdnI	
+ibsC	ibsC	Regulation of ibsC by small regulatory RNA antitoxin SibC
+ompR-envZ	envZ // ompR	
+ybjS	ybjS	
+ppiD	ppiD	
+yjgH	yjgH	Regulation of yjgH by ppGpp
+mcbA	mcbA	
+yjcB	yjcB	
+metY	metY	
+rlmM	rlmM	Regulation of rlmM by DNA-binding transcriptional dual regulator Nac
+yhjR	yhjR	
+ldtC	ldtC	Regulation of ldtC by small regulatory RNA MicA
+zapE	zapE	
+ibaG	ibaG	
+putP	putP	
+udp	udp	
+mfd	mfd	
+gspAB	gspB // gspA	
+yraN	yraN	
+fdhF	fdhF	
+ypdI	ypdI	
+kdsC-lptCAB	lptB // lptA // lptC // kdsC	
+ybhJ	ybhJ	
+aidB	aidB	Regulation of aidB by ppGpp
+glcC	glcC	
+yeeP	yeeP	
+ycaP	ycaP	Regulation of ycaP by ppGpp
+ynjH	ynjH	
+pykF	pykF	
+pth-ychF	ychF // pth	Regulation of pth-ychF by ppGpp
+dtpB	dtpB	Regulation of dtpB by ppGpp
+tolB-pal-ybgF	cpoB // pal // tolB	Regulation of tolB-pal-ybgF by small regulatory RNA MicA
+adk	adk	
+exbD	exbD	
+frwD	frwD	
+fepA-entD	entD // fepA	
+ssrS-ygfA	fau // ssrS	
+yedEF	yedF // yedE	
+malK-lamB-malM	malK // lamB // malM	
+rrsG-gltW-rrlG-rrfG	rrfG // rrlG // gltW // rrsG	
+mtfA	mtfA	Regulation of mtfA by DNA-binding transcriptional dual regulator Nac
+mdoGH	opgH // opgG	
+araBAD	araD // araA // araB	
+yjhA	nanC	
+aat	aat	
+ftnB	ftnB	
+pheU	pheU	
+cpxPQ	cpxQ // cpxP	
+ygjR	ygjR	
+yegP	yegP	Regulation of yegP by ppGpp
+rlmL-uup	rlmL // uup	
+mhpABCDFE	mhpF // mhpE // mhpD // mhpC // mhpB // mhpA	
+appY	appY	
+rne	rne	Regulation of rne by ribonuclease E
+ansB	ansB	
+caiF	caiF	
+ppc	ppc	
+dacD	dacD	
+proP	proP	
+blc	blc	Regulation of blc by ppGpp
+yieEF	yieF // yieE	
+mreB	mreB	
+yraH	yraH	Regulation of yraH by DNA-binding transcriptional dual regulator Nac
+queG	queG	
+arcA	arcA	
+yeeN	yeeN	
+smtA-mukFEB	mukB // mukE // mukF // cmoM	
+sodC	sodC	Regulation of sodC by ppGpp
+amn	amn	
+cspA	cspA	Regulation of cspA by NIL
+yhcC	yhcC	Regulation of yhcC by DNA-binding transcriptional dual regulator Nac // Regulation of yhcC by ArgR-L-arginine DNA-binding transcriptional dual regulator
+ycgZ-ymgA-ariR-ymgC	ymgC // ariR // ymgA // ycgZ	
+yjjK	ettA	
+ybaB-recR	recR // ybaB	
+groSL	groL // groS	
+truD	truD	
+ygjV	ygjV	
+ebgR	ebgR	
+ybiYW	ybiY // ybiW	
+ybhL	ybhL	
+arrS	arrS	
+ompR-envZ	envZ // ompR	
+dmsABC	dmsC // dmsB // dmsA	
+yifB	yifB	
+yecDE	yecE // yecD	
+yoaH	yoaH	
+ygbA	ygbA	
+gyrA	gyrA	
+gltX	gltX	
+gcd	gcd	
+yjfZ	yjfZ	
+ybgS	ybgS	Regulation of ybgS by ppGpp
+ydhQ	ydhQ	
+macAB	macB // macA	
+ubiG	ubiG	
+rrsH-ileV-alaV-rrlH-rrfH	rrfH // rrlH // alaV // ileV // rrsH	
+acnA	ymiC // acnA	
+yhbW	yhbW	Regulation of yhbW by DNA-binding transcriptional dual regulator SoxS // Regulation of yhbW by DNA-binding transcriptional dual regulator Rob // Regulation of yhbW by DNA-binding transcriptional dual regulator MarA
+hscBA-fdx-iscX	iscX // fdx // hscA // hscB	
+cadC	cadC	
+serT	serT	
+serS	serS	
+cysE	cysE	Regulation of cysE by small regulatory RNA RyhB
+cusCFBA	cusA // cusB // cusF // cusC	
+yeiP	yeiP	
+gstB	gstB	
+insH6	insH6	
+cecR-ybhGFSR	cecR // ybhG // ybhF // ybhS // ybhR	
+norR	norR	
+yedI	yedI	
+ygbK	ygbK	
+agaSYBCDI	agaI // agaD // agaC // agaB // kbaY // agaS	
+astCADBE	astE // astB // astD // astA // astC	
+ybjJI	ybjJ // ybjI	Regulation of ybjJI by DNA binding transcriptional dual regulator RcdA // Regulation of ybjJI by DNA binding transcriptional dual regulator RcdA
+flgK	flgO // flgL // flgK	
+nusA-infB	infB // nusA	
+ndh	ndh	
+yqjG	yqjG	
+pykF	pykF	
+nupC	nupC	
+fimAICDFGH	fimD // fimH // fimG // fimF // fimC // fimI // fimA	
+nupG	nupG	
+yebF	yebF	Regulation of yebF by ppGpp
+nagK-cobB	cobB // nagK	
+mqsA	mqsA	
+dcuC	dcuC	
+yhcG	yhcG	
+hemN	hemN	
+yeiI	yeiI	
+gstA	gstA	
+thrU-tyrU-glyT-thrT-tufB	tufB // thrU // tyrU // glyT // thrT	
+greA	greA	
+wbbIJK	wbbK // wbbJ // wbbI	
+yjgD	rraB	
+lhr	lhr	
+feaR	feaR	
+narUZYWV	narV // narW // narY // narZ // narU	Regulation of narUZYWV by DNA-binding transcriptional dual regulator OmpR-phosphorylated
+ssrS	ssrS	
+ftnB	ftnB	
+uhpB	uhpB	
+dapD	dapD	
+yecT	yecT	
+yodD	yodD	
+yhaKL	yhaL // yhaK	Regulation of yhaKL by DNA-binding transcriptional activator YhaJ
+msrPQ	msrQ // msrP	
+bamD	bamD	
+dinG-ybiB	ybiB // dinG	
+ybjC-nfsA-rimK-ybjN	ybjN // rimK // nfsA // ybjC	
+ybiI	ybiI	
+ygjP	ygjP	
+putP	putP	
+pyrH	pyrH	
+fxsA	fxsA	
+entS	entS	
+metF	metF	
+yjcC	pdeC	
+glyW-cysT-leuZ	3'ETS-<i>leuZ</i> // leuZ // cysT // glyW	
+pflA	pflA	
+yjgZ	yjgZ	
+micF	micF	
+clpPX	clpP // clpX	
+mqsRA	mqsR // mqsA	
+nudF-yqiB-cpdA-yqiA-parE	nudF // yqiB // cpdA // yqiA // parE	Regulation of nudF-yqiB-cpdA-yqiA-parE by DNA-binding transcriptional regulator CreB-phosphorylated
+yeeRST-cbeA-cbtA-yeeW	yeeW // cbtA // cbeA // yeeT // yeeS // yeeR	
+malXY	malX // malY	
+ybhC	ybhC	
+yhfG-fic-pabA	pabA // fic // yhfG	
+bglA	bglA	
+lacI	lacI	
+ftnA	ftnA	
+yhiM	yhiM	
+speC	speC	
+garD	garD	
+fruBKA	fruA // fruK // fruB	
+ybiO	ybiO	
+cdh	cdh	
+ybfF	ybfF	
+yiaT	yiaT	
+rpoH	rpoH	
+mtr	mtr	
+rne	rne	Regulation of rne by ribonuclease E
+yqjCDEK	yqjK // yqjE // yqjD // yqjC	
+yhaBC	yhaC // yhaB	
+serV-argVYZQ	argQ // argZ // argY // argV // serV	
+cyoABCDE	cyoE // cyoD // cyoC // cyoB // cyoA	
+bacA	bacA	
+cspA	cspA	
+yejO	yejO	
+yfhA	glrR	
+fucAO	fucO // fucA	Regulation of fucAO by DNA-binding transcriptional activator YgfI
+yjgA	yjgA	
+metG	metG	
+setB	setB	
+ybfQ	ybfQ	
+pykA	pykA	
+osmC	osmC	Regulation of osmC by ppGpp
+yecN-cmoAB	cmoB // cmoA // yecN	
+yzgL	yzgL	
+hcxB	hcxB	
+yjiC	yjiC	
+rpiB	rpiB	
+hemL	hemL	
+serX	serX	
+ybhK	ybhK	
+metNIQ	metQ // metI // metN	
+lptAB	lptB // lptA	
+uhpT	uhpT	
+mntP	mntP	Regulation of mntP by Mn2+
+icd	icd	
+srkA-dsbA	dsbA // srkA	
+sdiA	sdiA	Regulation of sdiA by DNA-binding transcriptional dual regulator Nac
+norVW	norW // norV	
+yqjA-mzrA	mzrA // yqjA	
+ybiU	ybiU	
+fliE	fliE	
+glmUS	glmS // glmU	Regulation of glmUS by small regulatory RNA GlmZ
+mepS	mepS	
+lptB-rpoN-hpf-ptsN-yhbJ	rapZ // ptsN // hpf // rpoN // lptB	
+ubiK	ubiK	
+yeeA	yeeA	
+ychF	ychF	
+ribA	ribA	
+csrB	csrB	Regulation of csrB by DksA-ppGpp // Regulation of csrB by ppGpp // Regulation of csrB by RNA polymerase-binding transcription factor DksA
+paaJ	paaJ	
+yciY	yciY	
+rep	rep	
+leuU	leuU	
+dolP	dolP	
+ychH	ychH	Regulation of ychH by ppGpp
+yecA	yecA	
+aldB	aldB	
+lysP	lysP	
+pspG	pspH // pspG	
+tolC-ygiBC	ygiA // ygiC // ygiB // tolC	
+yicS	yicS	
+eda	eda	
+yedK	yedK	
+glyU	glyU	
+yghQ	yghQ	
+pgk	pgk	
+yraIJK	yraK // yraJ // yraI	
+alsRBACE	alsE // alsC // alsA // alsB // alsR	
+yiaU	yiaU	
+cdaR	cdaR	
+ybbB	selU	
+yqiJK	yqiK // yqiJ	
+ybiN	rlmF	Regulation of ybiN by DNA-binding transcriptional dual regulator Nac
+relA-mazEF	mazF // mazE // relA	
+ybfL	ybfL	
+abrB	abrB	
+galE	galE	
+leuQPV	leuV // leuP // leuQ	
+fliFGHIJK	fliK // fliJ // fliI // fliH // fliG // fliF	
+ptrA-recBD	ptrA // recB // recD	
+ybeF	ybeF	
+msrC	msrC	
+yjjN	lgoD	Regulation of yjjN by CRP-cyclic-AMP DNA-binding transcriptional dual regulator // Regulation of yjjN by ExuR-alpha-D-galacturonate, alpha-D-glucuronate-DNA-binding transcriptional repressor // Regulation of yjjN by DNA-binding transcriptional repressor UxuR
+malQ	malQ	
+mdh	mdh	
+ymdA	ymdA	
+valS	valS	
+pspF	pspF	
+yidP	yidP	
+tnaCAB	tnaC // tnaA // tnaB	
+ymdF	ymdF	
+carAB	carA // carB	
+fkpA	fkpA	
+sdsR-pphA	pphA // sdsR	
+sibD	sibD	
+yjjW	yjjW	
+valVW	valV // valW	
+iaaA-gsiABCD	gsiD // gsiC // gsiB // gsiA // iaaA	
+pfkB	pfkB	
+pgk-fbaA	fbaA // pgk	
+yidR	yidR	
+dgcQ	dgcQ	
+valZ-lysY	lysY // valZ	
+htpG	htpG	
+rhoL-rho	rhoL // rho	
+letAB	letB // letA	
+lfhA	lfhA	
+serB-radA	radA // serB	
+plsB	plsB	
+lysZ	lysZ	
+rfaH	rfaH	Regulation of rfaH by DNA-binding transcriptional dual regulator Nac
+yeaO	yeaO	
+nagE	nagE	
+pck	pck	
+ygiF-glnE	ygiF // glnE	
+proL	proL	
+adhE	adhE	
+atoDAEB	atoB // atoD // atoA // atoE	
+sdhCDAB-sucABCD-sdhX	sdhX // sdhC // sdhD // sdhA // sdhB // sucA // sucB // sucC // sucD	Regulation of sdhCDAB-sucABCD-sdhX by small regulatory RNA RyhB // Regulation of sdhCDAB-sucABCD-sdhX by small regulatory RNA RyhB
+asnC	asnC	
+rpsU	rpsU	
+xapB	xapB	
+fabB	fabB	
+ubiT-yhbS	ubiT // yhbS	
+rimL	rimL	
+lsp-fkpB-ispH	ispH // fkpB // lspA	
+yaiS	yaiS	Regulation of yaiS by DNA-binding transcriptional dual regulator Nac
+ubiEJB	ubiB // ubiJ // ubiE	
+nhaR	nhaR	Regulation of nhaR by DNA-binding transcriptional dual regulator YdeO
+yidX	yidX	
+glnA	glnA	
+flxA	flxA	
+oppBCDF	oppF // oppD // oppC // oppB	
+tig	tig	
+argG	argG	
+yhhX	yhhX	
+yghB	yghB	
+yebV	yebV	Regulation of yebV by ppGpp
+ykgL	ykgL	Regulation of ykgL by DNA-binding transcriptional dual regulator Nac
+ygjI	ygjI	Regulation of ygjI by DNA-binding transcriptional repressor GlaR // Regulation of ygjI by DNA-binding transcriptional dual regulator Nac
+holE	holE	
+fadM	fadM	
+ygfI	srsR	Regulation of ygfI by DNA-binding transcriptional dual regulator Nac
+yghX	yghX	
+cusRS	cusS // cusR	
+nadAp // pnuC // nadA	pnuC // nadA	
+yhbP	yhbP	
+ybiB	ybiB	
+argW	argW	
+narWV	narV // narW	
+pykF	pykF	
+ybaY	ybaY	
+ybeR-djlB	djlB // ybeR	
+metZWV	metZ // metW // metV	
+yliI	yliI	
+yifE	maoP	Regulation of yifE by DNA-binding transcriptional dual regulator HdfR // Regulation of yifE by small regulatory RNA RybB
+speE	speE	
+ybdK	ybdK	Regulation of ybdK by DNA-binding transcriptional dual regulator Nac // Regulation of ybdK by ppGpp
+yhbO	yhbO	Regulation of yhbO by DNA-binding transcriptional dual regulator Rob // Regulation of yhbO by ppGpp
+yedRJ	drpB // yedJ	
+betT	betT	
+malT	malT	
+qseBC	qseC // qseB	
+alaS	alaS	
+yobA-yebZY	yobA // yebZ // yebY	Regulation of yobA-yebZY by small regulatory RNA FnrS
+uvrA	uvrA	
+yciN	yciN	
+qorA	qorA	
+xapB	xapB	
+cysPUWAM	cysM // cysA // cysW // cysU // cysP	
+modEF	modE // modF	
+cysG	cysG	
+fhuACDB	fhuA // fhuC // fhuD // fhuB	
+rpnD	rpnD	
+leuS-lptE-holA-nadD-cobC	leuS // lptE // holA // nadD // cobC	
+uxuAB	uxuB // uxuA	
+rpmI-rplT	rplT // rpmI	Regulation of rpmI-rplT by 50S ribosomal subunit protein L20
+acrD	acrD	
+chiA	chiA	
+ftsP	ftsP	
+higBA	higB // higA	
+asnV	asnV	
+citCDEFXG	citG // citX // citF // citE // citD // citC	
+yeaVW	yeaW // yeaV	
+ycaC	ycaC	Regulation of ycaC by DNA-binding transcriptional dual regulator Nac // Regulation of ycaC by DNA-binding transcriptional dual regulator FNR // Regulation of ycaC by DNA-binding transcriptional activator BaeR-phosphorylated
+glgBXCAP	glgP // glgA // glgC // glgX // glgB	
+crp	crp	
+yhhA	yhhA	Regulation of yhhA by ppGpp
+nadE	nadE	Regulation of nadE by small regulatory RNA CyaR
+ilvC	ilvC	
+rpmE	rpmE	
+tsr	tsr	
+yhfA	yhfA	
+ybeZY	ybeZ // ybeY	
+yiiU	zapB	
+speD	speD	
+sdaCB	sdaC // sdaB	
+mdtG	mdtG	Regulation of mdtG by DNA-binding transcriptional dual regulator Nac
+psiF	psiF	
+cytR	cytR	
+dcuD	dcuD	
+asnC-mioC	mioC // asnC	
+appCBA-yccB	appX // appC // appB // appA	
+orn	orn	Regulation of orn by DNA-binding transcriptional repressor GlaR
+yihUTS	yihS // yihT // yihU	
+slt	slt	
+rnlB	rnlB	
+ptrB	ptrB	
+mutY-yggX-mltC-nupG	nupG // mltC // yggX // mutY	
+mlrA	mlrA	
+yghO	yghO	
+ybhI	ybhI	Regulation of ybhI by DNA-binding transcriptional dual regulator Nac
+bamB-der	der // bamB	
+ulaG	ulaG	
+rsmE-gshB	gshB // rsmE	
+dkgAp // dkgA	dkgA	Regulation of dkgA by ppGpp
+hprRS	hprR // hprS	
+aer	aer	
+rdcAB	rdcB // rdcA	
+mocA	mocA	
+xdhABC	xdhC // xdhB // xdhA	
+pgi	pgi	
+ileX	ileX	
+ybdH	hcxA	
+pabB-nudL	nudL // pabB	
+glgCAP	glgP // glgA // glgC	Regulation of glgCAP by carbon storage regulator // Regulation of glgCAP by carbon storage regulator
+ugpBAECQ	ugpQ // ugpC // ugpE // ugpA // ugpB	
+uspG	uspG	
+phnCDEEFGHIJKLMNOP	phnP // phnO // phnN // phnM // phnL // phnK // phnJ // phnI // phnH // phnG // phnF // phnE // phnD // phnC	
+dsbGp // dsbG	dsbG	
+yhbY	yhbY	
+putP	putP	
+yebG	yebG	
+pyrLBI	pyrL // pyrI // pyrB	
+fre	fre	
+exoD	exoD	
+dmlA	dmlA	
+ygjQ	ygjQ	
+lpxT	lpxT	
+ansB	ansB	
+hydN-hypF	hypF // hydN	
+gnsA	gnsA	
+relA-mazEF	mazF // mazE // relA	
+ygiQ	ygiQ	
+phoBR	phoB // phoR	
+lgoT	lgoT	
+hscC	hscC	
+yrbN-deaD	deaD // yrbN	
+glyVXY	glyV // glyX // glyY	
+yicR-rpmBG	rpmG // rpmB // yicR	
+insMI3	insM // insI3	
+ompC	ompC	Regulation of ompC by small regulatory RNA RseX // Regulation of ompC by small regulatory RNA RybB // Regulation of ompC by small regulatory RNA MicC
+yjeH	yjeH	Regulation of yjeH by DNA-binding transcriptional dual regulator Nac
+infA	infA	
+ivbL-ilvBN-uhpABC	uhpC // uhpB // uhpA // ilvN // ilvB // ivbL	
+yghED	yghE // yghD	
+yhjH	pdeH	
+yhgN	yhgN	
+sibE	sibE	
+trpt	trpT	
+ydjF	ydjF	
+mtr	mtr	
+ahpF	ahpF	
+yabR	yabR	
+ybhA	ybhA	
+ynfB-speG	speG // ynfB	
+rprA	rprA	
+malY	malY	
+ybhB	ybhB	
+aspA-dcuA	dcuA // aspA	
+appA	appA	
+pstSCA	pstA // pstC // pstS	
+cspE	cspE	
+lpxM	lpxM	
+ybeX-lnt	ybeX // lnt	
+rpoD	rpoD	
+dmsC	dmsC	
+cyaY	cyaY	
+bcp	bcp	
+dsbC-recJ-prfB	prfB // recJ // dsbC	
+ilvIH	ilvI // ilvH	
+rpoE-rseABC	rseD // rseC // rseB // rseA // rpoE	
+mutY-yggX-mltC-nupG	nupG // mltC // yggX // mutY	
+tdcABCDEFG	tdcG // tdcF // tdcE // tdcD // tdcC // tdcB // tdcA	
+parC	parC	
+apaGH	apaH // apaG	
+prfC	prfC	Regulation of prfC by DNA-binding transcriptional dual regulator Nac // Regulation of prfC by ppGpp
+serW	serW	
+slp-dctR	dctR // slp	
+asnB	asnB	Regulation of asnB by small regulatory RNA GcvB
+cydAB	cydB // cydA	
+idi	idi	
+fnrS	fnrS	
+sstT	sstT	Regulation of sstT by small regulatory RNA GcvB
+gcvB	gcvB	
+rraB	rraB	
+htpG	htpG	
+ygeH	ygeH	
+yggI	yggI	
+smg	smg	Regulation of smg by DNA-binding transcriptional repressor GlaR
+yhhM	yhhM	
+yafF	yafF	
+rplT	rplT	
+cdgI	cdgI	
+infB	infB	
+yghA	yghA	Regulation of yghA by ppGpp
+arcZ	arcZ	
+ybcQ	quuD	
+tsaB-yeaY	tsaB // yeaY	
+yjfY	yjfY	Regulation of yjfY by DNA-binding transcriptional repressor GlaR // Regulation of yjfY by ppGpp
+ygiV	ygiV	Regulation of ygiV by DNA-binding transcriptional repressor GlaR
+dcuB-fumB	fumB // dcuB	
+hemH	hemH	Regulation of hemH by small regulatory RNA RyhB
+ybcY	ybcY	
+nanATEK-yhcH	nanQ // nanK // nanE // nanT // nanA	
+chiZPQ	chiZ // chiQ // chiP	Regulation of chiZPQ by small regulatory RNA ChiX
+purR	purR	Regulation of purR by small regulatory RNA SgrS
+imp	lptD	
+dolP	dolP	
+ynjH	ynjH	
+lexA-dinF	lexA // dinF	
+yohC	yohC	Regulation of yohC by ppGpp
+sgcXBCQAER	sgcX // sgcB // sgcC // sgcQ // sgcA // sgcE // sgcR	Regulation of sgcXBCQAER by CRP-cyclic-AMP DNA-binding transcriptional dual regulator // Regulation of sgcXBCQAER by DNA-binding transcriptional dual regulator SlyA // Regulation of sgcXBCQAER by DNA-binding transcriptional dual regulator SlyA
+ptsHI-crr	ptsH // ptsI // crr	
+ybhP-clsB-ybhN	ybhP // clsB // ybhN	Regulation of ybhP-clsB-ybhN by ppGpp
+yhiN	yhiN	
+osmF-yehYXW	yehW // yehX // yehY // osmF	Regulation of osmF-yehYXW by ppGpp
+ralA	ralA	
+cybC	cybC	
+ybdO	ybdO	
+argS	argS	
+araJ	araJ	
+fadR	fadR	
+slyD	slyD	
+ygfB-pepP-ubiHI	ygfB // pepP // ubiH // ubiI	
+btuB-murI	murI // btuB	Regulation of btuB-murI by adenosylcobalamin
+yoaC	yoaC	Regulation of yoaC by ppGpp
+nemRA	nemA // nemR	
+ydiE	ydiE	
+allB	allB	
+fucPIKUR	fucP // fucI // fucK // fucU // fucR	Regulation of fucPIKUR by DNA-binding transcriptional activator YgfI
+ybfP	ybfP	
+yahN	yahN	Regulation of yahN by CRP-cyclic-AMP DNA-binding transcriptional dual regulator
+mliC	mliC	
+ahpCF	ahpC // ahpF	
+tyrTV-tpr	tpr // tyrV // tyrT	
+ypfM	ypfM	
+cvpA-purF-ubiX	ubiX // purF // cvpA	
+tfaX	tfaX	
+ygiN	ygiN	Regulation of ygiN by DNA-binding transcriptional dual regulator Nac
+ptsHI-crr	ptsH // ptsI // crr	
+glgS	glgS	Regulation of glgS by carbon storage regulator
+fabG-acpP	acpP // fabG	
+leuO	leuO	
+mutY-yggX	yggX // mutY	
+fliDST	fliT // fliS // fliD	
+sucABCD-sdhX	sdhX // sucA // sucB // sucC // sucD	
+ssb	ssb	
+C0293	C0293	
+dksA-yadB	gluQ // dksA	
+ydeA	ydeA	
+seqA-pgm	pgm // seqA	
+ykfBF-yafX-ykfGH-yafW-ykfI	ykfI // yafW // ykfH // ykfG // yafX // ykfF // ykfB	
+groSL	groL // groS	
+ybjM	ybjM	
+yjiJ	yjiJ	
+wecH	wecH	Regulation of wecH by DNA-binding transcriptional dual regulator Nac
+frlR	frlR	
+blr	blr	
+ygeQ	ygeQ	
+yggSTU-rdgB-hemW	hemW // rdgB // yggU // yggT // yggS	
+asr	asr	
+ftsZ	ftsZ	
+rfaYZ	waaZ // waaY	
+dnaKJ	tpke11 // dnaK // dnaJ	
+yrbN-deaD	deaD // yrbN	
+yecR	yecR	
+yobD	yobD	
+ybaQ	ybaQ	
+yniA	yniA	Regulation of yniA by ppGpp
+ybfOC	ybfC // ybfO	
+yggX-mltC	mltC // yggX	
+ariR	ariR	Regulation of ariR by ppGpp // Regulation of ariR by CysB-O-acetyl-L-serine DNA-binding transcriptional dual regulator
+dinB-yafNOP	yafP // yafO // yafN // dinB	
+ybbAP	ybbP // ybbA	
+ybeL	ybeL	Regulation of ybeL by ppGpp
+yecJ	yecJ	
+rnlB	rnlB	
+tsx	tsx	Regulation of tsx by small regulatory RNA RybB // Regulation of tsx by small regulatory RNA MicA
+queD	queD	Regulation of queD by DNA-binding transcriptional dual regulator Nac
+lacZYA	lacA // lacY // lacZ	
+ydjE	ydjE	
+ytfJ	ytfJ	
+rcsA	rcsA	
+nagBACD	umpH // nagC // nagA // nagB	
+gfcE-etp-etk	gfcE // etp // etk	
+mlaFEDCB	mlaB // mlaC // mlaD // mlaE // mlaF	
+gltA	gltA	
+yqgA	yqgA	
+tcdA	tcdA	
+yjgL	yjgL	
+rna	rna	
+alaWX	alaX // alaW	
+rlmA	rlmA	
+uidR	uidR	
+rdlB	rdlB	
+fecIR	fecR // fecI	
+sroG-ribB	sroG // ribB	
+mngB	mngB	
+pstB-phoU	phoU // pstB	
+hyuA	hyuA	
+insQ	insQ	
+dtpD	dtpD	
+tig	tig	
+ptrA	ptrA	
+ydhC	punC	
+cysB	cysB	
+mngAB	mngB // mngA	
+aspV	aspV	
+tqsA	tqsA	
+ydiU	selO	
+deoCABD	deoC // deoA // deoB // deoD	
+csgA	csgA	
+yibT	yibT	
+mcrBC	mcrC // mcrB	
+rpoH	rpoH	
+gltBDF	gltB // gltD // gltF	
+folD-ybcJ	folD // ybcJ	
+pgk-fbaA	fbaA // pgk	
+dpiBA	dpiA // dpiB	Regulation of dpiBA by small regulatory RNA ChiX
+yjeNO	yjeO // yjeN	
+yajG-ampG	ampG // yajG	
+opgB	opgB	
+rne	rne	Regulation of rne by ribonuclease E
+paaJ	paaJ	
+ompC	ompC	Regulation of ompC by small regulatory RNA RseX // Regulation of ompC by small regulatory RNA RybB // Regulation of ompC by small regulatory RNA MicC
+kup	kup	
+pdxA-rsmA-apaGH	apaH // apaG // rsmA // pdxA	
+ybfD	ybfD	
+pppA	pppA	
+gntRKU	gntU // gntK // gntR	
+yjgX	yjgX	
+proQ-prc	proQ // prc	
+fadL	fadL	Regulation of fadL by small regulatory RNA RybB
+rspA-rspB	rspA // rspB	
+prkB	prkB	
+bglGFB	bglB // bglF // bglG	
+iraD	idlP // ytiD // ytiC // iraD	Regulation of iraD by carbon storage regulator // Regulation of iraD by carbon storage regulator
+dapB	dapB	
+gadY	gadY	
+tolC-ygiBC	ygiC // ygiB // tolC	
+iprA	iprA	
+htpX	htpX	
+uacT	uacT	
+carAB	carA // carB	
+ybhQ	ybhQ	
+ygdQ	ygdQ	Regulation of ygdQ by small regulatory RNA MgrR
+yfgA	rodZ	
+ldtE	ldtE	Regulation of ldtE by ppGpp
+lysT-valT-lysW	lysT // valT // lysW	
+holD-rimI-yjjG	yjjG // rimI // holD	
+serC	serC	
+ybiT	ybiT	Regulation of ybiT by DNA-binding transcriptional dual regulator Rob
+yeaC	yeaC	
+insC5CD5D5-yqiHIG	yqiI // yqiH // yqiG // insD5 // insC5 // insCD5	
+yghSR	yghS // yghR	Regulation of yghSR by DNA-binding transcriptional dual regulator LeuO
+uspA	uspA	
+bolA	bolA	
+yafC	yafC	Regulation of yafC by DNA-binding transcriptional dual regulator Nac
+ybdR	ybdR	Regulation of ybdR by DNA-binding transcriptional dual regulator Nac
+tatE	tatE	
+decR	decR	
+sdiA	sdiA	
+nanY	nanY	
+yobF-cspC	cspC // yobF	
+casABCDE12	casA // casB // casC // casD // casE // cas1 // cas2	
+ycbC	elyC	
+galS	galS	
+ppiA	ppiA	
+yidL	yidL	
+ybiP	opgE	
+gapA	gapA	
+argCBH	argC // argB // argH	
+erpA	erpA	
+ybcN-ninE-ybcO-rusA-ylcG	ylcG // rusA // ybcO // ninE // ybcN	
+gpmA	gpmA	
+rpoH	rpoH	
+yjfN	yjfN	Regulation of yjfN by DNA-binding transcriptional dual regulator CpxR-phosphorylated
+narU	narU	Regulation of narU by ppGpp
+yqeH	yqeH	
+menBCE	menE // menC // menB	
+mipA	mipA	
+hemB	hemB	Regulation of hemB by small regulatory RNA RyhB
+yjdC	yjdC	
+fucU	fucU	
+ybgD	ybgD	
+lipB	lipB	
+ybjX	ybjX	
+alkA	alkA	
+purMN	purM // purN	
+rsmF	rsmF	Regulation of rsmF by DNA-binding transcriptional dual regulator Nac
+yjjUV	yjjV // yjjU	
+ynfL	ynfL	
+priC-ybaM	priC // ybaM	
+yghW	yghW	
+cadBA	cadA // cadB	
+yjcS	yjcS	
+insA4AB4B4	insB4 // insA4 // insAB4	
+htgA	mbiA	
+aspX	aspX	
+asnA	asnA	Regulation of asnA by small regulatory RNA GcvB
+phoE	phoE	Regulation of phoE by small regulatory RNA MicF
+ilvY	ilvY	
+yjdN	yjdN	
+cysK	cysK	
+yjhIHG	yjhI // yjhH // yjhG	
+valUXY-lysV	valU // valX // valY // lysV	
+yahE	yahE	
+galE	galE	
+yegW	yegW	
+tusA	tusA	
+yhaJ	yhaJ	Regulation of yhaJ by DNA-binding transcriptional activator YhaJ
+imp	lptD	
+pinQ	pinQ	Regulation of pinQ by DNA-binding transcriptional dual regulator Nac
+galETKM	galM // galK // galT // galE	
+sdhE-ygfX	sdhE // ygfX	
+bolA	bolA	
+yjjI	yjjI	
+maa	maa	
+pflB	pflB	
+gadEF	gadF // gadE	Regulation of gadEF by small regulatory RNA ArrS
+xapB	xapB	
+yeaK	yeaK	
+ygcU	ygcU	
+glpABC	glpA // glpB // glpC	
+rsfS-rlmH-mrdAB-rlpA	rsfS // rlmH // mrdA // mrdB // rlpA	
+ydiQRST-fadK	fadK // ydiT // ydiS // ydiR // ydiQ	
+nanA	nanA	
+lysA	lysA	
+pdxK	pdxK	
+yafU	yafU	
+eno	eno	
+flhDC	flhC // flhD	
+qorB	qorB	
+talA	talA	
+gadAX	gadX // gadA	
+ppsR	ppsR	
+spy	spy	
+glgCAP	glgP // glgA // glgC	Regulation of glgCAP by carbon storage regulator // Regulation of glgCAP by carbon storage regulator
+ykiA	ykiA	
+putA	putA	
+artPIQM	artM // artQ // artI // artP	
+glnB	glnB	
+ygfF	ygfF	
+kbp	kbp	Regulation of kbp by ppGpp
+aroF-tyrA	tyrA // aroF	
+ybcV	ybcV	
+sdsR	sdsR	
+yeaQ	yeaQ	Regulation of yeaQ by ppGpp
+tus	tus	
+lpp	lpp	
+epd-pgk	pgk // epd	
+glnA	glnA	
+iclR	iclR	
+yjdF	yjdF	
+fimB	fimB	
+radA-nadR	nadR // radA	
+yagU	yagU	Regulation of yagU by DNA-binding transcriptional dual regulator Nac
+pdeL	pdeL	
+ydhM	nemR	
+yfGM	yfgM	
+pyrD	pyrD	
+asnU	asnU	
+glnB	glnB	
+galK	galK	
+gnsB	gnsB	
+dnaTC	dnaC // dnaT	
+leuV	leuV	Regulation of leuV by ppGpp
+yqhD-dkgA	dkgA // yqhD	
+aes	aes	
+rem	rem	
+xerD-dsbC-recJ	recJ // dsbC // xerD	
+idnK	idnK	
+mqsRA	mqsA // mqsR	
+tfaD	tfaD	
+xylE	xylE	
+csgBAC	csgC // csgB // csgA	
+topAI-yjhQ	topAI // yjhQ	
+btuE	btuE	
+kch	kch	
+queF	queF	
+clsC	clsC	
+ibpB	ibpB	Regulation of ibpB by small heat shock protein IbpA
+yhbQ	yhbQ	
+ssrS-ygfA	fau // ssrS	
+feaB	feaB	
+proC	proC	
+argP	argP	
+sodA	sodA	Regulation of sodA by small regulatory RNA RyhB // Regulation of sodA by small regulatory RNA FnrS
+lsrRK	lsrK // lsrR	
+metJ	metJ	
+epd-pgk	pgk // epd	
+ogt	ogt	
+bepA-yfgD	yfgD // bepA	
+ychJ-purU	purU // ychJ	
+panE-yajL	panE // yajL	
+bolA	bolA	
+ybgC-tolQRA	ybgC // tolQ // tolR // tolA	
+ygeP	ygeP	
+ybeU-djlC	djlC // ybeU	
+yaiT	yaiT	
+gshA	gshA	Regulation of gshA by putrescine
+pheMST-ihfA	ihfA // pheM // pheT // pheS	
+cirA	cirA	Regulation of cirA by small regulatory RNA OmrB // Regulation of cirA by small regulatory RNA OmrA
+ompC	ompC	Regulation of ompC by small regulatory RNA RseX // Regulation of ompC by small regulatory RNA RybB // Regulation of ompC by small regulatory RNA MicC
+yjiHG-iadA	yjiH // yjiG // iadA	
+ilvL	ilvL	
+fbaB	fbaB	Regulation of fbaB by ppGpp
+nlpC	nlpC	
+ugpBAECQ	ugpQ // ugpC // ugpE // ugpA // ugpB	
+argO	argO	
+epmB	epmB	
+gpmA	gpmA	Regulation of gpmA by small regulatory RNA FnrS
+ybaP	ybaP	
+fabA	fabA	
+ybdF	ybdF	
+yahK	yahK	
+pyrG-eno	eno // pyrG	
+btuD	btuD	
+gadE-mdtEF	gadF // mdtF // mdtE // gadE	
+yfjI	yfjI	Regulation of yfjI by DNA-binding transcriptional dual regulator Nac
+rcnR	rcnR	
+lpxL	lpxL	
+clpA	clpA	
+yqhH	yqhH	
+ybaZ	ybaZ	
+ydfABC	ydfC // ydfB // ydfA	
+ghoST	ghoT // ghoS	
+bssS	bssS	
+fetAB	fetB // fetA	
+coaA	coaA	
+trpLEDCBA	trpA // trpB // trpC // trpD // trpE // trpL	Regulation of trpLEDCBA by small regulatory RNA RydC // Regulation of trpLEDCBA by small regulatory RNA GcvB
+dnaB	dnaB	
+yhcN	yhcN	
+treA	treA	Regulation of treA by ppGpp
+rpmBG-mutM	mutM // rpmG // rpmB	
+ydiZ	ydiZ	
+yagN	yagN	
+pykF	pykF	
+infA-serW	serW // infA	Regulation of infA-serW by ppGpp
+yhgE	yhgE	Regulation of yhgE by DNA-binding transcriptional dual regulator ArcA-phosphorylated
+insL2	insL2	
+bglG	bglG	
+kdgR	kdgR	Regulation of kdgR by DNA-binding transcriptional dual regulator Nac
+metH	metH	
+greA	greA	
+yjiML	yjiM // yjiL	
+yneJ	yneJ	
+ihfB	ihfB	
+tktA	tktA	
+tsx	tsx	Regulation of tsx by small regulatory RNA RybB // Regulation of tsx by small regulatory RNA MicA
+yijF	yijF	
+cutA	cutA	
+xseB-ispA-dxs-yajO	yajO // dxs // ispA // xseB	
+uxuR	uxuR	
+insH3	insH3	
+uvrB	uvrB	
+ygbJK	ygbK // ygbJ	Regulation of ygbJK by DNA-binding transcriptional repressor YgbI
+eno	eno	
+secG-leuU	leuU // secG	
+tabA	tabA	
+yeaX	yeaX	
+uxaCA	uxaA // uxaC	
+leuE	leuE	
+yqgC	yqgC	
+metY	metY	
+ybaK	ybaK	
+ymdAB	ymdB // ymdA	
+yddE	yddE	
+patA	patA	Regulation of patA by ppGpp
+ygeR	actS	
+aidB	aidB	Regulation of aidB by ppGpp
+yjiS	yjiS	
+yaiO	yaiO	
+rpsP-rimM-trmD-rplS	rplS // trmD // rimM // rpsP	
+pstSCA	pstA // pstC // pstS	
+ptsHI-crr	ptsH // ptsI // crr	
+tcyP	tcyP	
+yfjU	yfjU	
+mpl	mpl	
+ybdN	ybdN	
+uidABC	uidC // uidB // uidA	
+cspI	cspI	
+rhaSR	rhaS // rhaR	
+treF	treF	Regulation of treF by ppGpp
+tdk	tdk	
+bax	bax	
+dpiBA	dpiA // dpiB	
+yjcF	yjcF	Regulation of yjcF by DNA-binding transcriptional dual regulator Nac
+ygaVP	ygaP // ygaV	
+pstB-phoU	phoU // pstB	
+mepH	mepH	
+allB	allB	
+endA	endA	
+ecpA	ecpA	
+flu	flu	
+alkB	alkB	
+ygeY	ygeY	
+tapT-patZ	patZ // tapT	
+ligB	ligB	Regulation of ligB by DNA-binding transcriptional dual regulator Nac
+ylbG	ylbG	
+selD-topB	topB // selD	
+ydjXYZ-ynjABCD	ynjD // ynjC // ynjB // ynjA // ydjZ // ydjY // ydjX	
+ydfZ	ydfZ	Regulation of ydfZ by DNA-binding transcriptional dual regulator FNR
+ldtB	ldtB	
+rpoH	rpoH	
+yggX-mltC-nupG	nupG // mltC // yggX	
+yihW	csqR	
+murB-birA	birA // murB	
+pflB	pflB	
+yjiXA	yjiX // yjiA	
+torT	torT	Regulation of torT by DNA-binding transcriptional repressor IscR-a [2Fe-2S] iron-sulfur cluster
+ykfJ-prfH	prfH // ykfJ	
+tyrP	tyrP	
+dctA	dctA	
+narK	narS // narK	
+yoaB	yoaB	
+corA	corA	
+ydcSTUV-patD	patD // ydcV // ydcU // ydcT // ydcS	
+ybgIJKL-nei	pxpA // nei // pxpC // pxpB // ybgI	
+mdtK	mdtK	
+fabI	fabI	
+yqgEF	yqgF // yqgE	
+fusA-tufA	tufA // fusA	
+digH	digH	
+mnt-btuF-yadS	mtn // btuF // yadS	
+ycgZ-ymgA-ariR-ymgC	ymgC // ariR // ymgA // ycgZ	
+ybcI	ybcI	
+yihV-csqR	csqR // yihV	
+serC-aroA	serC // aroA	
+lptFG	lptG // lptF	
+ptsHI-crr	ptsH // ptsI // crr	
+yihUTS	yihS // yihT // yihU	
+ypjB	ypjB	
+hfq-hflXKC	hflC // hflK // hflX // hfq	
+panD	panD	
+ybdL	ybdL	
+yqeB	yqeB	
+ssrA	ssrA	
+rssAB	rssB // rssA	
+sppA	sppA	
+ompA	ompA	Regulation of ompA by small regulatory RNA RseX // Regulation of ompA by small regulatory RNA MicA
+sutR	sutR	
+tldD	tldD	
+alkA	alkA	
+mdtEF	mdtF // mdtE	
+frlR	frlR	
+pdxB-usg-truA-dedA	dedA // truA // usg // pdxB	
+rclABC	rclC // rclB // rclA	
+yahC	yahC	
+rnc-era	era // rnc	
+crr	crr	
+rnk	rnk	
+ushA	ushA	
+yfiL	yfiL	
+aslB	aslB	
+emrRAB	mprA // emrA // emrB	
+insC6CD6D6	insD6 // insC6 // insCD6	
+recG	recG	Regulation of recG by DNA-binding transcriptional regulator CreB-phosphorylated
+fliE	fliE	
+ydhS	ydhS	Regulation of ydhS by DNA-binding transcriptional repressor GlaR
+yggX	yggX	
+ygfK-ssnA	ssnA // ygfK	
+yjbB	yjbB	
+pdhR-aceEF-lpdA	pdhR // aceE // aceF // lpd	
+mutH	mutH	
+araE	araE	
+sfmCD	sfmD // sfmC	
+ykfC	ykfC	
+acrB	acrB	
+aroD	aroD	
+tolC-ygiBC	ygiC // ygiB // tolC	
+yfhM-pbpC	yfhM // pbpC	
+yqhC	yqhC	Regulation of yqhC by DNA-binding transcriptional repressor GlaR
+insH-1	insH1	
+lysU	lysU	
+trmB-yggL	trmB // yggL	
+mlaA	mlaA	
+ydeTSR	ydeT // ydeS // ydeR	
+adrA	dgcC	
+ybfE	ybfE	
+nsrR-rnr-rlmB-yjfI	yjfI // rlmB // rnr // nsrR	
+lgoR	lgoR	
+oxyR	oxyR	
+frvABXR	frvA // frvB // frvX // frvR	
+umpG-pcm	pcm // umpG	
+rsmA-apaGH	apaH // apaG // rsmA	
+fumD	fumD	Regulation of fumD by DNA-binding transcriptional dual regulator Nac
+gmhB	gmhB	
+yibA	yibA	
+exuR	exuR	
+ybeT	ybeT	Regulation of ybeT by DNA-binding transcriptional dual regulator Nac
+peaD	peaD	
+gntK	gntK	
+galR	galR	
+cof	cof	
+yfiRN	dgcN // yfiR	
+yjhE	yjhE	
+ydcY	ydcY	Regulation of ydcY by DNA-binding transcriptional dual regulator Nac
+mlrA	mlrA	
+ygfTS	ygfT // ygfS	
+uspA	uspA	
+tatABC	tatD // tatC // tatB // tatA	
+mepK-gloC	gloC // mepK	
+rplU-rpmA	rpmA // rplU	
+hdeD	hdeD	Regulation of hdeD by small regulatory RNA RprA // Regulation of hdeD by small regulatory RNA RprA // Regulation of hdeD by ppGpp // Regulation of hdeD by small regulatory RNA CyaR
+citCDEFXG	citC // citD // citE // citF // citX // citG	
+hflD-purB	purB // hflD	
+ratA-yfjF	ratA // yfjF	
+dgkA	dgkA	
+rfaZ-waaU	waaU // waaZ	
+frdABCD	frdD // frdC // frdB // frdA	
+ydjLKJIHG	ydjL // ydjK // ydjJ // ydjI // ydjH // ydjG	
+murQP	murP // murQ	
+leuLABCD	leuD // leuC // leuB // leuA // leuL	
+dcuSR	dcuR // dcuS	
+yadD	rpnC	
+sdsN	sdsN	
+insI2	insI2	
+yceJI	yceJ // yceI	
+gabDTP	gabP // gabT // gabD	
+cysK	cysK	
+yjhV	yjhV	
+xynR	xynR	
+panBC	panC // panB	
+yjfKLMC	yjfC // yjfM // yjfL // yjfK	
+ppiA	ppiA	
+ydiJ-menI-ydiH	ydiJ // menI // ydiH	
+yfhR	yfhR	
+intD	intD	
+ybcLM	ybcM // ybcL	
+gapA	gapA	
+araFGH	araH // araG // araF	
+gatYZABCD	gatD // gatC // gatB // gatA // gatZ // gatY	
+dut-slmA	slmA // dut	
+tas	tas	
+rsmC	rsmC	
+sibC	sibC	
+yiiR	yiiR	
+rne	rne	
+eutNEJG	eutN // eutE // eutJ // eutG	
+alr	alr	
+fucO	fucO	
+rpsU-dnaG-rpoD	rpsU // dnaG // rpoD	
+yafT	yafT	
+miaA-hfq-hflXKC	hflC // hflK // hflX // hfq // miaA	
+purL	purL	
+yqeG	yqeG	
+gloA	gloA	
+nudE	nudE	
+rluF	rluF	
+ykgR	ykgR	
+ydiL	ydiL	Regulation of ydiL by DNA-binding transcriptional dual regulator Nac
+rhsE-ydcD	ydcD // rhsE	
+fldA-uof-fur	uof // fur // fldA	
+ynfK	bidA	
+pdxA-rsmA	rsmA // pdxA	
+rplU-rpmA-yhbE-obgE	obgE // yhbE // rpmA // rplU	
+yihF	yihF	
+rpsF-priB-rpsR-rplI	rpsF // priB // rpsR // rplI	Regulation of rpsF-priB-rpsR-rplI by ppGpp // Regulation of rpsF-priB-rpsR-rplI by S6:S18 ribosomal subunit complex
+yjhF	yjhF	
+slyX	slyX	
+dsrB	dsrB	
+tpke11	tpke11	
+mreCD	mreD // mreC	
+ffs	ffs	
+yeaE	yeaE	
+rpoD	rpoD	
+esrE	esrE	
+yneE	yneE	
+yifN	yifN	
+htgA	mbiA	
+xerD	xerD	
+gntT	gntT	
+cybB	cybB	
+gpmA	gpmA	
+uvrB	uvrB	
+kduD	kduD	
+aceK	aceK	
+potABCD	potD // potC // potB // potA	
+galETKM	galM // galK // galT // galE	
+ppiA	ppiA	
+rpoE-rseABC	rseD // rseC // rseB // rseA // rpoE	
+glmY	glmY	
+ydaGF	ydaG // ydaF	
+grcA	grcA	
+yafS	yafS	
+ygeF	ygeF	
+csrA	csrA	
+yegS	yegS	
+ydiFO	ydiO // ydiF	
+sieB	sieB	
+mdoGH	opgG // opgH	
+treR	treR	
+narQ	narQ	
+ulaR	ulaR	
+glpQ	glpQ	
+lon	lon	
+rayT	rayT	
+ubiCA	ubiC // ubiA	
+aroKB-damX-dam-rpe-gph-trpS	trpS // gph // rpe // dam // damX // aroB // aroK	
+tnaAB	tnaB // tnaA	Regulation of tnaAB by DNA-binding transcriptional activator ZraR-phosphorylated
+rzoD	rzoD	
+micA	micA	
+metR	metR	
+mrr	mrr	
+rpoS	rpoS	Regulation of rpoS by small regulatory RNA CyaR // Regulation of rpoS by small regulatory RNA ArcZ // Regulation of rpoS by small regulatory RNA OxyS // Regulation of rpoS by small regulatory RNA ArcZ // Regulation of rpoS by small regulatory RNA RprA // Regulation of rpoS by small regulatory RNA DsrA
+ylaC	ylaC	
+fadD-sroD	sroD // fadD	
+yaeI	yaeI	
+groL	groL	
+fadIJ	fadJ // fadI	
+ygeI	ygeI	
+yihPO	yihP // yihO	
+insL3	insL3	
+ygcS	ygcS	Regulation of ygcS by DNA-binding transcriptional dual regulator Nac
+pyrC	pyrC	
+apt	apt	
+feaB	feaB	
+rutR	rutR	
+hcp-hcr-poxB	poxB // hcr // hcp	
+glnALG	glnG // glnL // glnA	
+tpiA	tpiA	
+wzzB	wzzB	
+yifL-dapF-yigA-xerC-yigB	yigB // xerC // yigA // dapF // yifL	
+ydgD	ydgD	
+yqfB	yqfB	
+glmZ	glmZ	
+opgD	opgD	
+rhoL	rhoL	
+yabI	yabI	
+panD	panD	
+yjhP	yjhP	
+kdpFABC	kdpF // kdpC // kdpB // kdpA	
+cadA	cadA	Regulation of cadA by ppGpp
+rcsB	rcsB	
+plsX-fabHDG	fabG // fabD // fabH // plsX	
+ytfF	ytfF	
+yidA	yidA	
+ynaA-lomR	lomR // ynaA	
+mngR	mngR	
+yagJ	yagJ	
+ybaL	ybaL	
+sdiA	sdiA	
+rnlA	rnlA	
+ppnP	ppnP	
+yjeV	yjeV	
+ytfQRT-yjfF	yjfF // ytfT // ytfR // ytfQ	Regulation of ytfQRT-yjfF by DNA-binding transcriptional dual regulator AraC
+motRAB-cheAW	motR // cheW // cheA // motB // motA	
+iraD	idlP // iraD	Regulation of iraD by carbon storage regulator
+insC4D4CD4-ygeON	insC4 // insD4 // insCD4 // ygeO // ygeN	
+artPIQM	artM // artQ // artI // artP	
+bioH	bioH	
+xapAB	xapB // xapA	
+hemA	hemA	
+galET	galT // galE	
+nohD	nohD	
+malEFGH	malH // malG // malF // malE	
+yfgHI	yfgI // yfgH	
+aceEF	aceF // aceE	
+ycjMNOPQRSTUV-ymjB-ompG	ompG // ymjB // ycjV // ycjU // ycjT // ycjS // ycjR // ycjQ // ycjP // ycjO // ycjN // ycjM	Regulation of ycjMNOPQRSTUV-ymjB-ompG by DNA-binding transcriptional repressor YcjW
+argR	argR	
+ydiV	rflP	
+mscK	mscK	
+murR	murR	
+ydjM	ydjM	
+chiX	chiX	
+ydgI-folM	folM // ydgI	
+ftsYEX	ftsX // ftsE // ftsY	
+talB	talB	
+znuCB	znuB // znuC	
+rhaSR	rhaS // rhaR	
+ridA	ridA	
+yaeP-rof	yaeP // rof	
+hlpA-lpxD-fabZ-lpxA	lpxA // fabZ // lpxD // skp	
+adiC	adiC	
+clpA	clpA	
+ivbL-ilvBN	ilvN // ilvB // ivbL	
+uof-fur	uof // fur	Regulation of uof-fur by small regulatory RNA RyhB
+gsk	gsk	
+qmcA-ybbJ	qmcA // ybbJ	
+grpE	grpE	
+spf	spf	
+pqiABC	pqiC // pqiB // pqiA	
+yieH	yieH	Regulation of yieH by DNA-binding transcriptional dual regulator Nac
+yqcE-ygcE	ygcE // yqcE	
+hypT	hypT	
+yliM-ompX	yliM // ompX	Regulation of yliM-ompX by small regulatory RNA MicA // Regulation of yliM-ompX by small regulatory RNA CyaR
+rhtC	rhtC	
+abpAB	abpA // abpB	
+yfdGHI	yfdI // yfdH // yfdG	
+yfgM	yfgM	
+serW	serW	
+ytfI	ytfI	
+rdgB-yggW	hemW // rdgB	
+ubiX	ubiX	
+metA	metA	
+galETK	galK // galT // galE	
+rob	rob	
+cspH	cspH	
+pepN	pepN	
+pepA	pepA	
+anmK	anmK	
+hslJ	hslJ	
+yjtD	yjtD	
+ydfUT	ydfU // ydfT	
+uxaCA	uxaA // uxaC	
+ybgA-phr	phr // ybgA	
+mppA	mppA	Regulation of mppA by DNA-binding transcriptional repressor PgrR
+nlpD-rpoS	rpoS // nlpD	
+bdcR	bdcR	Regulation of bdcR by DNA-binding transcriptional repressor GlaR
+znuA	znuA	
+yicG	yicG	
+rrsA-ileT-alaT-rrlA-rrfA	rrfA // rrlA // alaT // ileT // rrsA	
+hipBA	hipA // hipB	
+brnQ-proY	proY // brnQ	
+yniD	yniD	
+clpB	clpB	
+gntU	gntU	
+bcsBZ	bcsZ // bcsB	
+rpoD	rpoD	
+osmB	osmB	
+glyU	glyU	
+hdhA	hdhA	
+adiY	adiY	Regulation of adiY by small regulatory RNA SgrS
+yffMN	yffN // yffM	
+pstS	pstS	
+syd	syd	
+yghZ	gpr	
+ydbK-ompN	ompN // ydbK	
+aroH	aroH	
+nuoABCEFGHIJKLMN	nuoN // nuoM // nuoL // nuoK // nuoJ // nuoI // nuoH // nuoG // nuoF // nuoE // nuoC // nuoB // nuoA	Regulation of nuoABCEFGHIJKLMN by small regulatory RNA RyhB
+ecnB	ecnB	Regulation of ecnB by ppGpp // Regulation of ecnB by small regulatory RNA MicA
+pheP	pheP	
+yciCB	yciC // yciB	
+feaR	feaR	
+sseA	sseA	
+fliAZY	tcyJ // fliZ // fliA	
+torI	torI	Regulation of torI by DNA-binding transcriptional dual regulator Nac
+yadI	yadI	
+ydhL	ydhL	
+ppA	ppa	
+dnaTC-yjjA	yjjA // dnaC // dnaT	
+pyrG-eno	eno // pyrG	
+rpsT	rpsT	
+dtpC	dtpC	
+ymdB	ymdB	
+cnu	cnu	
+ravA-viaA	ravA // viaA	
+yagP	yagP	
+rutABCDEFG	rutA // rutB // rutC // rutD // rutE // rutF // rutG	
+epd-pgk-fbaA	fbaA // pgk // epd	
+rhsD-ybbC-ylbH-ybbD	ybbD // ylbH // ybbC // rhsD	
+relA	relA	
+yaaW	yaaW	
+pspE	pspE	
+icd	icd	
+nrdR-ribDE-nusB-thiL-pgpA	pgpA // thiL // nusB // ribE // ribD // nrdR	
+mutS	mutS	Regulation of mutS by RNA-binding protein Hfq // Regulation of mutS by small regulatory RNA ArcZ // Regulation of mutS by small regulatory RNA SdsR
+yicL	yicL	
+rpoS	rpoS	
+yjaB	yjaB	
+dnaKJ	tpke11 // dnaK // dnaJ	
+dsrA	dsrA	
+yfcC	yfcC	
+ygaZH	ygaH // ygaZ	
+narGHJI	narG // narH // narJ // narI	
+lacZYA	lacA // lacY // lacZ	
+phoPQ	phoQ // phoP	
+ttcA	ttcA	
+accBC	accC // accB	
+bioA	bioA	
+gcl-hyi-glxR-ybbVW-allB-ybbY-glxK	glxK // ybbY // allB // ybbW // glxR // hyi // gcl	
+sfsB	sfsB	
+abgR	abgR	Regulation of abgR by CRP-cyclic-AMP DNA-binding transcriptional dual regulator // Regulation of abgR by DNA-binding transcriptional dual regulator Nac
+relBE	relB // relE	
+ygeX	ygeX	
+gltI-sroC-gltJKL	gltL // gltK // gltJ // sroC // gltI	
+ribF-ileS-lspA-fkpB-ispH	ribF // ileS // lspA // fkpB // ispH	
+ldrA	ldrA	
+yibF	yibF	
+rplL	rplL	
+pepA	pepA	
+ygdG	ygdG	
+pgpB	pgpB	
+phoH	phoH	
+ascB	ascB	
+yjeJ	yjeJ	Regulation of yjeJ by DNA-binding transcriptional dual regulator Nac
+ryjB	ryjB	
+fabZ	fabZ	
+csgDEFG	csgG // csgF // csgE // csgD	Regulation of csgDEFG by small regulatory RNA RybB // Regulation of csgDEFG by small regulatory RNA RydC // Regulation of csgDEFG by small regulatory RNA RprA // Regulation of csgDEFG by small regulatory RNA GcvB // Regulation of csgDEFG by small regulatory RNA RprA // Regulation of csgDEFG by small regulatory RNA McaS // Regulation of csgDEFG by small regulatory RNA OmrB // Regulation of csgDEFG by small regulatory RNA OmrA
+thiI	thiI	Regulation of thiI by S-adenosyl-L-methionine
+ompA	ompA	Regulation of ompA by small regulatory RNA RseX // Regulation of ompA by small regulatory RNA MicA
+rfaDFCL	waaL // waaC // waaF // rfaD	
+yfeR	yfeR	
+yahIJ	yahJ // yahI	
+rph	rph	
+rdgC	rdgC	
+proP	proP	
+pyrSR-ypdC	ypdC // pyrR // pyrS	
+nrdDG	nrdG // nrdD	
+eno	eno	
+dsbB	dsbB	Regulation of dsbB by DNA-binding transcriptional dual regulator ArcA-phosphorylated
+yniB	yniB	
+rsd	rsd	
+ssnA	ssnA	
+ppiB-lpxH	ppiB // lpxH	
+mltA	mltA	
+dhaKLM	dhaM // dhaL // dhaK	
+frwCB	frwB // frwC	
+basRS	basS // basR	
+yehF	yehF	
+ydhR	ydhR	
+ampG	ampG	
+rpnB	rpnB	
+yaaU	yaaU	
+rppH-ptsP	rppH // ptsP	
+dicA	dicA	Regulation of dicA by DNA-binding transcriptional dual regulator DicA
+phoU	phoU	
+ydeP	ydeP	
+asr	asr	
+nrdAB-yfaE	yfaE // nrdA // nrdB	
+rdlC	rdlC	
+yidKJ	yidK // yidJ	
+aroP	aroP	
+dusA	dusA	
+lrhA	lrhA	
+cyaA	cyaA	
+dnaN-recF	recF // dnaN	
+holC-valS	valS // holC	
+rhtB	rhtB	
+stpA	stpA	
+yfaZ	yfaZ	
+poxB-ltaE-ybjT	poxB // ltaE // ybjT	
+trmL	trmL	
+csrAp3 // csrA	csrA	Regulation of csrA by ppGpp // Regulation of csrA by RNA polymerase-binding transcription factor DksA
+intB	intB	
+ybaV	ybaV	
+ais	ais	
+cspE	cspE	
+kdgK	kdgK	
+tyrS-pdxY	pdxY // tyrS	
+yqaE-kbp	kbp // yqaE	
+epmA	epmA	
+ftsLI-murEF-mraY-murD-ftsW-murGC-ddlB-ftsQAZ-lpxC	lpxC // ftsZ // ftsA // ftsQ // ddlB // murC // murG // ftsW // murD // mraY // murF // murE // ftsI // ftsL	
+ymjA	ymjA	Regulation of ymjA by DNA-binding transcriptional dual regulator Nac
+ybaE	ybaE	
+degS	degS	
+pdeK	pdeK	
+yfiK	eamB	
+argA	argA	
+cmr	mdfA	
+dmsABC	dmsA // dmsB // dmsC	
+fliDST	fliD // fliS // fliT	
+dapE-ypfN	ypfN // dapE	
+sad	sad	
+gadEF	gadF // gadE	
+rpsMKD-rpoA-rplQ	rpsK // rpsD // rpoA // rplQ // rpsM	
+ycgV	ycgV	Regulation of ycgV by DNA-binding transcriptional repressor GlaR // Regulation of ycgV by DNA-binding transcriptional dual regulator Nac
+csiD-ygaF-gabDTP	gabP // gabT // gabD // lhgD // glaH	
+fnr	fnr	
+hdeD	hdeD	Regulation of hdeD by ppGpp // Regulation of hdeD by small regulatory RNA CyaR // Regulation of hdeD by small regulatory RNA RprA // Regulation of hdeD by small regulatory RNA RprA
+yegD	yegD	
+hycABCDEFGHI	hycI // hycH // hycG // hycF // hycE // hycD // hycC // hycB // hycA	
+clpPX	clpP // clpX	
+yahM	yahM	
+ydhYVW	ydhY // ydhV // ydhW	
+rsgA	rsgA	Regulation of rsgA by DNA-binding transcriptional repressor GlaR
+torR	torR	
+yddG	yddG	
+mcrA	mcrA	
+uxaB	uxaB	
+csrC	csrC	Regulation of csrC by DksA-ppGpp // Regulation of csrC by RNA polymerase-binding transcription factor DksA // Regulation of csrC by ppGpp
+dicB-ydfDE-insD-intQ	intQ // insD7 // ydfE // ydfD // dicB	
+mhpR-lacI	lacI // mhpR	
+yfcZ	yfcZ	Regulation of yfcZ by ppGpp
+yjfIJ	yjfJ // yjfI	
+pphB	pphB	Regulation of pphB by DNA-binding transcriptional dual regulator Nac
+gntT	gntT	
+hmp	hmp	Regulation of hmp by RNA polymerase-binding transcription factor DksA // Regulation of hmp by small regulatory RNA SdsN
+ytfK	ytfK	
+uspA	uspA	
+kup	kup	
+borD	borD	
+yeaGH	yeaH // yeaG	Regulation of yeaGH by ppGpp
+frr	frr	
+ygdR	ygdR	Regulation of ygdR by DNA-binding transcriptional dual regulator Nac
+osmE	osmE	
+elaD	elaD	
+efp	efp	
+menA-rraA	rraA // menA	
+yciZT	yciZ // yciT	
+ftp	ftp	
+ftsB	ftsB	
+glk	glk	
+aphA	aphA	
+thyA	thyA	
+ynfA	ynfA	Regulation of ynfA by DNA-binding transcriptional dual regulator Nac
+gor	gor	
+ruvAB	ruvB // ruvA	
+pqiABC	pqiC // pqiB // pqiA	
+csgDEFG	csgG // csgF // csgE // csgD	Regulation of csgDEFG by small regulatory RNA RybB // Regulation of csgDEFG by small regulatory RNA RprA // Regulation of csgDEFG by small regulatory RNA RprA // Regulation of csgDEFG by small regulatory RNA RydC // Regulation of csgDEFG by small regulatory RNA OmrB // Regulation of csgDEFG by small regulatory RNA McaS // Regulation of csgDEFG by small regulatory RNA GcvB // Regulation of csgDEFG by small regulatory RNA OmrA
+ribC	ribC	
+mepS	mepS	
+tag-yiaC	yiaC // tag	
+yiaKLMNO-lyx-sgbHUE	sgbE // sgbU // sgbH // lyxK // yiaO // yiaN // yiaM // yiaL // yiaK	
+clcB	clcB	
+frmRAB	frmR // frmA // frmB	Regulation of frmRAB by DNA-binding transcriptional repressor FrmR
+uvrB	uvrB	
+eno	eno	
+yeaGH	yeaH // yeaG	
+gapA	gapA	
+htpG	htpG	
+ygfZ	ygfZ	
+yrhC	yrhC	
+yfjR-ypjK-yfjS-yfjT	yfjT // yfjS // ypjK // yfjR	
+mdlAB	mdlB // mdlA	
+rpoE-rseABC	rseD // rseC // rseB // rseA // rpoE	
+yejK	yejK	
+insZ	insZ	
+yadV-htrE	htrE // yadV	
+sohB	sohB	
+eamA	eamA	Regulation of eamA by DNA-binding transcriptional dual regulator Nac
+psiE	psiE	
+ymgA-ariR	ariR // ymgA	
+mgtS	mgtS	
+yqeF	yqeF	Regulation of yqeF by CRP-cyclic-AMP DNA-binding transcriptional dual regulator
+araE-ygeA	ygeA // araE	
+dcm-vsr	vsr // dcm	
+dksA-gluQ	gluQ // dksA	
+hinT-ycfL-lpoB-thiK-nagZ-ycfP	ycfP // nagZ // thiK // lpoB // ycfL // hinT	
+gapC_1C_2	gapC	Regulation of gapC_1C_2 by DNA-binding transcriptional dual regulator FNR
+galETKM	galM // galK // galT // galE	
+ygbN	ygbN	
+adiA	adiA	
+arrS	arrS	
+micL	micL	
+yjcE	yjcE	
+torCAD	torC // torA // torD	
+rcsB	rcsB	
+dsdA	dsdA	
+ygeA	ygeA	
+lon	lon	
+proVWX	proX // proW // proV	
+mreBCD	mreD // mreC // mreB	
+ecpBCDE	ecpB // ecpC // ecpD // ecpE	
+bsmA	bsmA	
+dosCP	dosP // dosC	
+rnb	rnb	
+yfbR	yfbR	Regulation of yfbR by CysB-O-acetyl-L-serine DNA-binding transcriptional dual regulator
+hemF	hemF	
+flu	flu	
+ygaC	ygaC	
+yeeO	yeeO	
+waaA	waaA	
+agrB	agrB	
+ryeA	ryeA	
+cas3	cas3	
+evgAS	evgS // evgA	
+pfkA	pfkA	
+psuT	psuT	
+ldrD	ldrD	
+groL	groL	
+yaiX	yaiX	
+prlC-yhiQ	prlC // rsmJ	
+avtA	avtA	
+ygcRQ	ygcR // ygcQ	
+ydfH	rspR	
+xseA	xseA	
+mreB	mreB	
+pgi	pgi	
+pdeB	pdeB	
+nfuA	nfuA	
+symR	symR	
+ilvIH	ilvH // ilvI	
+fabR-yijD	yijD // fabR	
+ynfM	ynfM	
+menA-rraA	rraA // menA	
+ydiP	ydiP	
+smrB	smrB	Regulation of smrB by DNA-binding transcriptional dual regulator YdcI
+oxyS	oxyS	
+focA-pflB	pflB // focA	
+yhgF	yhgF	
+ompR-envZ	envZ // ompR	
+ymfA-ycfZ	ymfA // ycfZ	
+yfjW	yfjW	
+glnLG	glnG // glnL	
+insE2F2EF2	insE2 // insF2 // insEF2	
+ycgI	ycgI	
+yfiM	yfiM	
+ycgJ	ycgJ	Regulation of ycgJ by DNA-binding transcriptional dual regulator Nac
+uppS-cdsA	cdsA // ispU	
+ibpAB	ibpB // ibpA	Regulation of ibpAB by small heat shock protein IbpA
+yjcO	yjcO	Regulation of yjcO by DNA-binding transcriptional dual regulator Nac
+rhaBAD	rhaD // rhaA // rhaB	
+ascFB	ascF // ascB	
+yaiI	yaiI	
+nemRA-gloA	gloA // nemA // nemR	
+ycdXY	ycdY // ycdX	
+sbmA-yaiW	yaiW // sbmA	
+pcnB-folK	folK // pcnB	
+cycA	cycA	Regulation of cycA by small regulatory RNA GcvB
+araC	araC	
+luxS	luxS	
+manXYZ	manX // manY // manZ	Regulation of manXYZ by small regulatory RNA SgrS
+maeA	maeA	Regulation of maeA by small regulatory RNA FnrS
+galE	galE	
+gatZABCD	gatA // gatB // gatC // gatD // gatZ	
+pdeN	pdeN	
+yceD-rpmF	rpmF // yceD	
+slyA	slyA	Regulation of slyA by DNA-binding transcriptional dual regulator SlyA // Regulation of slyA by DNA-binding transcriptional dual regulator SlyA
+argI	argI	
+gapA	gapA	
+ybcH	ybcH	
+glk	glk	
+mazEFG	mazG // mazF // mazE	
+ykgMO	ykgM // ykgO	
+ydhYVWXUT	ydhT // ydhU // ydhX // ydhW // ydhV // ydhY	
+yjdP	yjdP	
+prpR	prpR	
+fbp	fbp	
+glsA-ybaT	ybaT // glsA	
+ydjA-selD-topB	topB // ydjA // selD	
+dcuB-fumB	fumB // dcuB	
+ydfJ	ydfJ	
+lepAB	lepA // lepB	
+yhjC	rcdB	
+tomB-hha	tomB // hha	
+rdcAB	rdcB // rdcA	
+pinH	pinH	
+yehS	yehS	
+yhhZ-yrhA-insA6AB6B6	insB6 // insA6 // insAB6 // yrhA // yhhZ	
+luxS	luxS	Regulation of luxS by small regulatory RNA CyaR
+ydgH	ydgH	Regulation of ydgH by DNA-binding transcriptional dual regulator Nac
+ucpA	ucpA	
+crp	crp	
+glpR	glpR	
+bluF	bluF	
+ygcW	ygcW	Regulation of ygcW by CRP-cyclic-AMP DNA-binding transcriptional dual regulator
+pflB	pflB	
+ycjG	ycjG	
+yecH	yecH	
+glpD	glpD	
+yfgM	yfgM	
+bcsQ	bcsQ	
+clpB	clpB	
+astCADBE	astE // astB // astD // astA // astC	
+yceJI	yceJ // yceI	
+nudC-hemE-nfi	nfi // hemE // nudC	
+fimB	fimB	Regulation of fimB by small regulatory RNA MicA
+ynfO-ydfO	ydfO // ynfO	
+ymfK	ymfK	
+yafY-ykfBF-yafX-ykfGH-yafW-ykfI	yafY // ykfB // ykfF // yafX // ykfG // ykfH // yafW // ykfI	
+pheLA	pheA // pheL	
+hdeAB-yhiD	yhiD // hdeB // hdeA	Regulation of hdeAB-yhiD by ppGpp
+pepE	pepE	
+fabF	fabF	
+pstSCAB-phoU	phoU // pstB // pstA // pstC // pstS	
+kbl-tdh	tdh // kbl	
+cysQ	cysQ	Regulation of cysQ by DNA-binding transcriptional dual regulator Nac // Regulation of cysQ by ppGpp
+essQ-ydfR-rrrQ-rzpQ	essQ // ydfR // rrrQ // rzpQ	
+rclBC	rclB // rclC	
+bfd-bfr	bfd // bfr	
+aspU	aspU	
+ecpBCDE	ecpE // ecpD // ecpC // ecpB	
+galETK	galK // galT // galE	
+ackA	ackA	Regulation of ackA by DNA-binding transcriptional dual regulator Nac
+argR	argR	
+ybjD	ybjD	
+raiAZ	raiZ // raiA	
+sbcDC	sbcD // sbcC	
+oxyR	oxyR	
+cydAB	cydB // cydA	
+rplY terminator // rplVp // rplY	rplY	Regulation of rplY by 50S ribosomal subunit protein L25
+artPIQM	artM // artQ // artI // artP	
+osmB	osmB	Regulation of osmB by ppGpp
+trpS	trpS	
+tusE	tusE	
+hisS	hisS	
+yohF	yohF	
+yddAB	yddA // yddB	
+nfsB	nfsB	
+nanCMS	nanS // nanM // nanC	
+xthA	xthA	
+marC	marC	
+umuDC	umuD // umuC	
+queE	queE	Regulation of queE by DNA-binding transcriptional dual regulator PhoP-phosphorylated
+aroG	aroG	
+ileY	ileY	
+dadAX	dadX // dadA	
+rpoBC	rpoC // rpoB	
+ydgA	ydgA	
+feaR	feaR	
+arpA	arpA	
+eptA	eptA	Regulation of eptA by DNA-binding transcriptional dual regulator Nac // Regulation of eptA by DNA-binding transcriptional dual regulator BasR-phosphorylated
+rnhA	rnhA	
+yacC-speED	yacC // speD // speE	
+yqcC-truC-yqcA	yqcC // truC // yqcA	
+rrsH-ileV-alaV-rrlH-rrfH	rrfH // rrlH // alaV // ileV // rrsH	
+yhhT	yhhT	
+sufABCDSE	sufE // sufS // sufD // sufC // sufB // sufA	Regulation of sufABCDSE by ppGpp
+insN-1p // insO1 // insI1 // insN	insI1 // insN	
+yjdIJ	yjdJ // yjdI	
+bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE	dnaE // rnhB // lpxB // lpxA // fabZ // lpxD // skp // bamA	
+tsgA	tsgA	
+ydcI	ydcI	
+rlmE-ftsH	ftsH // rlmE	
+ybeD-lipB	lipB // ybeD	
+tig	tig	
+insE5EF5F5	insF5 // insE5 // insEF5	
+cyuPA	cyuP // cyuA	Regulation of cyuPA by DNA-binding transcriptional activator DecR
+matP	matP	
+leuL	leuL	
+pitA	pitA	Regulation of pitA by small regulatory RNA MgrR
+yqaE	yqaE	Regulation of yqaE by ppGpp // Regulation of yqaE by small regulatory RNA CyaR
+murJ	murJ	
+yiiE	yiiE	
+arcA	arcA	
+insG	insG	
+rpoS	rpoS	
+ykgEFG	ykgG // ykgF // ykgE	
+ymcE-gnsA	gnsA // ymcE	
+rhaT	rhaT	
+relA	relA	
+ygaY	ygaY	
+ydeQ	ydeQ	
+csiE	csiE	
+lysR	lysR	
+pcnB-folK	folK // pcnB	
+yajI	yajI	
+ybgIJKL-nei	nei // pxpA // pxpC // pxpB // ybgI	
+cynTS	cynS // cynT	
+tesA-ybbO	ybbO // tesA	
+yiiG	yiiG	
+hokD	hokD	
+tyrS-pdxY	pdxY // tyrS	
+nemA	nemA	
+patA	patA	Regulation of patA by ppGpp
+idnDOTR	idnR // idnT // idnO // idnD	
+rsxABCDGE-nth	nth // rsxE // rsxG // rsxD // rsxC // rsxB // rsxA	
+surA-pdxA-rsmA-apaGH	apaH // apaG // rsmA // pdxA // surA	
+yhcB	zapG	Regulation of yhcB by small regulatory RNA SdsR
+yjhD	yjhD	
+metJ	metJ	
+ffh	ffh	
+aroP	aroP	
+yahB	yahB	
+folE-yeiB	folE // yeiB	Regulation of folE-yeiB by small regulatory RNA SgrS // Regulation of folE-yeiB by small regulatory RNA FnrS
+pspBCDE	pspE // pspD // pspC // pspB	
+yphH	yphH	
+glnW-metU-glnVX	glnX // glnV // metU // glnW	
+otsA	otsA	
+yjbE	yjbE	
+rcnAB	rcnB // rcnA	
+hupB	hupB	
+ppnN	ppnN	Regulation of ppnN by DNA-binding transcriptional dual regulator Nac
+yahH	yahH	
+hisL	hisL	
+ycaL	ycaL	
+cmk-rpsA	rpsA // cmk	
+scpA-argK-scpBC	scpC // scpB // argK // scpA	Regulation of scpA-argK-scpBC by DNA-binding transcriptional dual regulator FNR
+yjeI	yjeI	
+yjjB-dnaTC	dnaC // dnaT // yjjB	
+cstA	cstA	
+fepB	fepB	
+ortT	ortT	Regulation of ortT by CRP-cyclic-AMP DNA-binding transcriptional dual regulator // Regulation of ortT by DNA-binding transcriptional dual regulator Nac
+tynA	tynA	
+entH	entH	
+tpiA	tpiA	
+igaA	igaA	
+purT	purT	
+pepD	pepD	
+ada-alkB	alkB // ada	
+yjaH	yjaH	Regulation of yjaH by DNA-binding transcriptional dual regulator Nac
+rhtA	rhtA	Regulation of rhtA by DNA-binding transcriptional dual regulator Nac
+aceEF	aceF // aceE	
+insA2B2AB2-afuBC	insA2 // insB2 // insAB2 // afuB // afuC	
+rpoS	rpoS	
+yjbI	yjbI	
+yceF	yceF	
+hicAB	hicB // hicA	
+mhpR-lacI	lacI // mhpR	
+rplNXE-rpsNH-rplFR-rpsE-rpmD-rplO-secY-rpmJ	rpmJ // secY // rplO // rpmD // rpsE // rplR // rplF // rpsH // rpsN // rplE // rplX // rplN	Regulation of rplNXE-rpsNH-rplFR-rpsE-rpmD-rplO-secY-rpmJ by 30S ribosomal subunit protein S8
+rrsB-gltT-rrlB-rrfB	rrfB // rrlB // gltT // rrsB	
+yneO	yneO	
+yhdP	yhdP	
+efeOB	efeB // efeO	
+yajR	yajR	
+yjbLM	yjbM // yjbL	
+nadK	nadK	
+yeeED	tsuA // tsuB	
+nfeR	nfeR	
+insH-11	insH11	
+dicC-ydfXW	dicC // ydfX // ydfW	
+bssS	bssS	
+glyA	glyA	
+mobAB	mobB // mobA	
+leuO	leuO	
+yqaBA	yqaB // yqaA	
+thiCEFSGH	thiS // thiH // thiG // thiF // thiE // thiC	Regulation of thiCEFSGH by thiamine diphosphate
+asnS	asnS	
+rcsDB	rcsB // rcsD	
+cirA	cirA	Regulation of cirA by small regulatory RNA OmrB // Regulation of cirA by small regulatory RNA OmrA
+trg	trg	
+frlABCDR	frlR // frlD // frlC // frlB // frlA	
+adhE	adhE	
+flhDC	flhC // flhD	Regulation of flhDC by small regulatory RNA OmrB // Regulation of flhDC by small regulatory RNA OmrA // Regulation of flhDC by small regulatory RNA ArcZ // Regulation of flhDC by small regulatory RNA OxyS // Regulation of flhDC by small regulatory RNA McaS // Regulation of flhDC by small regulatory RNA McaS
+gcvTHP	gcvP // gcvH // gcvT	
+yiiM	yiiM	
+stpA	stpA	
+tam	tam	Regulation of tam by ppGpp
+trxA	trxA	
+rph-pyrE	pyrE // rph	
+moaABCDE	moaE // moaD // moaC // moaB // moaA	Regulation of moaABCDE by carbon storage regulator // Regulation of moaABCDE by carbon storage regulator // Regulation of moaABCDE by molybdopterin
+rrsD-ileU-alaU-rrlD-rrfD-thrV-rrfF	rrfF // thrV // rrfD // rrlD // alaU // ileU // rrsD	
+pgaABCD	pgaD // pgaC // pgaB // pgaA	Regulation of pgaABCD by carbon storage regulator // Regulation of pgaABCD by carbon storage regulator
+tnaC	tnaC	
+rseX	rseX	
+yehHI	yehH // yehI	
+ecnAB	ecnB // ecnA	
+glsB-yneG	glsB // yneG	
+yagGH	yagH // yagG	
+gltX	gltX	
+mgrB	mgrB	
+osmF-yehYXW	yehW // yehX // yehY // osmF	
+degQ	degQ	
+ttdABT	ttdT // ttdA // ttdB	
+paaZ	paaZ	
+deaD	deaD	
+suhB	suhB	
+yahL	yahL	
+glk	glk	
+ugd	ugd	Regulation of ugd by DNA-binding transcriptional dual regulator Nac
+rrsC-gltU-rrlC-rrfC	rrfC // rrlC // gltU // rrsC	
+ubiT-yhbS	yhbS // ubiT	
+uhpABC	uhpC // uhpB // uhpA	
+insH-9	insH9	
+ymfI	ymfI	
+alsK	alsK	
+tauABCD	tauD // tauC // tauB // tauA	
+curA	curA	Regulation of curA by DNA-binding transcriptional dual regulator Nac // Regulation of curA by ppGpp
+rpoE-rseABC	rseC // rseB // rseA // rpoE	
+ilvL	ilvL	
+glnHPQ	glnQ // glnP // glnH	
+patZ	patZ	
+rybB	rybB	
+pta	pta	
+yceA	trhO	
+intA	intA	Regulation of intA by CP4-57 prophage; DNA-binding transcriptional activator AlpA
+dnaN-recF	recF // dnaN	
+mscL	mscL	
+dicF	dicF	
+ycjY-ymjDC-mpaA	mpaA // ymjC // ymjD // ycjY	
+yiiQ	yiiQ	
+dsdXA	dsdX // dsdA	
+rrsB-gltT-rrlB-rrfB	rrfB // rrlB // gltT // rrsB	
+rpmH-rnpA	rpmH // rnpA	Regulation of rpmH-rnpA by ppGpp
+mltB	mltB	
+sohB	sohB	
+ytfH	ytfH	
+yfaE	yfaE	
+dnaQ	dnaQ	
+alr	alr	
+macB	macB	
+uvrC	uvrC	
+mgsA	mgsA	
+treR	treR	
+mglBAC	mglC // mglA // mglB	
+miaA-hfq-hflXKC	hflC // hflK // hflX // hfq // miaA	
+glcDEFGBA	glcA // glcB // glcG // glcF // glcE // glcD	
+metK	metK	
+murA	murA	
+gapA	gapA	
+rpsO	rpsO	Regulation of rpsO by 30S ribosomal subunit protein S1 // Regulation of rpsO by 30S ribosomal subunit protein S15
+yfjJ	yfjJ	
+dps	dps	Regulation of dps by ppGpp
+csgBAC	csgC // csgB // csgA	
+yodB	yodB	Regulation of yodB by DNA-binding transcriptional repressor GlaR
+nudG	nudG	Regulation of nudG by DNA-binding transcriptional dual regulator Nac
+pykF	pykF	
+yagK	yagK	
+ynjF	ynjF	
+yraM	lpoA	
+yejG	yejG	
+yfjPQ	yfjQ // yfjP	
+yncH	yncH	
+putP	putP	
+lysO	lysO	
+gntR	gntR	
+yaiL	yaiL	
+ldhA	ldhA	
+fiu	fiu	Regulation of fiu by small regulatory RNA RybB
+rrsA-ileT-alaT-rrlA-rrfA	rrfA // rrlA // alaT // ileT // rrsA	
+yihD	yihD	
+yneK	yneK	
+mcaS	mcaS	
+hypABCDE	hypA // hypB // hypC // hypD // hypE	
+sibB	sibB	
+cpxRA	cpxA // cpxR	Regulation of cpxRA by small regulatory RNA MicF
+ybbN	cnoX	
+rpsB-tsf	tff // rpsB // tsf	Regulation of rpsB-tsf by 30S ribosomal subunit protein S2
+ytfE	ytfE	
+yedL	yedL	Regulation of yedL by DNA-binding transcriptional dual regulator Nac
+ispDF	ispF // ispD	
+yphA	yphA	
+sohB	sohB	
+intF	intF	
+arcA	arcA	
+sseB	sseB	
+cspD	cspD	
+nuoMN	nuoN // nuoM	
+xylFGHR	xylF // xylG // xylH // xylR	
+yiiX	yiiX	
+hpt	hpt	
+mlc-ynfK	bidA // mlc	
+ygbLM	ygbM // ygbL	
+ykgJ	ykgJ	
+rmf	rmf	Regulation of rmf by putrescine
+yqjF	yqjF	Regulation of yqjF by ppGpp // Regulation of yqjF by DNA-binding transcriptional activator YhaJ
+ldtA	ldtA	
+narK	narS // narK	
+ghxP	ghxP	
+kptA	kptA	
+rrsH-ileV-alaV-rrlH-rrfH	rrfH // rrlH // alaV // ileV // rrsH	
+yjgB	ahr	
+ydcF	ydcF	
+agrA	agrA	
+hfq-hflXKC	hflC // hflK // hflX // hfq	
+lldPRD	lldD // lldR // lldP	
+agaR	agaR	
+cysS	cysS	
+ldrC	ldrC	
+ptsHI-crr	ptsH // ptsI // crr	
+ybiJ	ybiJ	Regulation of ybiJ by DNA-binding transcriptional activator YhaJ
+pdhR-aceEF-lpdA	pdhR // aceE // aceF // lpd	
+hyaABCDEF	hyaA // hyaB // hyaC // hyaD // hyaE // hyaF	
+yafJ	yafJ	
+aspS	aspS	
+ptsA-fsaB-gldA	ptsA // fsaB // gldA	
+yhcF	yhcF	
+cho	cho	
+melAB	melA // melB	
+pntAB	pntB // pntA	
+pqiABC	pqiC // pqiB // pqiA	
+ydcC	ydcC	
+astCADBE	astE // astB // astD // astA // astC	
+yobH	yobH	
+insC1CD1D1	insD1 // insC1 // insCD1	
+eptC	eptC	
+yphG	yphG	
+yjbEFGH	yjbH // yjbG // yjbF // yjbE	
+katE	katE	Regulation of katE by ppGpp
+nlpA	nlpA	Regulation of nlpA by small regulatory RNA GcvB
+ydfG	ydfG	
+secG-leuU	leuU // secG	
+ycaM	ycaM	
+ribA	ribA	
+csrA	csrA	
+yfjV	yfjV	
+rpsLG-fusA-tufA	tufA // fusA // rpsG // rpsL	Regulation of rpsLG-fusA-tufA by 30S ribosomal subunit protein S7
+tdcR	tdcR	Regulation of tdcR by DNA-binding transcriptional dual regulator Nac
+aspA	aspA	
+mpl	mpl	
+acnB	acnB	
+nfeF	nfeF	
+pgsA	pgsA	

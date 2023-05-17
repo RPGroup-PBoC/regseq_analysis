@@ -1,0 +1,447 @@
+<?xml version='1.0'?>
+<!-- # Copies and Copyright-Notice
+#
+#      RegulonDB is free for academic/noncommercial use
+#
+#      User is not entitled to change or erase data sets of the RegulonDB
+#      database or to eliminate copyright notices from RegulonDB. Furthermore,
+#      User is not entitled to expand RegulonDB or to integrate RegulonDB partly
+#      or as a whole into other databank systems, without prior written consent
+#      from CCG-UNAM.
+#
+#      Please check the license at http://regulondb.ccg.unam.mx/menu/download/full_version/terms_and_conditions.jsp
+#
+# Citation
+#
+#      Tierrafría, V. H. et al. (2022). RegulonDB 11.0: Comprehensive high-throughput datasets on transcriptional regulation in Escherichia coli K-12,
+#      Microb Genom. 2022 May;8(5). doi: 10.1099/mgen.0.000833. PMID: 35584008. https://doi.org/10.1099/mgen.0.000833
+#
+#
+# Contact
+#
+#      Person: RegulonDB Team
+#      Web Page: http://regulondb.ccg.unam.mx/menu/about_regulondb/contact_us/index.jsp
+#          (regulondb@ccg.unam.mx)
+#
+# RegulonDB: 11.1 Date:12/12/2022-->
+<!-- Created: 12/12/2022 11:48:35-->
+<!-- Table: CHARTS_TMP-->
+<!-- Columns: -->
+<!-- 1) CHART_NAME-->
+<!-- 2) CHART_TYPE-->
+<!-- 3) CHART_TITLE-->
+<!-- 4) TITLE_X-->
+<!-- 5) TITLE_Y-->
+<!-- 6) OBJECT_NAME-->
+<!-- 7) NUMBER_OPTION-->
+<!-- 8) QUERY_NUMBER-->
+<!-- 9) CHART_ID-->
+<ROWSET>
+	<ROW num="1">
+		<CHART_NAME>activator_site_distribution_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Activation DNA Binding Sites Distribution</CHART_TITLE>
+		<TITLE_X>Relative Position of DNA Binding Sites (with respect to TSS)</TITLE_X>
+		<TITLE_Y>Number of DNA Binding Sites</TITLE_Y>
+		<OBJECT_NAME>site_distribution</OBJECT_NAME>
+		<NUMBER_OPTION>0</NUMBER_OPTION>
+		<QUERY_NUMBER>0</QUERY_NUMBER>
+		<CHART_ID>1</CHART_ID>
+	</ROW>
+	<ROW num="2">
+		<CHART_NAME>activator_site_distribution_sigma19_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Activation DNA Binding Sites Distribution In Sigma19 Promoters</CHART_TITLE>
+		<TITLE_X>Relative Position of DNA Binding Sites (with respect to TSS)</TITLE_X>
+		<TITLE_Y>Number of DNA Binding Sites</TITLE_Y>
+		<OBJECT_NAME>site_distribution</OBJECT_NAME>
+		<NUMBER_OPTION>2</NUMBER_OPTION>
+		<QUERY_NUMBER>2</QUERY_NUMBER>
+		<CHART_ID>50</CHART_ID>
+	</ROW>
+	<ROW num="3">
+		<CHART_NAME>activator_site_distribution_sigma2470_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Activation DNA Binding Sites Distribution In Sigma24,Sigma70 Promoters</CHART_TITLE>
+		<TITLE_X>Relative Position of DNA Binding Sites (with respect to TSS)</TITLE_X>
+		<TITLE_Y>Number of DNA Binding Sites</TITLE_Y>
+		<OBJECT_NAME>site_distribution</OBJECT_NAME>
+		<NUMBER_OPTION>9</NUMBER_OPTION>
+		<QUERY_NUMBER>9</QUERY_NUMBER>
+		<CHART_ID>57</CHART_ID>
+	</ROW>
+	<ROW num="4">
+		<CHART_NAME>activator_site_distribution_sigma24_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Activation DNA Binding Sites Distribution In Sigma24 Promoters</CHART_TITLE>
+		<TITLE_X>Relative Position of DNA Binding Sites (with respect to TSS)</TITLE_X>
+		<TITLE_Y>Number of DNA Binding Sites</TITLE_Y>
+		<OBJECT_NAME>site_distribution</OBJECT_NAME>
+		<NUMBER_OPTION>3</NUMBER_OPTION>
+		<QUERY_NUMBER>3</QUERY_NUMBER>
+		<CHART_ID>51</CHART_ID>
+	</ROW>
+	<ROW num="5">
+		<CHART_NAME>activator_site_distribution_sigma28_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Activation DNA Binding Sites Distribution In Sigma28 Promoters</CHART_TITLE>
+		<TITLE_X>Relative Position of DNA Binding Sites (with respect to TSS)</TITLE_X>
+		<TITLE_Y>Number of DNA Binding Sites</TITLE_Y>
+		<OBJECT_NAME>site_distribution</OBJECT_NAME>
+		<NUMBER_OPTION>4</NUMBER_OPTION>
+		<QUERY_NUMBER>4</QUERY_NUMBER>
+		<CHART_ID>52</CHART_ID>
+	</ROW>
+	<ROW num="6">
+		<CHART_NAME>activator_site_distribution_sigma32_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Activation DNA Binding Sites Distribution In Sigma32 Promoters</CHART_TITLE>
+		<TITLE_X>Relative Position of DNA Binding Sites (with respect to TSS)</TITLE_X>
+		<TITLE_Y>Number of DNA Binding Sites</TITLE_Y>
+		<OBJECT_NAME>site_distribution</OBJECT_NAME>
+		<NUMBER_OPTION>5</NUMBER_OPTION>
+		<QUERY_NUMBER>5</QUERY_NUMBER>
+		<CHART_ID>53</CHART_ID>
+	</ROW>
+	<ROW num="7">
+		<CHART_NAME>activator_site_distribution_sigma38_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Activation DNA Binding Sites Distribution In Sigma38 Promoters</CHART_TITLE>
+		<TITLE_X>Relative Position of DNA Binding Sites (with respect to TSS)</TITLE_X>
+		<TITLE_Y>Number of DNA Binding Sites</TITLE_Y>
+		<OBJECT_NAME>site_distribution</OBJECT_NAME>
+		<NUMBER_OPTION>6</NUMBER_OPTION>
+		<QUERY_NUMBER>6</QUERY_NUMBER>
+		<CHART_ID>54</CHART_ID>
+	</ROW>
+	<ROW num="8">
+		<CHART_NAME>activator_site_distribution_sigma54_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Activation DNA Binding Sites Distribution In Sigma54 Promoters</CHART_TITLE>
+		<TITLE_X>Relative Position of DNA Binding Sites (with respect to TSS)</TITLE_X>
+		<TITLE_Y>Number of DNA Binding Sites</TITLE_Y>
+		<OBJECT_NAME>site_distribution</OBJECT_NAME>
+		<NUMBER_OPTION>7</NUMBER_OPTION>
+		<QUERY_NUMBER>7</QUERY_NUMBER>
+		<CHART_ID>55</CHART_ID>
+	</ROW>
+	<ROW num="9">
+		<CHART_NAME>activator_site_distribution_sigma7032_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Activation DNA Binding Sites Distribution In Sigma32,Sigma70 Promoters</CHART_TITLE>
+		<TITLE_X>Relative Position of DNA Binding Sites (with respect to TSS)</TITLE_X>
+		<TITLE_Y>Number of DNA Binding Sites</TITLE_Y>
+		<OBJECT_NAME>site_distribution</OBJECT_NAME>
+		<NUMBER_OPTION>10</NUMBER_OPTION>
+		<QUERY_NUMBER>10</QUERY_NUMBER>
+		<CHART_ID>58</CHART_ID>
+	</ROW>
+	<ROW num="10">
+		<CHART_NAME>activator_site_distribution_sigma7038_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Activation DNA Binding Sites Distribution In Sigma38,Sigma70 Promoters</CHART_TITLE>
+		<TITLE_X>Relative Position of DNA Binding Sites (with respect to TSS)</TITLE_X>
+		<TITLE_Y>Number of DNA Binding Sites</TITLE_Y>
+		<OBJECT_NAME>site_distribution</OBJECT_NAME>
+		<NUMBER_OPTION>11</NUMBER_OPTION>
+		<QUERY_NUMBER>11</QUERY_NUMBER>
+		<CHART_ID>59</CHART_ID>
+	</ROW>
+	<ROW num="11">
+		<CHART_NAME>activator_site_distribution_sigma70_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Activation DNA Binding Sites Distribution In Sigma70 Promoters</CHART_TITLE>
+		<TITLE_X>Relative Position of DNA Binding Sites (with respect to TSS)</TITLE_X>
+		<TITLE_Y>Number of DNA Binding Sites</TITLE_Y>
+		<OBJECT_NAME>site_distribution</OBJECT_NAME>
+		<NUMBER_OPTION>8</NUMBER_OPTION>
+		<QUERY_NUMBER>8</QUERY_NUMBER>
+		<CHART_ID>56</CHART_ID>
+	</ROW>
+	<ROW num="12">
+		<CHART_NAME>activator_site_distribution_sigma70__tf_unique_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Activation DNA Binding Sites Distribution In Sigma70 Promoters With TF's Unique</CHART_TITLE>
+		<TITLE_X>Relative Position of DNA Binding Sites (with respect to TSS)</TITLE_X>
+		<TITLE_Y>Number of DNA Binding Sites</TITLE_Y>
+		<OBJECT_NAME>site_distribution</OBJECT_NAME>
+		<NUMBER_OPTION>22</NUMBER_OPTION>
+		<QUERY_NUMBER>22</QUERY_NUMBER>
+		<CHART_ID>70</CHART_ID>
+	</ROW>
+	<ROW num="13">
+		<CHART_NAME>gene_number_by_sigma_factor_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Number of Genes Regulated by Sigma Factor(s) (Sigmulons)</CHART_TITLE>
+		<TITLE_X>Sigma Factor Name</TITLE_X>
+		<TITLE_Y>Number of Genes </TITLE_Y>
+		<OBJECT_NAME>sigma_factor</OBJECT_NAME>
+		<NUMBER_OPTION>0</NUMBER_OPTION>
+		<QUERY_NUMBER>0</QUERY_NUMBER>
+		<CHART_ID>3</CHART_ID>
+	</ROW>
+	<ROW num="14">
+		<CHART_NAME>gene_number_related_operon_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Number of Genes per Operon</CHART_TITLE>
+		<TITLE_X>Number of Genes</TITLE_X>
+		<TITLE_Y>Number of Operons</TITLE_Y>
+		<OBJECT_NAME>operon</OBJECT_NAME>
+		<NUMBER_OPTION>1</NUMBER_OPTION>
+		<QUERY_NUMBER>1</QUERY_NUMBER>
+		<CHART_ID>11</CHART_ID>
+	</ROW>
+	<ROW num="15">
+		<CHART_NAME>number_of_complex_regulon_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Number of Transcription Factors per Regulons (simple and complex)</CHART_TITLE>
+		<TITLE_X>Number of Transcription Factors</TITLE_X>
+		<TITLE_Y>Number of Regulons</TITLE_Y>
+		<OBJECT_NAME>regulon</OBJECT_NAME>
+		<NUMBER_OPTION>0</NUMBER_OPTION>
+		<QUERY_NUMBER>0</QUERY_NUMBER>
+		<CHART_ID>9</CHART_ID>
+	</ROW>
+	<ROW num="16">
+		<CHART_NAME>promoter_number_by_sigma_factor_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Number of Promoters Associated to Sigma Factor(s)</CHART_TITLE>
+		<TITLE_X>Sigma Factor Name</TITLE_X>
+		<TITLE_Y>Number of Promoters</TITLE_Y>
+		<OBJECT_NAME>sigma_factor</OBJECT_NAME>
+		<NUMBER_OPTION>2</NUMBER_OPTION>
+		<QUERY_NUMBER>2</QUERY_NUMBER>
+		<CHART_ID>17</CHART_ID>
+	</ROW>
+	<ROW num="17">
+		<CHART_NAME>promoter_number_related_operon_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Number of Promoters per Operon</CHART_TITLE>
+		<TITLE_X>Number of Promoters </TITLE_X>
+		<TITLE_Y>Number of Operons</TITLE_Y>
+		<OBJECT_NAME>operon</OBJECT_NAME>
+		<NUMBER_OPTION>4</NUMBER_OPTION>
+		<QUERY_NUMBER>4</QUERY_NUMBER>
+		<CHART_ID>14</CHART_ID>
+	</ROW>
+	<ROW num="18">
+		<CHART_NAME>protein_number_by_sigma_factor_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Number of Transcription Factors Associated to Sigma Factor(s)</CHART_TITLE>
+		<TITLE_X>Sigma Factor Name</TITLE_X>
+		<TITLE_Y>Number of Transcription Factors</TITLE_Y>
+		<OBJECT_NAME>sigma_factor</OBJECT_NAME>
+		<NUMBER_OPTION>1</NUMBER_OPTION>
+		<QUERY_NUMBER>1</QUERY_NUMBER>
+		<CHART_ID>4</CHART_ID>
+	</ROW>
+	<ROW num="19">
+		<CHART_NAME>repressor_site_distribution_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Repression DNA Binding Sites Distribution</CHART_TITLE>
+		<TITLE_X>Relative Position of DNA Binding Sites (with respect to TSS)</TITLE_X>
+		<TITLE_Y>Number of DNA Binding Sites</TITLE_Y>
+		<OBJECT_NAME>site_distribution</OBJECT_NAME>
+		<NUMBER_OPTION>1</NUMBER_OPTION>
+		<QUERY_NUMBER>1</QUERY_NUMBER>
+		<CHART_ID>2</CHART_ID>
+	</ROW>
+	<ROW num="20">
+		<CHART_NAME>repressor_site_distribution_sigma19_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Repression DNA Binding Sites Distribution In Sigma19 Promoters</CHART_TITLE>
+		<TITLE_X>Relative Position of DNA Binding Sites (with respect to TSS)</TITLE_X>
+		<TITLE_Y>Number of DNA Binding Sites</TITLE_Y>
+		<OBJECT_NAME>site_distribution</OBJECT_NAME>
+		<NUMBER_OPTION>12</NUMBER_OPTION>
+		<QUERY_NUMBER>12</QUERY_NUMBER>
+		<CHART_ID>60</CHART_ID>
+	</ROW>
+	<ROW num="21">
+		<CHART_NAME>repressor_site_distribution_sigma24_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Repression DNA Binding Sites Distribution In Sigma24 Promoters</CHART_TITLE>
+		<TITLE_X>Relative Position of DNA Binding Sites (with respect to TSS)</TITLE_X>
+		<TITLE_Y>Number of DNA Binding Sites</TITLE_Y>
+		<OBJECT_NAME>site_distribution</OBJECT_NAME>
+		<NUMBER_OPTION>13</NUMBER_OPTION>
+		<QUERY_NUMBER>13</QUERY_NUMBER>
+		<CHART_ID>67</CHART_ID>
+	</ROW>
+	<ROW num="22">
+		<CHART_NAME>repressor_site_distribution_sigma28_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Repression DNA Binding Sites Distribution In Sigma28 Promoters</CHART_TITLE>
+		<TITLE_X>Relative Position of DNA Binding Sites (with respect to TSS)</TITLE_X>
+		<TITLE_Y>Number of DNA Binding Sites</TITLE_Y>
+		<OBJECT_NAME>site_distribution</OBJECT_NAME>
+		<NUMBER_OPTION>14</NUMBER_OPTION>
+		<QUERY_NUMBER>14</QUERY_NUMBER>
+		<CHART_ID>62</CHART_ID>
+	</ROW>
+	<ROW num="23">
+		<CHART_NAME>repressor_site_distribution_sigma32_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Repression DNA Binding Sites Distribution In Sigma32 Promoters</CHART_TITLE>
+		<TITLE_X>Relative Position of DNA Binding Sites (with respect to TSS)</TITLE_X>
+		<TITLE_Y>Number of DNA Binding Sites</TITLE_Y>
+		<OBJECT_NAME>site_distribution</OBJECT_NAME>
+		<NUMBER_OPTION>15</NUMBER_OPTION>
+		<QUERY_NUMBER>15</QUERY_NUMBER>
+		<CHART_ID>63</CHART_ID>
+	</ROW>
+	<ROW num="24">
+		<CHART_NAME>repressor_site_distribution_sigma38_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Repression DNA Binding Sites Distribution In Sigma38 Promoters</CHART_TITLE>
+		<TITLE_X>Relative Position of DNA Binding Sites (with respect to TSS)</TITLE_X>
+		<TITLE_Y>Number of DNA Binding Sites</TITLE_Y>
+		<OBJECT_NAME>site_distribution</OBJECT_NAME>
+		<NUMBER_OPTION>16</NUMBER_OPTION>
+		<QUERY_NUMBER>16</QUERY_NUMBER>
+		<CHART_ID>64</CHART_ID>
+	</ROW>
+	<ROW num="25">
+		<CHART_NAME>repressor_site_distribution_sigma54_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Repression DNA Binding Sites Distribution In Sigma54 Promoters</CHART_TITLE>
+		<TITLE_X>Relative Position of DNA Binding Sites (with respect to TSS)</TITLE_X>
+		<TITLE_Y>Number of DNA Binding Sites</TITLE_Y>
+		<OBJECT_NAME>site_distribution</OBJECT_NAME>
+		<NUMBER_OPTION>17</NUMBER_OPTION>
+		<QUERY_NUMBER>17</QUERY_NUMBER>
+		<CHART_ID>65</CHART_ID>
+	</ROW>
+	<ROW num="26">
+		<CHART_NAME>repressor_site_distribution_sigma7024_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Repression DNA Binding Sites Distribution In Sigma24,Sigma70 Promoters</CHART_TITLE>
+		<TITLE_X>Relative Position of DNA Binding Sites (with respect to TSS)</TITLE_X>
+		<TITLE_Y>Number of DNA Binding Sites</TITLE_Y>
+		<OBJECT_NAME>site_distribution</OBJECT_NAME>
+		<NUMBER_OPTION>19</NUMBER_OPTION>
+		<QUERY_NUMBER>19</QUERY_NUMBER>
+		<CHART_ID>72</CHART_ID>
+	</ROW>
+	<ROW num="27">
+		<CHART_NAME>repressor_site_distribution_sigma7032_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Repression DNA Binding Sites Distribution In Sigma32,Sigma70 Promoters</CHART_TITLE>
+		<TITLE_X>Relative Position of DNA Binding Sites (with respect to TSS)</TITLE_X>
+		<TITLE_Y>Number of DNA Binding Sites</TITLE_Y>
+		<OBJECT_NAME>site_distribution</OBJECT_NAME>
+		<NUMBER_OPTION>20</NUMBER_OPTION>
+		<QUERY_NUMBER>20</QUERY_NUMBER>
+		<CHART_ID>68</CHART_ID>
+	</ROW>
+	<ROW num="28">
+		<CHART_NAME>repressor_site_distribution_sigma7038_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Repression DNA Binding Sites Distribution In Sigma38,Sigma70 Promoters</CHART_TITLE>
+		<TITLE_X>Relative Position of DNA Binding Sites (with respect to TSS)</TITLE_X>
+		<TITLE_Y>Number of DNA Binding Sites</TITLE_Y>
+		<OBJECT_NAME>site_distribution</OBJECT_NAME>
+		<NUMBER_OPTION>21</NUMBER_OPTION>
+		<QUERY_NUMBER>21</QUERY_NUMBER>
+		<CHART_ID>69</CHART_ID>
+	</ROW>
+	<ROW num="29">
+		<CHART_NAME>repressor_site_distribution_sigma70_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Repression DNA Binding Sites Distribution In Sigma70 Promoters</CHART_TITLE>
+		<TITLE_X>Relative Position of DNA Binding Sites (with respect to TSS)</TITLE_X>
+		<TITLE_Y>Number of DNA Binding Sites</TITLE_Y>
+		<OBJECT_NAME>site_distribution</OBJECT_NAME>
+		<NUMBER_OPTION>18</NUMBER_OPTION>
+		<QUERY_NUMBER>18</QUERY_NUMBER>
+		<CHART_ID>66</CHART_ID>
+	</ROW>
+	<ROW num="30">
+		<CHART_NAME>repressor_site_distribution_sigma70__tf_unique_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Repression DNA Binding Sites Distribution In Sigma70 Promoters With TF's Unique</CHART_TITLE>
+		<TITLE_X>Relative Position of DNA Binding Sites (with respect to TSS)</TITLE_X>
+		<TITLE_Y>Number of DNA Binding Sites</TITLE_Y>
+		<OBJECT_NAME>site_distribution</OBJECT_NAME>
+		<NUMBER_OPTION>23</NUMBER_OPTION>
+		<QUERY_NUMBER>23</QUERY_NUMBER>
+		<CHART_ID>71</CHART_ID>
+	</ROW>
+	<ROW num="31">
+		<CHART_NAME>sigma_factor_number_related_operon_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Number of Sigma Factor Transcribing Operon</CHART_TITLE>
+		<TITLE_X>Number of Sigma Factors</TITLE_X>
+		<TITLE_Y>Number of Operons</TITLE_Y>
+		<OBJECT_NAME>operon</OBJECT_NAME>
+		<NUMBER_OPTION>2</NUMBER_OPTION>
+		<QUERY_NUMBER>2</QUERY_NUMBER>
+		<CHART_ID>12</CHART_ID>
+	</ROW>
+	<ROW num="32">
+		<CHART_NAME>site_number_by_tf_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Number of DNA Binding Sites per Transcription Factor</CHART_TITLE>
+		<TITLE_X>Number of DNA Binding Sites</TITLE_X>
+		<TITLE_Y>Number of Transcription Factor (s)</TITLE_Y>
+		<OBJECT_NAME>tf</OBJECT_NAME>
+		<NUMBER_OPTION>0</NUMBER_OPTION>
+		<QUERY_NUMBER>0</QUERY_NUMBER>
+		<CHART_ID>5</CHART_ID>
+	</ROW>
+	<ROW num="33">
+		<CHART_NAME>site_number_related_operon_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Number of DNA Binding Sites of Transcription Factors per Operon</CHART_TITLE>
+		<TITLE_X>Number of DNA Binding Sites</TITLE_X>
+		<TITLE_Y>Number of Operons</TITLE_Y>
+		<OBJECT_NAME>operon</OBJECT_NAME>
+		<NUMBER_OPTION>3</NUMBER_OPTION>
+		<QUERY_NUMBER>3</QUERY_NUMBER>
+		<CHART_ID>13</CHART_ID>
+	</ROW>
+	<ROW num="34">
+		<CHART_NAME>site_size_by_tf_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Length of DNA Binding Sites per Transcription Factor</CHART_TITLE>
+		<TITLE_X>Length of DNA Binding Sites</TITLE_X>
+		<TITLE_Y>Number of Transcription Factor (s)</TITLE_Y>
+		<OBJECT_NAME>tf</OBJECT_NAME>
+		<NUMBER_OPTION>1</NUMBER_OPTION>
+		<QUERY_NUMBER>1</QUERY_NUMBER>
+		<CHART_ID>6</CHART_ID>
+	</ROW>
+	<ROW num="35">
+		<CHART_NAME>terminator_number_related_operon_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Number of Terminator per Operon</CHART_TITLE>
+		<TITLE_X>Number of Terminators</TITLE_X>
+		<TITLE_Y>Number of Operons</TITLE_Y>
+		<OBJECT_NAME>operon</OBJECT_NAME>
+		<NUMBER_OPTION>6</NUMBER_OPTION>
+		<QUERY_NUMBER>6</QUERY_NUMBER>
+		<CHART_ID>16</CHART_ID>
+	</ROW>
+	<ROW num="36">
+		<CHART_NAME>tf_number_related_operon_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Number of Transcription Factor Regulating Operons</CHART_TITLE>
+		<TITLE_X>Number of Transcription Factors</TITLE_X>
+		<TITLE_Y>Number of Operons</TITLE_Y>
+		<OBJECT_NAME>operon</OBJECT_NAME>
+		<NUMBER_OPTION>5</NUMBER_OPTION>
+		<QUERY_NUMBER>5</QUERY_NUMBER>
+		<CHART_ID>15</CHART_ID>
+	</ROW>
+	<ROW num="37">
+		<CHART_NAME>tu_number_related_operon_X.jpg</CHART_NAME>
+		<CHART_TYPE>bar_chart</CHART_TYPE>
+		<CHART_TITLE>Number of Transcription Units  per Operon</CHART_TITLE>
+		<TITLE_X>Number of Transcription Units</TITLE_X>
+		<TITLE_Y>Number of Operons</TITLE_Y>
+		<OBJECT_NAME>operon</OBJECT_NAME>
+		<NUMBER_OPTION>0</NUMBER_OPTION>
+		<QUERY_NUMBER>0</QUERY_NUMBER>
+		<CHART_ID>10</CHART_ID>
+	</ROW>
+</ROWSET>

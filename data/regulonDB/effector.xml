@@ -1,0 +1,1419 @@
+<?xml version='1.0'?>
+<!-- # Copies and Copyright-Notice
+#
+#      RegulonDB is free for academic/noncommercial use
+#
+#      User is not entitled to change or erase data sets of the RegulonDB
+#      database or to eliminate copyright notices from RegulonDB. Furthermore,
+#      User is not entitled to expand RegulonDB or to integrate RegulonDB partly
+#      or as a whole into other databank systems, without prior written consent
+#      from CCG-UNAM.
+#
+#      Please check the license at http://regulondb.ccg.unam.mx/menu/download/full_version/terms_and_conditions.jsp
+#
+# Citation
+#
+#      Tierrafría, V. H. et al. (2022). RegulonDB 11.0: Comprehensive high-throughput datasets on transcriptional regulation in Escherichia coli K-12,
+#      Microb Genom. 2022 May;8(5). doi: 10.1099/mgen.0.000833. PMID: 35584008. https://doi.org/10.1099/mgen.0.000833
+#
+#
+# Contact
+#
+#      Person: RegulonDB Team
+#      Web Page: http://regulondb.ccg.unam.mx/menu/about_regulondb/contact_us/index.jsp
+#          (regulondb@ccg.unam.mx)
+#
+# RegulonDB: 11.1 Date:12/12/2022-->
+<!-- Created: 12/12/2022 11:48:35-->
+<!-- Table: EFFECTOR-->
+<!-- Columns: -->
+<!-- 1) EFFECTOR_ID-->
+<!-- 2) EFFECTOR_NAME-->
+<!-- 3) CATEGORY-->
+<!-- 4) EFFECTOR_TYPE-->
+<!-- 5) EFFECTOR_NOTE-->
+<!-- 6) EFFECTOR_INTERNAL_COMMENT-->
+<!-- 7) KEY_ID_ORG-->
+<!-- 8) EFFECTOR_NOTE_WEB-->
+<ROWSET>
+	<ROW num="1">
+		<EFFECTOR_ID>ECK120011271</EFFECTOR_ID>
+		<EFFECTOR_NAME>Phosphate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="2">
+		<EFFECTOR_ID>ECK120011905</EFFECTOR_ID>
+		<EFFECTOR_NAME>ATP</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="3">
+		<EFFECTOR_ID>ECK120012879</EFFECTOR_ID>
+		<EFFECTOR_NAME>L-rhamnose</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE>This compound class represents a reducing sugar that exists in solution in multiple configurations. The open-chain structure shown here is provided only as a schematic illustration of chirality. Consult the appropriate class instances for information on specific ring structures and their anomeric configuration.</EFFECTOR_NOTE>
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="4">
+		<EFFECTOR_ID>ECK120028000</EFFECTOR_ID>
+		<EFFECTOR_NAME>TorI</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="5">
+		<EFFECTOR_ID>ECK125145904</EFFECTOR_ID>
+		<EFFECTOR_NAME>Ag</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="6">
+		<EFFECTOR_ID>ECK125145905</EFFECTOR_ID>
+		<EFFECTOR_NAME>Au</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="7">
+		<EFFECTOR_ID>ECK125145910</EFFECTOR_ID>
+		<EFFECTOR_NAME>Hg</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="8">
+		<EFFECTOR_ID>ECK125147230</EFFECTOR_ID>
+		<EFFECTOR_NAME>Cd<sup>2+</sup></EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="9">
+		<EFFECTOR_ID>ECK125147286</EFFECTOR_ID>
+		<EFFECTOR_NAME>Proflavin</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="10">
+		<EFFECTOR_ID>ECK125147287</EFFECTOR_ID>
+		<EFFECTOR_NAME>R6G</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="11">
+		<EFFECTOR_ID>ECK125147288</EFFECTOR_ID>
+		<EFFECTOR_NAME>Methyl</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="12">
+		<EFFECTOR_ID>ECK125147291</EFFECTOR_ID>
+		<EFFECTOR_NAME>D-fucose</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="13">
+		<EFFECTOR_ID>ECK125147294</EFFECTOR_ID>
+		<EFFECTOR_NAME>Thiosulphate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="14">
+		<EFFECTOR_ID>ECK125147295</EFFECTOR_ID>
+		<EFFECTOR_NAME>N-acetyl-L-serine</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="15">
+		<EFFECTOR_ID>ECK125147296</EFFECTOR_ID>
+		<EFFECTOR_NAME>Sulphide</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="16">
+		<EFFECTOR_ID>ECK125147298</EFFECTOR_ID>
+		<EFFECTOR_NAME>Deoxyribose-5-phosphate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="17">
+		<EFFECTOR_ID>ECK125147299</EFFECTOR_ID>
+		<EFFECTOR_NAME>EIIGlc</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="18">
+		<EFFECTOR_ID>ECK125147300</EFFECTOR_ID>
+		<EFFECTOR_NAME>DhaK</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="19">
+		<EFFECTOR_ID>ECK125147305</EFFECTOR_ID>
+		<EFFECTOR_NAME>Purine</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="20">
+		<EFFECTOR_ID>ECK125147306</EFFECTOR_ID>
+		<EFFECTOR_NAME>Acetate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="21">
+		<EFFECTOR_ID>ECK125147308</EFFECTOR_ID>
+		<EFFECTOR_NAME>Idonate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="22">
+		<EFFECTOR_ID>ECK125147309</EFFECTOR_ID>
+		<EFFECTOR_NAME>Alfa-acetohydroxybutirate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="23">
+		<EFFECTOR_ID>ECK125147313</EFFECTOR_ID>
+		<EFFECTOR_NAME>ADP</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="24">
+		<EFFECTOR_ID>ECK125147314</EFFECTOR_ID>
+		<EFFECTOR_NAME>Aes</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="25">
+		<EFFECTOR_ID>ECK125147315</EFFECTOR_ID>
+		<EFFECTOR_NAME>MalY</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="26">
+		<EFFECTOR_ID>ECK125147316</EFFECTOR_ID>
+		<EFFECTOR_NAME>Benzoate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="27">
+		<EFFECTOR_ID>ECK125147317</EFFECTOR_ID>
+		<EFFECTOR_NAME>Menadione</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="28">
+		<EFFECTOR_ID>ECK125147318</EFFECTOR_ID>
+		<EFFECTOR_NAME>Paraquat</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="29">
+		<EFFECTOR_ID>ECK125147319</EFFECTOR_ID>
+		<EFFECTOR_NAME>Phenazine methosulfate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="30">
+		<EFFECTOR_ID>ECK125147320</EFFECTOR_ID>
+		<EFFECTOR_NAME>Plumbagin</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="31">
+		<EFFECTOR_ID>ECK125147321</EFFECTOR_ID>
+		<EFFECTOR_NAME>Sodium salicylate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="32">
+		<EFFECTOR_ID>ECK125147322</EFFECTOR_ID>
+		<EFFECTOR_NAME>3-(2,3-dihydroxyphenyl)propionate [DHPP]</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="33">
+		<EFFECTOR_ID>ECK125147324</EFFECTOR_ID>
+		<EFFECTOR_NAME>Carbonyl cyanide p-(trifluoro-methoxy)phenylhydrazone</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="34">
+		<EFFECTOR_ID>ECK125147328</EFFECTOR_ID>
+		<EFFECTOR_NAME>[2Fe-2S] reduced</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="35">
+		<EFFECTOR_ID>ECK125147331</EFFECTOR_ID>
+		<EFFECTOR_NAME>Guanine</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="36">
+		<EFFECTOR_ID>ECK125147334</EFFECTOR_ID>
+		<EFFECTOR_NAME>[2Fe-2S]<sup>3+</sup> oxydized</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="37">
+		<EFFECTOR_ID>ECK125147335</EFFECTOR_ID>
+		<EFFECTOR_NAME>[2Fe-2S]<sup>2+</sup> reduced</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="38">
+		<EFFECTOR_ID>ECK125147336</EFFECTOR_ID>
+		<EFFECTOR_NAME>Trehalose</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="39">
+		<EFFECTOR_ID>ECK125147364</EFFECTOR_ID>
+		<EFFECTOR_NAME>[4Fe-4S]<sup>2+</sup> reduced</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="40">
+		<EFFECTOR_ID>ECK125147366</EFFECTOR_ID>
+		<EFFECTOR_NAME>[2Fe-2S]<sup>2+</sup> oxidized</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="41">
+		<EFFECTOR_ID>ECK125147375</EFFECTOR_ID>
+		<EFFECTOR_NAME>dATP</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="42">
+		<EFFECTOR_ID>ECK125147395</EFFECTOR_ID>
+		<EFFECTOR_NAME>MalK</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="43">
+		<EFFECTOR_ID>ECK125161300</EFFECTOR_ID>
+		<EFFECTOR_NAME>Met-oxidized</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="44">
+		<EFFECTOR_ID>ECK125257206</EFFECTOR_ID>
+		<EFFECTOR_NAME>cyclic-AMP</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="45">
+		<EFFECTOR_ID>ECK125257207</EFFECTOR_ID>
+		<EFFECTOR_NAME>Fe<sup>2+</sup></EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="46">
+		<EFFECTOR_ID>ECK125257208</EFFECTOR_ID>
+		<EFFECTOR_NAME>L-leucine</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="47">
+		<EFFECTOR_ID>ECK125257209</EFFECTOR_ID>
+		<EFFECTOR_NAME>D-serine</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="48">
+		<EFFECTOR_ID>ECK125257210</EFFECTOR_ID>
+		<EFFECTOR_NAME>formate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="49">
+		<EFFECTOR_ID>ECK125257211</EFFECTOR_ID>
+		<EFFECTOR_NAME>hypoxanthine</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="50">
+		<EFFECTOR_ID>ECK125257212</EFFECTOR_ID>
+		<EFFECTOR_NAME>L-arginine</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="51">
+		<EFFECTOR_ID>ECK125257213</EFFECTOR_ID>
+		<EFFECTOR_NAME><i>S</i>-adenosyl-L-methionine</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE>|FRAME: S-ADENOSYLMETHIONINE| (AdoMet, SAM) is a sulfonium compound in which each of the carbons attached to the sulfur is activated toward nucleophilic attack. It is the most common methyl group donor for methyltransferase enzymes. In addition, AdoMet is cleaved reductively by a large number of iron-sulfur cluster-containing enzymes (known as radical SAM or radical AdoMet enzymes) to produce |FRAME: CPD-15400|, which they use to activate their substrates.<br>Another major role of AdoMet is in polyamine biosynthesis, where it is decarboxylated by |FRAME: EC-4.1.1.50|, to form |FRAME: S-ADENOSYLMETHIONINAMINE|, which serves as a propylamine group donor.<br>AdoMet is formed by |FRAME: EC-2.5.1.6| and bears an <i>S</i> configuration at the sulfur atom. The chiral sulfonium of AdoMet spontaneously racemizes under physiological conditions to form a mixture of <i>S</i> and <i>R</i> isomers. This results in reduced activity, as the |FRAME: CPD0-2554 <i>R</i> isomer| is not accepted as a substrate for AdoMet-dependent methyltransferases |CITS: [12419350]|.</EFFECTOR_NOTE>
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB>|FRAME: S-ADENOSYLMETHIONINE| (AdoMet, SAM) is a sulfonium compound in which each of the carbons attached to the sulfur is activated toward nucleophilic attack. It is the most common methyl group donor for methyltransferase enzymes. In addition, AdoMet is cleaved reductively by a large number of iron-sulfur cluster-containing enzymes (known as radical SAM or radical AdoMet enzymes) to produce |FRAME: CPD-15400|, which they use to activate their substrates.<br>Another major role of AdoMet is in polyamine biosynthesis, where it is decarboxylated by |FRAME: EC-4.1.1.50|, to form |FRAME: S-ADENOSYLMETHIONINAMINE|, which serves as a propylamine group donor.<br>AdoMet is formed by |FRAME: EC-2.5.1.6| and bears an <i>S</i> configuration at the sulfur atom. The chiral sulfonium of AdoMet spontaneously racemizes under physiological conditions to form a mixture of <i>S</i> and <i>R</i> isomers. This results in reduced activity, as the |FRAME: CPD0-2554 <i>R</i> isomer| is not accepted as a substrate for AdoMet-dependent methyltransferases <a href="#myRef" class="linkBlue">12419350</a>.</EFFECTOR_NOTE_WEB>
+	</ROW>
+	<ROW num="52">
+		<EFFECTOR_ID>ECK125257214</EFFECTOR_ID>
+		<EFFECTOR_NAME>pyruvate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="53">
+		<EFFECTOR_ID>ECK125257215</EFFECTOR_ID>
+		<EFFECTOR_NAME>L-tyrosine</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="54">
+		<EFFECTOR_ID>ECK125257216</EFFECTOR_ID>
+		<EFFECTOR_NAME>&alpha;-L-arabinopyranose</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="55">
+		<EFFECTOR_ID>ECK125257217</EFFECTOR_ID>
+		<EFFECTOR_NAME>biotinyl-5'-adenylate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="56">
+		<EFFECTOR_ID>ECK125257218</EFFECTOR_ID>
+		<EFFECTOR_NAME>maltotriose</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="57">
+		<EFFECTOR_ID>ECK125257219</EFFECTOR_ID>
+		<EFFECTOR_NAME>glycolate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE>GlcC (for glycolate utilization) negatively controls the expression of genes involved in the utilization of glycolate as the sole source of carbon |CITS:[9880556][8606183]|. It is negatively autoregulated and coordinately activated by transcription of the divergent operon <i>glc</i>, which is related to the transport and metabolism of glycolate |CITS:[9880556]|. Synthesis of <i>glc</i> genes is induced when <i>Escherichia coli</i> is grown on glycolate  |CITS:[9880556]|. <br>GlcC features an N-terminal domain containing a helix-turn-helix motif |CITS:[8606183]| and a putative C-terminal domain that includes the key residues involved in coinducer recognition and oligomerization. <br>Although little is known about the mechanism of regulation of the GlcC transcription factor, Pellicer et al. demonstrated that it is a regulator that acts as a repressor by binding to <i>cis</i>-acting elements, inverted repeat sequences that are not well-little conserved, that overlap the ATG sequence |CITS:[9880556]|.</EFFECTOR_NOTE>
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB>GlcC (for glycolate utilization) negatively controls the expression of genes involved in the utilization of glycolate as the sole source of carbon <a href="#myRef" class="linkBlue">Pellicer MT,1999. Pellicer MT,1996</a> It is negatively autoregulated and coordinately activated by transcription of the divergent operon <i>glc</i>, which is related to the transport and metabolism of glycolate <a href="#myRef" class="linkBlue">Pellicer MT,1999</a> Synthesis of <i>glc</i> genes is induced when <i>Escherichia coli</i> is grown on glycolate  <a href="#myRef" class="linkBlue">Pellicer MT,1999</a> <br>GlcC features an N-terminal domain containing a helix-turn-helix motif <a href="#myRef" class="linkBlue">Pellicer MT,1996</a>and a putative C-terminal domain that includes the key residues involved in coinducer recognition and oligomerization. <br>Although little is known about the mechanism of regulation of the GlcC transcription factor, Pellicer et al. demonstrated that it is a regulator that acts as a repressor by binding to <i>cis</i>-acting elements, inverted repeat sequences that are not well-little conserved, that overlap the ATG sequence <a href="#myRef" class="linkBlue">Pellicer MT,1999</a></EFFECTOR_NOTE_WEB>
+	</ROW>
+	<ROW num="58">
+		<EFFECTOR_ID>ECK125257220</EFFECTOR_ID>
+		<EFFECTOR_NAME>melibiose</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="59">
+		<EFFECTOR_ID>ECK125257221</EFFECTOR_ID>
+		<EFFECTOR_NAME>Cu<SUP>+</SUP></EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="60">
+		<EFFECTOR_ID>ECK125257222</EFFECTOR_ID>
+		<EFFECTOR_NAME>Na<SUP>+</SUP></EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="61">
+		<EFFECTOR_ID>ECK125257223</EFFECTOR_ID>
+		<EFFECTOR_NAME><i>O</i>-acetyl-L-serine</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="62">
+		<EFFECTOR_ID>ECK125257224</EFFECTOR_ID>
+		<EFFECTOR_NAME>Zn<SUP>2+</SUP></EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="63">
+		<EFFECTOR_ID>ECK125257226</EFFECTOR_ID>
+		<EFFECTOR_NAME>xanthosine</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="64">
+		<EFFECTOR_ID>ECK125257227</EFFECTOR_ID>
+		<EFFECTOR_NAME>L-tartrate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="65">
+		<EFFECTOR_ID>ECK125257228</EFFECTOR_ID>
+		<EFFECTOR_NAME>D-ribose</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE>This compound class represents a reducing sugar that exists in solution in multiple configurations. The open-chain structure shown here is provided only as a schematic illustration of chirality. Consult the appropriate class instances for information on specific ring structures and their anomeric configuration.<br>In decreasing order of frequency, the species of D-ribose in solution are |FRAME: CPD0-1110| (58.5%), |FRAME: CPD-15829| (21.5%), |FRAME: CPD0-1108| (13.5%), |FRAME: CPD-10330| (6.5%) and |FRAME: CPD-15818 open chain| (0.05%) |CITS: [Drew98]|.</EFFECTOR_NOTE>
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB>This compound class represents a reducing sugar that exists in solution in multiple configurations. The open-chain structure shown here is provided only as a schematic illustration of chirality. Consult the appropriate class instances for information on specific ring structures and their anomeric configuration.<br>In decreasing order of frequency, the species of D-ribose in solution are |FRAME: CPD0-1110| (58.5%), |FRAME: CPD-15829| (21.5%), |FRAME: CPD0-1108| (13.5%), |FRAME: CPD-10330| (6.5%) and |FRAME: CPD-15818 open chain| (0.05%) <a href="#myRef" class="linkBlue">Drew98</a>.</EFFECTOR_NOTE_WEB>
+	</ROW>
+	<ROW num="66">
+		<EFFECTOR_ID>ECK125257229</EFFECTOR_ID>
+		<EFFECTOR_NAME>L-homocysteine</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="67">
+		<EFFECTOR_ID>ECK125257231</EFFECTOR_ID>
+		<EFFECTOR_NAME>Mn<SUP>2+</SUP></EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="68">
+		<EFFECTOR_ID>ECK125257232</EFFECTOR_ID>
+		<EFFECTOR_NAME>molybdate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="69">
+		<EFFECTOR_ID>ECK125257233</EFFECTOR_ID>
+		<EFFECTOR_NAME>allantoin</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="70">
+		<EFFECTOR_ID>ECK125257234</EFFECTOR_ID>
+		<EFFECTOR_NAME>cyanate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="71">
+		<EFFECTOR_ID>ECK125257235</EFFECTOR_ID>
+		<EFFECTOR_NAME>&alpha;-D-galacturonate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="72">
+		<EFFECTOR_ID>ECK125257236</EFFECTOR_ID>
+		<EFFECTOR_NAME>L-alanine</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="73">
+		<EFFECTOR_ID>ECK125257237</EFFECTOR_ID>
+		<EFFECTOR_NAME>D-xylonate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="74">
+		<EFFECTOR_ID>ECK125257238</EFFECTOR_ID>
+		<EFFECTOR_NAME>5-dehydro-D-gluconate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="75">
+		<EFFECTOR_ID>ECK125257239</EFFECTOR_ID>
+		<EFFECTOR_NAME>L-carnitine</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="76">
+		<EFFECTOR_ID>ECK125257240</EFFECTOR_ID>
+		<EFFECTOR_NAME>(<i>S</i>)-lactate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE>Lactate, or 2-hydroxypropanoate, was discovered in 1780 by a Swedish chemist, Scheele,<br>who isolated it from sour milk. It is the simplest hydroxycarboxylic acid and exists as 2 stereoisomers.<br>Lactate has a pK of 3.86 and dissociates freely at physiological pH, yielding a lactate ion:lactic acid ratio<br>of 3000:1|CITS: [15987839]|.</EFFECTOR_NOTE>
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB>Lactate, or 2-hydroxypropanoate, was discovered in 1780 by a Swedish chemist, Scheele,<br>who isolated it from sour milk. It is the simplest hydroxycarboxylic acid and exists as 2 stereoisomers.<br>Lactate has a pK of 3.86 and dissociates freely at physiological pH, yielding a lactate ion:lactic acid ratio<br>of 3000:1<a href="#myRef" class="linkBlue">Ewaschuk JB, Naylor JM, Zello GA,2005</a>.</EFFECTOR_NOTE_WEB>
+	</ROW>
+	<ROW num="77">
+		<EFFECTOR_ID>ECK125257241</EFFECTOR_ID>
+		<EFFECTOR_NAME>3-(3-hydroxyphenyl)propanoate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="78">
+		<EFFECTOR_ID>ECK125257242</EFFECTOR_ID>
+		<EFFECTOR_NAME>L-tryptophan</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="79">
+		<EFFECTOR_ID>ECK125257243</EFFECTOR_ID>
+		<EFFECTOR_NAME>L-fuculose 1-phosphate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="80">
+		<EFFECTOR_ID>ECK125257244</EFFECTOR_ID>
+		<EFFECTOR_NAME>(2<i>S</i>,3<i>S</i>)-2-methylcitrate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="81">
+		<EFFECTOR_ID>ECK125257245</EFFECTOR_ID>
+		<EFFECTOR_NAME>3-phenylpropanoate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="82">
+		<EFFECTOR_ID>ECK125257247</EFFECTOR_ID>
+		<EFFECTOR_NAME>L-phenylalanine</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="83">
+		<EFFECTOR_ID>ECK125257248</EFFECTOR_ID>
+		<EFFECTOR_NAME>Ni<sup>2+</sup></EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="84">
+		<EFFECTOR_ID>ECK125257249</EFFECTOR_ID>
+		<EFFECTOR_NAME>a [2Fe-2S] iron-sulfur cluster</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE>|FRAME: FeS-Centers Iron-sulfur clusters| consist of nonheme iron complexed to sulfur in several ways. They serve as prosthetic groups of many proteins, which function as intracellular electron carriers with a low reduction potential.<br>In addition to their roles in electron transfer reactions, iron-sulfur clusters are also known to participate in the activation of substrates, the stabilization of radicals and structures, the protection of proteins from enzymes and the storage of iron and sulfur. They act as sensors of iron, dioxygen, the superoxide ion, and possibly nitric oxide, and participate in gene expression regulation |CITS: [16466637]|.<br>In |FRAME: CPD-6| the irons are coordinated to the sulfurs of 4 cysteine side chains.</EFFECTOR_NOTE>
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB>|FRAME: FeS-Centers Iron-sulfur clusters| consist of nonheme iron complexed to sulfur in several ways. They serve as prosthetic groups of many proteins, which function as intracellular electron carriers with a low reduction potential.<br>In addition to their roles in electron transfer reactions, iron-sulfur clusters are also known to participate in the activation of substrates, the stabilization of radicals and structures, the protection of proteins from enzymes and the storage of iron and sulfur. They act as sensors of iron, dioxygen, the superoxide ion, and possibly nitric oxide, and participate in gene expression regulation <a href="#myRef" class="linkBlue">Park YJ, Yoo CB, Choi SY, Lee HB,2006</a>.<br>In |FRAME: CPD-6| the irons are coordinated to the sulfurs of 4 cysteine side chains.</EFFECTOR_NOTE_WEB>
+	</ROW>
+	<ROW num="85">
+		<EFFECTOR_ID>ECK125257251</EFFECTOR_ID>
+		<EFFECTOR_NAME>(<i>S</i>)-2-acetolactate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="86">
+		<EFFECTOR_ID>ECK125257252</EFFECTOR_ID>
+		<EFFECTOR_NAME>an acyl-CoA</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE>|FRAME:ACYL-COA Acyl-CoAs| are oxoacids that have been activated by |FRAME: CO-A|. They are often classified by the length of their acyl moiety.</EFFECTOR_NOTE>
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="87">
+		<EFFECTOR_ID>ECK125272593</EFFECTOR_ID>
+		<EFFECTOR_NAME>allolactose</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="88">
+		<EFFECTOR_ID>ECK125272594</EFFECTOR_ID>
+		<EFFECTOR_NAME>antimonite</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="89">
+		<EFFECTOR_ID>ECK125272595</EFFECTOR_ID>
+		<EFFECTOR_NAME>glyoxylate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="90">
+		<EFFECTOR_ID>ECK125272596</EFFECTOR_ID>
+		<EFFECTOR_NAME><i>N</i>-acetyl-D-glucosamine 6-phosphate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="91">
+		<EFFECTOR_ID>ECK125272597</EFFECTOR_ID>
+		<EFFECTOR_NAME>adenosine 5'-phosphosulfate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="92">
+		<EFFECTOR_ID>ECK125272598</EFFECTOR_ID>
+		<EFFECTOR_NAME>phenylacetyl-CoA</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="93">
+		<EFFECTOR_ID>ECK125272599</EFFECTOR_ID>
+		<EFFECTOR_NAME>L-asparagine</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="94">
+		<EFFECTOR_ID>ECK125272600</EFFECTOR_ID>
+		<EFFECTOR_NAME>formaldehyde</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="95">
+		<EFFECTOR_ID>ECK125272601</EFFECTOR_ID>
+		<EFFECTOR_NAME>glycerol</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="96">
+		<EFFECTOR_ID>ECK125272602</EFFECTOR_ID>
+		<EFFECTOR_NAME>D-sorbitol</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="97">
+		<EFFECTOR_ID>ECK125272603</EFFECTOR_ID>
+		<EFFECTOR_NAME>autoinducer 2</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="98">
+		<EFFECTOR_ID>ECK125272604</EFFECTOR_ID>
+		<EFFECTOR_NAME>carbonylcyanide <i>m</i>-chlorophenylhydrazone</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="99">
+		<EFFECTOR_ID>ECK125272605</EFFECTOR_ID>
+		<EFFECTOR_NAME><i>sn</i>-glycerol 3-phosphate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="100">
+		<EFFECTOR_ID>ECK125272606</EFFECTOR_ID>
+		<EFFECTOR_NAME>putrescine</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="101">
+		<EFFECTOR_ID>ECK125272607</EFFECTOR_ID>
+		<EFFECTOR_NAME>2,4-dinitrophenol</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="102">
+		<EFFECTOR_ID>ECK125272609</EFFECTOR_ID>
+		<EFFECTOR_NAME>2-dehydro-3-deoxy-D-gluconate 6-phosphate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="103">
+		<EFFECTOR_ID>ECK125272610</EFFECTOR_ID>
+		<EFFECTOR_NAME>choline</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="104">
+		<EFFECTOR_ID>ECK125272611</EFFECTOR_ID>
+		<EFFECTOR_NAME>&alpha;-D-glucuronate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE>|FRAME: GLUCURONATE| is a carboxylic acid that often forms a hexapyranose ring structure.<br></EFFECTOR_NOTE>
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="105">
+		<EFFECTOR_ID>ECK125272612</EFFECTOR_ID>
+		<EFFECTOR_NAME>D-gluconate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="106">
+		<EFFECTOR_ID>ECK125272613</EFFECTOR_ID>
+		<EFFECTOR_NAME>ethidium</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="107">
+		<EFFECTOR_ID>ECK125272614</EFFECTOR_ID>
+		<EFFECTOR_NAME>nitric oxide</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="108">
+		<EFFECTOR_ID>ECK125272615</EFFECTOR_ID>
+		<EFFECTOR_NAME>D-fructuronate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="109">
+		<EFFECTOR_ID>ECK125272616</EFFECTOR_ID>
+		<EFFECTOR_NAME>(2<i>S</i>)-2-hydroxy-3,4-dioxopentyl phosphate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE>This compound is a C5-phosphorylated derivative of the open form of |FRAME: DIHYDROXYPENTANEDIONE|<br>|CITS: [17274596]|.</EFFECTOR_NOTE>
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB>This compound is a C5-phosphorylated derivative of the open form of |FRAME: DIHYDROXYPENTANEDIONE|<br><a href="#myRef" class="linkBlue">Xavier KB, Miller ST, Lu W, Kim JH, Rabinowitz J, Pelczer I, Semmelhack MF, Bassler BL,2007</a>.</EFFECTOR_NOTE_WEB>
+	</ROW>
+	<ROW num="110">
+		<EFFECTOR_ID>ECK125272617</EFFECTOR_ID>
+		<EFFECTOR_NAME>L-ascorbate 6-phosphate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="111">
+		<EFFECTOR_ID>ECK125272618</EFFECTOR_ID>
+		<EFFECTOR_NAME>cytidine</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="112">
+		<EFFECTOR_ID>ECK125272619</EFFECTOR_ID>
+		<EFFECTOR_NAME>glycine</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="113">
+		<EFFECTOR_ID>ECK125272620</EFFECTOR_ID>
+		<EFFECTOR_NAME>thymine</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="114">
+		<EFFECTOR_ID>ECK125272621</EFFECTOR_ID>
+		<EFFECTOR_NAME>arsenite</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="115">
+		<EFFECTOR_ID>ECK125272622</EFFECTOR_ID>
+		<EFFECTOR_NAME>&beta;-D-fructofuranose 1-phosphate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="116">
+		<EFFECTOR_ID>ECK125272624</EFFECTOR_ID>
+		<EFFECTOR_NAME>(2R,4S)-2-methyl-2,3,3,4-tetrahydroxytetrahydrofuran</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="117">
+		<EFFECTOR_ID>ECK125272625</EFFECTOR_ID>
+		<EFFECTOR_NAME>Co<SUP>2+</SUP></EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="118">
+		<EFFECTOR_ID>ECK125272627</EFFECTOR_ID>
+		<EFFECTOR_NAME>salicylate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="119">
+		<EFFECTOR_ID>ECK125272628</EFFECTOR_ID>
+		<EFFECTOR_NAME>L-lysine</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="120">
+		<EFFECTOR_ID>ECK125272629</EFFECTOR_ID>
+		<EFFECTOR_NAME>methylglyoxal</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE>Methylglyoxal is the aldehyde form of |FRAME: PYRUVATE|.<br>It is both an aldehyde and a ketone, or a ketal.<br>Methylglyoxal is produced in small amounts during glycolysis, by the enzyme<br>|FRAME:METHGLYSYN-CPLX| that converts |FRAME:DIHYDROXY-ACETONE-PHOSPHATE| to<br>methylglyoxal.<br>It is also a byproduct of fatty acid metabolism (via |FRAME:ACETONE|) and of protein metabolism<br>(via |FRAME:AMINO-ACETONE|, which is formed by the degradation of |FRAME: THR|).<br>|FRAME: METHYL-GLYOXAL| is highly toxic, and is detoxified by several pathways (see<br>|FRAME:Methylglyoxal-Detoxification|).</EFFECTOR_NOTE>
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="121">
+		<EFFECTOR_ID>ECK125272630</EFFECTOR_ID>
+		<EFFECTOR_NAME>uracil</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="122">
+		<EFFECTOR_ID>ECK125272631</EFFECTOR_ID>
+		<EFFECTOR_NAME><i>N</i>-acetyl-D-muramate 6-phosphate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="123">
+		<EFFECTOR_ID>ECK125272633</EFFECTOR_ID>
+		<EFFECTOR_NAME><i>N</i>-acetylneuraminate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>negative</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE>Sialic acids are an important family of related 9-carbon sugars acids, present on the surface of many different cells and functioning in a wide range of different biological processes.<br><i>N</i>-acetylneuraminate, the most ubiquitous species amongst the sialic acids, is widely distributed in the<br>animal kingdom as a component of oligosaccharides, glycoproteins, and glycolipids.<br><i>N</i>-acetylneuraminate carries out various biological functions by acting as receptors for<br>microorganisms, viruses, toxins, and hormones, by masking receptors, and by regulation of the immune<br>system.<br>N-acetylneuraminic acid is the predominant form of sialic acid present in humans. It can be found as a terminal sugar on a wide range of surface glycoconjugates |CITS: [11841250]|. The &alpha;-anomer is the form that is found when sialic acid is bound to glycans, but in solution it exists mainly (over 90%) in the &beta;-anomeric form |CITS: [18063573]|. <br>A number of bacteria that can colonize humans make use of N-acetylneuraminic acid as a nutrient source. In addition, some pathogens such as |FRAME: TAX-727| use sialic acid in an immune evasion mechanism by adding N-acetylneuraminic acid to their lipopolysaccharide |CITS: [12180977][10447878]|, which provides increased survival in human serum. Most of these organisms are not capable of synthesizing N-acetylneuraminic acid and import it into the cells |CITS: [16262798]| after conversion (either spontaneous or enzymatic) to the &beta;-anomer |CITS: [18063573]| .</EFFECTOR_NOTE>
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB>Sialic acids are an important family of related 9-carbon sugars acids, present on the surface of many different cells and functioning in a wide range of different biological processes.<br><i>N</i>-acetylneuraminate, the most ubiquitous species amongst the sialic acids, is widely distributed in the<br>animal kingdom as a component of oligosaccharides, glycoproteins, and glycolipids.<br><i>N</i>-acetylneuraminate carries out various biological functions by acting as receptors for<br>microorganisms, viruses, toxins, and hormones, by masking receptors, and by regulation of the immune<br>system.<br>N-acetylneuraminic acid is the predominant form of sialic acid present in humans. It can be found as a terminal sugar on a wide range of surface glycoconjugates <a href="#myRef" class="linkBlue">Angata T, Varki A,2002</a>. The &alpha;-anomer is the form that is found when sialic acid is bound to glycans, but in solution it exists mainly (over 90%) in the &beta;-anomeric form <a href="#myRef" class="linkBlue">Severi E, Müller A, Potts JR, Leech A, Williamson D, Wilson KS, Thomas GH,2008</a>. <br>A number of bacteria that can colonize humans make use of N-acetylneuraminic acid as a nutrient source. In addition, some pathogens such as |FRAME: TAX-727| use sialic acid in an immune evasion mechanism by adding N-acetylneuraminic acid to their lipopolysaccharide <a href="#myRef" class="linkBlue">Cox AD, Hood DW, Martin A, Makepeace KM, Deadman ME, Li J, Brisson JR, Moxon ER, Richards JC,2002. Hood DW, Makepeace K, Deadman ME, Rest RF, Thibault P, Martin A, Richards JC, Moxon ER,1999</a>, which provides increased survival in human serum. Most of these organisms are not capable of synthesizing N-acetylneuraminic acid and import it into the cells <a href="#myRef" class="linkBlue">Severi E, Randle G, Kivlin P, Whitfield K, Young R, Moxon R, Kelly D, Hood D, Thomas GH,2005</a> after conversion (either spontaneous or enzymatic) to the &beta;-anomer <a href="#myRef" class="linkBlue">Severi E, Müller A, Potts JR, Leech A, Williamson D, Wilson KS, Thomas GH,2008</a> .</EFFECTOR_NOTE_WEB>
+	</ROW>
+	<ROW num="124">
+		<EFFECTOR_ID>ECK125285351</EFFECTOR_ID>
+		<EFFECTOR_NAME>glutarate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="125">
+		<EFFECTOR_ID>ECK125285352</EFFECTOR_ID>
+		<EFFECTOR_NAME>D-trehalose 6-phosphate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="126">
+		<EFFECTOR_ID>ECK125285353</EFFECTOR_ID>
+		<EFFECTOR_NAME>6-sulfo-D-quinovose</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="127">
+		<EFFECTOR_ID>ECK125285354</EFFECTOR_ID>
+		<EFFECTOR_NAME>D-galactose</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE>This compound class represents a reducing sugar that exists in solution in multiple configurations. The open-chain structure shown here is provided only as a schematic illustration of chirality. Consult the appropriate class instances for information on specific ring structures and their anomeric configuration.<br>The distribution of galactose anomeric configurations at 20&deg;C is as follows:<br><br>|FRAME: GALACTOSE|    64%<br><br>|FRAME: ALPHA-D-GALACTOSE|    32%<br><br>|FRAME: CPD0-2485|    3%<br><br>|FRAME: CPD0-2486|    1%<br></EFFECTOR_NOTE>
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="128">
+		<EFFECTOR_ID>ECK125285355</EFFECTOR_ID>
+		<EFFECTOR_NAME>D-galactonate</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="129">
+		<EFFECTOR_ID>ECK125285803</EFFECTOR_ID>
+		<EFFECTOR_NAME>&alpha;-L-rhamnopyranose</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE>positive</EFFECTOR_TYPE>
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="130">
+		<EFFECTOR_ID>ECK125285917</EFFECTOR_ID>
+		<EFFECTOR_NAME>adenine</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="131">
+		<EFFECTOR_ID>ECK125285918</EFFECTOR_ID>
+		<EFFECTOR_NAME><i>S</i>-methyl-5'-thioadenosine</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="132">
+		<EFFECTOR_ID>ECK125302603</EFFECTOR_ID>
+		<EFFECTOR_NAME><i>N</i><sup>6</sup>-(1-deoxy-6-<i>O</i>-phospho-D-fructos-1-yl)-L-lysine</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="133">
+		<EFFECTOR_ID>ECK125303662</EFFECTOR_ID>
+		<EFFECTOR_NAME>6-phospho-&beta;-D-glucosaminyl-(1->4)-<i>N</i>-acetyl-D-glucosamine</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="134">
+		<EFFECTOR_ID>ECK125303689</EFFECTOR_ID>
+		<EFFECTOR_NAME>acetyl</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="135">
+		<EFFECTOR_ID>ECK125328146</EFFECTOR_ID>
+		<EFFECTOR_NAME>tris</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="136">
+		<EFFECTOR_ID>ECK125328147</EFFECTOR_ID>
+		<EFFECTOR_NAME>trimethylamine <i>N</i>-oxide</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+	<ROW num="137">
+		<EFFECTOR_ID>ECK125336167</EFFECTOR_ID>
+		<EFFECTOR_NAME>D-allose</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE>Each aldopentose or aldohexose exists as a mixture of at least six compounds: the aldehyde, the hydrated aldehyde<br>(gem-diol), the two pyranoses, and the two furanoses. The open-chain structure shown here is provided only as a schematic illustration of chirality. Consult the appropriate class instances for information on specific ring structures and their anomeric configuration. The relative ratios of the different allose tautomers was reported to be as follows (in |CITS: [Kopper03]|:<br><br><br>Pyranose form: |FRAME: CPD-15627|/|FRAME: CPD-15628|    15%/85%<br><br>Furanose form: |FRAME: CPD-16933|/|FRAME: CPD-16934|    41%/59%</EFFECTOR_NOTE>
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB>Each aldopentose or aldohexose exists as a mixture of at least six compounds: the aldehyde, the hydrated aldehyde<br>(gem-diol), the two pyranoses, and the two furanoses. The open-chain structure shown here is provided only as a schematic illustration of chirality. Consult the appropriate class instances for information on specific ring structures and their anomeric configuration. The relative ratios of the different allose tautomers was reported to be as follows (in <a href="#myRef" class="linkBlue">Kopper03</a>:<br><br><br>Pyranose form: |FRAME: CPD-15627|/|FRAME: CPD-15628|    15%/85%<br><br>Furanose form: |FRAME: CPD-16933|/|FRAME: CPD-16934|    41%/59%</EFFECTOR_NOTE_WEB>
+	</ROW>
+	<ROW num="138">
+		<EFFECTOR_ID>ECK125336168</EFFECTOR_ID>
+		<EFFECTOR_NAME>&alpha;-D-xylopyranose</EFFECTOR_NAME>
+		<CATEGORY />
+		<EFFECTOR_TYPE />
+		<EFFECTOR_NOTE />
+		<EFFECTOR_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<EFFECTOR_NOTE_WEB />
+	</ROW>
+</ROWSET>

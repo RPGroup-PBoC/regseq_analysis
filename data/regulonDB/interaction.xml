@@ -1,0 +1,2609 @@
+<?xml version='1.0'?>
+<!-- # Copies and Copyright-Notice
+#
+#      RegulonDB is free for academic/noncommercial use
+#
+#      User is not entitled to change or erase data sets of the RegulonDB
+#      database or to eliminate copyright notices from RegulonDB. Furthermore,
+#      User is not entitled to expand RegulonDB or to integrate RegulonDB partly
+#      or as a whole into other databank systems, without prior written consent
+#      from CCG-UNAM.
+#
+#      Please check the license at http://regulondb.ccg.unam.mx/menu/download/full_version/terms_and_conditions.jsp
+#
+# Citation
+#
+#      Tierrafría, V. H. et al. (2022). RegulonDB 11.0: Comprehensive high-throughput datasets on transcriptional regulation in Escherichia coli K-12,
+#      Microb Genom. 2022 May;8(5). doi: 10.1099/mgen.0.000833. PMID: 35584008. https://doi.org/10.1099/mgen.0.000833
+#
+#
+# Contact
+#
+#      Person: RegulonDB Team
+#      Web Page: http://regulondb.ccg.unam.mx/menu/about_regulondb/contact_us/index.jsp
+#          (regulondb@ccg.unam.mx)
+#
+# RegulonDB: 11.1 Date:12/12/2022-->
+<!-- Created: 12/12/2022 11:48:35-->
+<!-- Table: INTERACTION-->
+<!-- Columns: -->
+<!-- 1) INTERACTION_ID-->
+<!-- 2) REGULATOR_ID-->
+<!-- 3) PROMOTER_ID-->
+<!-- 4) SITE_ID-->
+<!-- 5) INTERACTION_FUNCTION-->
+<!-- 6) CENTER_POSITION-->
+<!-- 7) INTERACTION_FIRST_GENE_ID-->
+<!-- 8) AFFINITY_EXP-->
+<!-- 9) INTERACTION_NOTE-->
+<!-- 10) INTERACTION_INTERNAL_COMMENT-->
+<!-- 11) INTERACTION_SEQUENCE-->
+<!-- 12) KEY_ID_ORG-->
+<!-- 13) INTERACTION_NOTE_WEB-->
+<ROWSET>
+	<ROW num="1">
+		<INTERACTION_ID>ECK125142102</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010097</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="2">
+		<INTERACTION_ID>ECK125142103</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010236</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="3">
+		<INTERACTION_ID>ECK125160713</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010991</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="4">
+		<INTERACTION_ID>ECK125160714</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010241</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="5">
+		<INTERACTION_ID>ECK125160715</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010390</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> <a href="#myRef" class="linkBlue">Lemke JJ,2011</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="6">
+		<INTERACTION_ID>ECK125160716</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120009864</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters |CITS:[15294157][21402902]|. A model reflecting the contribution of DksA under regulation of rRNA expression has been developed |CITS:[15294157]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters <a href="#myRef" class="linkBlue">Paul BJ,2004. Lemke JJ,2011</a> A model reflecting the contribution of DksA under regulation of rRNA expression has been developed <a href="#myRef" class="linkBlue">Paul BJ,2004</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="7">
+		<INTERACTION_ID>ECK125160717</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010118</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>ppGpp and DksA act directly and synergistically to negatively control <i>dusB</i>p transcription <i>in vitro</i>, reducing the lifetime of the competitor-resistant complex with RNA polymerase |CITS:[16885445]|. DksA is required for inhibition of <i>dusB </i>p transcription during mid- and late log growth and in stationary phase |CITS:[16885445]|. DksA negatively controls <i>dusB</i>p for normal growth-phase-dependent regulation of <i>dusB-fis</i>operon |CITS:[16885445]|. Moreover, DksA inhibits transcription, in part by further destabilizing intrinsically unstable promoter complexes |CITS:[16885445]|. Finally, it was shown that DksA not only amplifies the sensitivity of <i>dusB-fis</i> operon to ppGpp but also it increases the concentration of the initiating NTP required for transcription |CITS:[16885445]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>ppGpp and DksA act directly and synergistically to negatively control <i>dusB</i>p transcription <i>in vitro</i>, reducing the lifetime of the competitor-resistant complex with RNA polymerase <a href="#myRef" class="linkBlue">Mallik P,2006</a> DksA is required for inhibition of <i>dusB </i>p transcription during mid- and late log growth and in stationary phase <a href="#myRef" class="linkBlue">Mallik P,2006</a> DksA negatively controls <i>dusB</i>p for normal growth-phase-dependent regulation of <i>dusB-fis</i>operon <a href="#myRef" class="linkBlue">Mallik P,2006</a> Moreover, DksA inhibits transcription, in part by further destabilizing intrinsically unstable promoter complexes <a href="#myRef" class="linkBlue">Mallik P,2006</a> Finally, it was shown that DksA not only amplifies the sensitivity of <i>dusB-fis</i> operon to ppGpp but also it increases the concentration of the initiating NTP required for transcription <a href="#myRef" class="linkBlue">Mallik P,2006</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="8">
+		<INTERACTION_ID>ECK125160719</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK125122034</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>ppGpp is the main negative regulator of <i>pcnBp4</i> (pS2) <i>in vivo</i>. DksA had little effect in inhibiting the activity of <i>pcnBp4</i>(pS2). However, DksA enhanced the inhibitory effect of ppGpp |CITS:[20700605]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>ppGpp is the main negative regulator of <i>pcnBp4</i> (pS2) <i>in vivo</i>. DksA had little effect in inhibiting the activity of <i>pcnBp4</i>(pS2). However, DksA enhanced the inhibitory effect of ppGpp <a href="#myRef" class="linkBlue">Nadratowska-Wesolowska B,2010</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="9">
+		<INTERACTION_ID>ECK125160720</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120034549</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="10">
+		<INTERACTION_ID>ECK125160721</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010391</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> <a href="#myRef" class="linkBlue">Lemke JJ,2011</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="11">
+		<INTERACTION_ID>ECK125160722</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010440</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> <a href="#myRef" class="linkBlue">Lemke JJ,2011</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="12">
+		<INTERACTION_ID>ECK125160723</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120011146</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> <a href="#myRef" class="linkBlue">Lemke JJ,2011</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="13">
+		<INTERACTION_ID>ECK125160724</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010392</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> <a href="#myRef" class="linkBlue">Lemke JJ,2011</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="14">
+		<INTERACTION_ID>ECK125160725</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010744</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> <a href="#myRef" class="linkBlue">Lemke JJ,2011</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="15">
+		<INTERACTION_ID>ECK125160726</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010310</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> <a href="#myRef" class="linkBlue">Lemke JJ,2011</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="16">
+		<INTERACTION_ID>ECK125160727</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120015469</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> <a href="#myRef" class="linkBlue">Lemke JJ,2011</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="17">
+		<INTERACTION_ID>ECK125160728</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120015407</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> <a href="#myRef" class="linkBlue">Lemke JJ,2011</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="18">
+		<INTERACTION_ID>ECK125160729</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120015408</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> <a href="#myRef" class="linkBlue">Lemke JJ,2011</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="19">
+		<INTERACTION_ID>ECK125160730</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120016981</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> <a href="#myRef" class="linkBlue">Lemke JJ,2011</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="20">
+		<INTERACTION_ID>ECK125160731</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010331</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> <a href="#myRef" class="linkBlue">Lemke JJ,2011</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="21">
+		<INTERACTION_ID>ECK125160732</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120009955</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> <a href="#myRef" class="linkBlue">Lemke JJ,2011</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="22">
+		<INTERACTION_ID>ECK125160733</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120029428</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> <a href="#myRef" class="linkBlue">Lemke JJ,2011</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="23">
+		<INTERACTION_ID>ECK125160734</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120048895</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> <a href="#myRef" class="linkBlue">Lemke JJ,2011</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="24">
+		<INTERACTION_ID>ECK125160735</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010441</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> <a href="#myRef" class="linkBlue">Lemke JJ,2011</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="25">
+		<INTERACTION_ID>ECK125160736</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010381</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> <a href="#myRef" class="linkBlue">Lemke JJ,2011</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="26">
+		<INTERACTION_ID>ECK125160737</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120009865</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters |CITS:[15294157][21402902]|. A model reflecting the contribution of DksA under regulation of rRNA expression has been developed |CITS:[15294157]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters <a href="#myRef" class="linkBlue">Paul BJ,2004. Lemke JJ,2011</a> A model reflecting the contribution of DksA under regulation of rRNA expression has been developed <a href="#myRef" class="linkBlue">Paul BJ,2004</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="27">
+		<INTERACTION_ID>ECK125160738</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120009872</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters |CITS:[15294157][21402902]|. A model reflecting the contribution of DksA under regulation of rRNA expression has been developed |CITS:[15294157]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters <a href="#myRef" class="linkBlue">Paul BJ,2004. Lemke JJ,2011</a> A model reflecting the contribution of DksA under regulation of rRNA expression has been developed <a href="#myRef" class="linkBlue">Paul BJ,2004</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="28">
+		<INTERACTION_ID>ECK125160739</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120009867</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters |CITS:[15294157][21402902]|. A model reflecting the contribution of DksA under regulation of rRNA expression has been developed |CITS:[15294157]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters <a href="#myRef" class="linkBlue">Paul BJ,2004. Lemke JJ,2011</a> A model reflecting the contribution of DksA under regulation of rRNA expression has been developed <a href="#myRef" class="linkBlue">Paul BJ,2004</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="29">
+		<INTERACTION_ID>ECK125160740</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120009868</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters |CITS:[15294157][21402902]|. A model reflecting the contribution of DksA under regulation of rRNA expression has been developed |CITS:[15294157]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters <a href="#myRef" class="linkBlue">Paul BJ,2004. Lemke JJ,2011</a> A model reflecting the contribution of DksA under regulation of rRNA expression has been developed <a href="#myRef" class="linkBlue">Paul BJ,2004</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="30">
+		<INTERACTION_ID>ECK125160741</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120009870</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters |CITS:[15294157][21402902]|. A model reflecting the contribution of DksA under regulation of rRNA expression has been developed |CITS:[15294157]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters <a href="#myRef" class="linkBlue">Paul BJ,2004. Lemke JJ,2011</a> A model reflecting the contribution of DksA under regulation of rRNA expression has been developed <a href="#myRef" class="linkBlue">Paul BJ,2004</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="31">
+		<INTERACTION_ID>ECK125160742</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010458</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters |CITS:[15294157][21402902]|. A model reflecting the contribution of DksA under regulation of rRNA expression has been developed |CITS:[15294157]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters <a href="#myRef" class="linkBlue">Paul BJ,2004. Lemke JJ,2011</a> A model reflecting the contribution of DksA under regulation of rRNA expression has been developed <a href="#myRef" class="linkBlue">Paul BJ,2004</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="32">
+		<INTERACTION_ID>ECK125160743</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120009864</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel |CITS:[15109491]|. Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters |CITS:[15109491]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel <a href="#myRef" class="linkBlue">Artsimovitch I, Patlan V, Sekine S, Vassylyeva MN, Hosaka T, Ochi K, Yokoyama S, Vassylyev DG,2004</a> Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters <a href="#myRef" class="linkBlue">Artsimovitch I, Patlan V, Sekine S, Vassylyeva MN, Hosaka T, Ochi K, Yokoyama S, Vassylyev DG,2004</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="33">
+		<INTERACTION_ID>ECK125160744</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010458</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel |CITS:[15109491]|. Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters |CITS:[15109491]|.<br>The regulatory effects on transcription initiation and properties between (p)ppApp with (p)ppGpp were assessed using the well-studied <i>E. coli rrnB</i>P1 promoter. Different from (p)ppGpp, (p)ppApp activates transcription at this promoter, and DksA hinders this effect; in contrast, pppApp exerts a stronger effect than ppApp. The X-ray crystal structure of the RNAP-(p)ppApp complex was determined and which shows that the analogs bind near the active site and switch regions of RNAP |CITS:[30013537]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel <a href="#myRef" class="linkBlue">Artsimovitch I, Patlan V, Sekine S, Vassylyeva MN, Hosaka T, Ochi K, Yokoyama S, Vassylyev DG,2004</a> Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters <a href="#myRef" class="linkBlue">Artsimovitch I, Patlan V, Sekine S, Vassylyeva MN, Hosaka T, Ochi K, Yokoyama S, Vassylyev DG,2004</a><br>The regulatory effects on transcription initiation and properties between (p)ppApp with (p)ppGpp were assessed using the well-studied <i>E. coli rrnB</i>P1 promoter. Different from (p)ppGpp, (p)ppApp activates transcription at this promoter, and DksA hinders this effect; in contrast, pppApp exerts a stronger effect than ppApp. The X-ray crystal structure of the RNAP-(p)ppApp complex was determined and which shows that the analogs bind near the active site and switch regions of RNAP <a href="#myRef" class="linkBlue">Klitgaard RN,2018</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="34">
+		<INTERACTION_ID>ECK125160745</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120009865</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel |CITS:[15109491]|. Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters |CITS:[15109491]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel <a href="#myRef" class="linkBlue">Artsimovitch I, Patlan V, Sekine S, Vassylyeva MN, Hosaka T, Ochi K, Yokoyama S, Vassylyev DG,2004</a> Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters <a href="#myRef" class="linkBlue">Artsimovitch I, Patlan V, Sekine S, Vassylyeva MN, Hosaka T, Ochi K, Yokoyama S, Vassylyev DG,2004</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="35">
+		<INTERACTION_ID>ECK125160746</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120009872</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel |CITS:[15109491]|. Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters |CITS:[15109491]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel <a href="#myRef" class="linkBlue">Artsimovitch I, Patlan V, Sekine S, Vassylyeva MN, Hosaka T, Ochi K, Yokoyama S, Vassylyev DG,2004</a> Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters <a href="#myRef" class="linkBlue">Artsimovitch I, Patlan V, Sekine S, Vassylyeva MN, Hosaka T, Ochi K, Yokoyama S, Vassylyev DG,2004</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="36">
+		<INTERACTION_ID>ECK125160747</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120009867</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel |CITS:[15109491]|. Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters |CITS:[15109491]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel <a href="#myRef" class="linkBlue">Artsimovitch I, Patlan V, Sekine S, Vassylyeva MN, Hosaka T, Ochi K, Yokoyama S, Vassylyev DG,2004</a> Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters <a href="#myRef" class="linkBlue">Artsimovitch I, Patlan V, Sekine S, Vassylyeva MN, Hosaka T, Ochi K, Yokoyama S, Vassylyev DG,2004</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="37">
+		<INTERACTION_ID>ECK125160748</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120009868</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel |CITS:[15109491]|. Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters |CITS:[15109491]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel <a href="#myRef" class="linkBlue">Artsimovitch I, Patlan V, Sekine S, Vassylyeva MN, Hosaka T, Ochi K, Yokoyama S, Vassylyev DG,2004</a> Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters <a href="#myRef" class="linkBlue">Artsimovitch I, Patlan V, Sekine S, Vassylyeva MN, Hosaka T, Ochi K, Yokoyama S, Vassylyev DG,2004</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="38">
+		<INTERACTION_ID>ECK125160749</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120009870</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel |CITS:[15109491]|. Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters |CITS:[15109491]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel <a href="#myRef" class="linkBlue">Artsimovitch I, Patlan V, Sekine S, Vassylyeva MN, Hosaka T, Ochi K, Yokoyama S, Vassylyev DG,2004</a> Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters <a href="#myRef" class="linkBlue">Artsimovitch I, Patlan V, Sekine S, Vassylyeva MN, Hosaka T, Ochi K, Yokoyama S, Vassylyev DG,2004</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="39">
+		<INTERACTION_ID>ECK125160750</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010118</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>ppGpp is able to inhibit <i>dusB</i>p (<i>fis</i>p) expression slightly in the absence of DksA |CITS:[15294157]|. However, ppGpp and DksA are required for normal stringent control of <i>dusB</i>p. Both act directly and synergistically to negatively control <i>dusB</i>p transcription <i>in vitro</i> |CITS:[16885445]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>ppGpp is able to inhibit <i>dusB</i>p (<i>fis</i>p) expression slightly in the absence of DksA <a href="#myRef" class="linkBlue">Paul BJ,2004</a> However, ppGpp and DksA are required for normal stringent control of <i>dusB</i>p. Both act directly and synergistically to negatively control <i>dusB</i>p transcription <i>in vitro</i> <a href="#myRef" class="linkBlue">Mallik P,2006</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="40">
+		<INTERACTION_ID>ECK125160751</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010447</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE><i>pyrL</i>p2 (<i>pyrB</i>p2) contains a G+C-rich sequence immediately dowstream of the _10 region that is similar to the discriminator sequence found in stringently controlled promoters |CITS:[1699940]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB><i>pyrL</i>p2 (<i>pyrB</i>p2) contains a G+C-rich sequence immediately dowstream of the _10 region that is similar to the discriminator sequence found in stringently controlled promoters <a href="#myRef" class="linkBlue">Donahue JP,1990</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="41">
+		<INTERACTION_ID>ECK125160752</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK125122034</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="42">
+		<INTERACTION_ID>ECK125160754</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010734</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="43">
+		<INTERACTION_ID>ECK125160755</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010188</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="44">
+		<INTERACTION_ID>ECK125160756</INTERACTION_ID>
+		<REGULATOR_ID>ECK125140670</REGULATOR_ID>
+		<PROMOTER_ID>ECK125095431</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="45">
+		<INTERACTION_ID>ECK125160758</INTERACTION_ID>
+		<REGULATOR_ID>ECK125140670</REGULATOR_ID>
+		<PROMOTER_ID>ECK120009864</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="46">
+		<INTERACTION_ID>ECK125160759</INTERACTION_ID>
+		<REGULATOR_ID>ECK125140670</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010458</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="47">
+		<INTERACTION_ID>ECK125160760</INTERACTION_ID>
+		<REGULATOR_ID>ECK125140670</REGULATOR_ID>
+		<PROMOTER_ID>ECK120009865</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="48">
+		<INTERACTION_ID>ECK125160761</INTERACTION_ID>
+		<REGULATOR_ID>ECK125140670</REGULATOR_ID>
+		<PROMOTER_ID>ECK120009872</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="49">
+		<INTERACTION_ID>ECK125160762</INTERACTION_ID>
+		<REGULATOR_ID>ECK125140670</REGULATOR_ID>
+		<PROMOTER_ID>ECK120009867</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="50">
+		<INTERACTION_ID>ECK125160763</INTERACTION_ID>
+		<REGULATOR_ID>ECK125140670</REGULATOR_ID>
+		<PROMOTER_ID>ECK120009868</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="51">
+		<INTERACTION_ID>ECK125160764</INTERACTION_ID>
+		<REGULATOR_ID>ECK125140670</REGULATOR_ID>
+		<PROMOTER_ID>ECK120009870</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="52">
+		<INTERACTION_ID>ECK125160765</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120030215</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="53">
+		<INTERACTION_ID>ECK125160766</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK125095431</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="54">
+		<INTERACTION_ID>ECK125160768</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010991</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="55">
+		<INTERACTION_ID>ECK125160769</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010241</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="56">
+		<INTERACTION_ID>ECK125160770</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK125135020</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>ppGpp regulates the expression of the <i>grxB</i> gene together with &sigma;<sup>S</sup> and &sigma;<sup>70</sup> during the exponential and stationary phases, respectively |CITS: [11889138]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>ppGpp regulates the expression of the <i>grxB</i> gene together with &sigma;<sup>S</sup> and &sigma;<sup>70</sup> during the exponential and stationary phases, respectively <a href="#myRef" class="linkBlue">Potamitou A,2002</a>.</INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="57">
+		<INTERACTION_ID>ECK125160771</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010187</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="58">
+		<INTERACTION_ID>ECK125160772</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010565</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="59">
+		<INTERACTION_ID>ECK125160773</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120034384</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE><i>leuO</i> expression is induced indirectly via an increase in the cellular Lrp level in response to a ppGpp level increase, which is caused by the slow growth rate as cells enter stationary phase |CITS:[11006083]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB><i>leuO</i> expression is induced indirectly via an increase in the cellular Lrp level in response to a ppGpp level increase, which is caused by the slow growth rate as cells enter stationary phase <a href="#myRef" class="linkBlue">Fang M,2000</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="60">
+		<INTERACTION_ID>ECK125160774</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010552</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE><i>ftsQ</i>p1, <i>ftsZ</i>p4, and <i>ftsZ</i>p3 are attractive candidates for ppGpp activation, since they exhibit inverse growth rate regulation. Even so, the effect of ppGpp on the <i>ftsZ</i> gene could be indirect |CITS:[8407846]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB><i>ftsQ</i>p1, <i>ftsZ</i>p4, and <i>ftsZ</i>p3 are attractive candidates for ppGpp activation, since they exhibit inverse growth rate regulation. Even so, the effect of ppGpp on the <i>ftsZ</i> gene could be indirect <a href="#myRef" class="linkBlue">Vinella D,1993</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="61">
+		<INTERACTION_ID>ECK125160775</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010553</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE><i>ftsQ</i>p1, <i>ftsZ</i>p4, and <i>ftsZ</i>p3 are attractive candidates for ppGpp activation, since they exhibit inverse growth rate regulation. Even so, the effect of ppGpp on the <i>ftsZ</i> gene could be indirect |CITS:[8407846]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB><i>ftsQ</i>p1, <i>ftsZ</i>p4, and <i>ftsZ</i>p3 are attractive candidates for ppGpp activation, since they exhibit inverse growth rate regulation. Even so, the effect of ppGpp on the <i>ftsZ</i> gene could be indirect <a href="#myRef" class="linkBlue">Vinella D,1993</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="62">
+		<INTERACTION_ID>ECK125160777</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120034549</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="63">
+		<INTERACTION_ID>ECK125160778</INTERACTION_ID>
+		<REGULATOR_ID>ECK125140670</REGULATOR_ID>
+		<PROMOTER_ID>ECK120034549</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="64">
+		<INTERACTION_ID>ECK125160779</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120029520</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>The positive effect of ppGpp on RelA is through its effect on the <i>k</i><sub>cat'</sub> and not the <i>K<sub>m</sub></i>. This effect is amplified by ribosomal protein L11 and deacylated RNA<sup>Phe</sup> and mRNA |CITS:[22907080]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>The positive effect of ppGpp on RelA is through its effect on the <i>k</i><sub>cat'</sub> and not the <i>K<sub>m</sub></i>. This effect is amplified by ribosomal protein L11 and deacylated RNA<sup>Phe</sup> and mRNA <a href="#myRef" class="linkBlue">Goodman C.,2012</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="65">
+		<INTERACTION_ID>ECK125162254</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010423</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="66">
+		<INTERACTION_ID>ECK125162256</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010424</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="67">
+		<INTERACTION_ID>ECK125162257</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010533</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="68">
+		<INTERACTION_ID>ECK125162260</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK125160782</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>ppGpp and its cofactor, DksA, inhibit in two ways the transcription of <i>fabH</i>p: 1) they directly inhibit its transcription, and 2) they inhibit <i>fadR</i> expression, which is an activator of the <i>fabHDG</i> operon |CITS:[23772072]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>ppGpp and its cofactor, DksA, inhibit in two ways the transcription of <i>fabH</i>p: 1) they directly inhibit its transcription, and 2) they inhibit <i>fadR</i> expression, which is an activator of the <i>fabHDG</i> operon <a href="#myRef" class="linkBlue">My L,2013</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="69">
+		<INTERACTION_ID>ECK125162261</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120049205</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="70">
+		<INTERACTION_ID>ECK125228876</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120034397</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>Upon amino acid starvation, <i>rpsB</i>p is negatively regulated by ppGpp due to the presence of the GC-rich discriminator, whose substitution for the AT-rich element abolished stringent control |CITS:[25365487]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>Upon amino acid starvation, <i>rpsB</i>p is negatively regulated by ppGpp due to the presence of the GC-rich discriminator, whose substitution for the AT-rich element abolished stringent control <a href="#myRef" class="linkBlue">Aseev LV,2014</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="71">
+		<INTERACTION_ID>ECK125228877</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK125203431</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="72">
+		<INTERACTION_ID>ECK125240688</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010239</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>ppGpp regulates positively the expression of <i>lrp</i>, but it may not be entirely responsible for growth-phase regulation |CITS:[8955316]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>ppGpp regulates positively the expression of <i>lrp</i>, but it may not be entirely responsible for growth-phase regulation <a href="#myRef" class="linkBlue">Landgraf JR,1996</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="73">
+		<INTERACTION_ID>ECK125240689</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010399</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="74">
+		<INTERACTION_ID>ECK125240690</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120011144</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>The <i>rplM-rpsI</i> operon is regulated by ppGpp-DksA-dependent negative stringent control under amino acid starvation, most likely due to the features of the discriminator region (G/C rich) separating the -10 promoter element from the transcription start site (TSS) |CITS:[ 27381917]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>The <i>rplM-rpsI</i> operon is regulated by ppGpp-DksA-dependent negative stringent control under amino acid starvation, most likely due to the features of the discriminator region (G/C rich) separating the -10 promoter element from the transcription start site (TSS) <a href="#myRef" class="linkBlue">Aseev LV,2016</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="75">
+		<INTERACTION_ID>ECK125240691</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010696</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>The <i>rpmB-rpmG</i> operon is regulated by ppGpp-DksA-dependent negative stringent control under amino acid starvation, most likely due to the features of the discriminator region (G/C rich) separating the -10 promoter element from the transcription start site (TSS) |CITS:[ 27381917]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>The <i>rpmB-rpmG</i> operon is regulated by ppGpp-DksA-dependent negative stringent control under amino acid starvation, most likely due to the features of the discriminator region (G/C rich) separating the -10 promoter element from the transcription start site (TSS) <a href="#myRef" class="linkBlue">Aseev LV,2016</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="76">
+		<INTERACTION_ID>ECK125240692</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK125122035</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>The <i>rplU-rpmA</i> operon is regulated by ppGpp-DksA-dependent negative stringent control under amino acid starvation, most likely due to the features of the discriminator region (G/C rich) separating the -10 promoter element from the transcription start site (TSS) |CITS: [27381917]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>The <i>rplU-rpmA</i> operon is regulated by ppGpp-DksA-dependent negative stringent control under amino acid starvation, most likely due to the features of the discriminator region (G/C rich) separating the -10 promoter element from the transcription start site (TSS) <a href="#myRef" class="linkBlue">Aseev LV,2016</a>.</INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="77">
+		<INTERACTION_ID>ECK125258879</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120009973</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>The <i>argT<i> promoter is negatively affected by ppGpp <i>in vivo</i> |CITS:[7680341]| and <i>in vitro</i> during the stringent response |CITS: [11035017]|.<br>Based on results of nuclease protection and primer extension assays, <i>leuV</i>, <i>argT</i>, <i>metT</i>, and <i>leuX</i> were determined to be involved in the stringent response induced by serine hydroxamate  |CITS: [7680341]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>The <i>argT<i> promoter is negatively affected by ppGpp <i>in vivo</i> <a href="#myRef" class="linkBlue">Rowley KB,1993</a>and <i>in vitro</i> during the stringent response <a href="#myRef" class="linkBlue">Toulokhonov II,2001</a>.<br>Based on results of nuclease protection and primer extension assays, <i>leuV</i>, <i>argT</i>, <i>metT</i>, and <i>leuX</i> were determined to be involved in the stringent response induced by serine hydroxamate  <a href="#myRef" class="linkBlue">Rowley KB,1993</a>.</INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="78">
+		<INTERACTION_ID>ECK125258880</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010579</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="79">
+		<INTERACTION_ID>ECK125258881</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010600</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="80">
+		<INTERACTION_ID>ECK125258882</INTERACTION_ID>
+		<REGULATOR_ID>ECK125140670</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010580</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="81">
+		<INTERACTION_ID>ECK125258883</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010608</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="82">
+		<INTERACTION_ID>ECK125258884</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010127</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="83">
+		<INTERACTION_ID>ECK125258885</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010579</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="84">
+		<INTERACTION_ID>ECK125258886</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010580</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="85">
+		<INTERACTION_ID>ECK125258887</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010604</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>Based on results of nuclease protection and primer extension assays, <i>leuV</i>, <i>argT</i>, <i>metT</i>, and <i>leuX</i> were determined to be involved in the stringent response induced by serine hydroxamate  |CITS: [7680341]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>Based on results of nuclease protection and primer extension assays, <i>leuV</i>, <i>argT</i>, <i>metT</i>, and <i>leuX</i> were determined to be involved in the stringent response induced by serine hydroxamate  <a href="#myRef" class="linkBlue">Rowley KB,1993</a>.</INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="86">
+		<INTERACTION_ID>ECK125258888</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010508</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="87">
+		<INTERACTION_ID>ECK125258889</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120009984</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="88">
+		<INTERACTION_ID>ECK125258890</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010580</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="89">
+		<INTERACTION_ID>ECK125258891</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010603</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>Based on results of nuclease protection and primer extension assays, <i>leuV</i>, <i>argT</i>, <i>metT</i>, and <i>leuX</i> were determined to be involved in the stringent response induced by serine hydroxamate  |CITS: [7680341]|.<br><i>leuX</i> gene expression is not growth rate dependent |CITS: [7680341]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>Based on results of nuclease protection and primer extension assays, <i>leuV</i>, <i>argT</i>, <i>metT</i>, and <i>leuX</i> were determined to be involved in the stringent response induced by serine hydroxamate  <a href="#myRef" class="linkBlue">Rowley KB,1993</a>.<br><i>leuX</i> gene expression is not growth rate dependent <a href="#myRef" class="linkBlue">Rowley KB,1993</a>.</INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="90">
+		<INTERACTION_ID>ECK125258892</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010237</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="91">
+		<INTERACTION_ID>ECK125258893</INTERACTION_ID>
+		<REGULATOR_ID>ECK125140670</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010504</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="92">
+		<INTERACTION_ID>ECK125258894</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010411</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="93">
+		<INTERACTION_ID>ECK125258895</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010597</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="94">
+		<INTERACTION_ID>ECK125258896</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010504</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="95">
+		<INTERACTION_ID>ECK125258897</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010600</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="96">
+		<INTERACTION_ID>ECK125258899</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010605</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE><i>serW</i>p2 appears to be under stringent control, since the -10 region is followed by a GCGCCCC (G/C-rich) sequence characteristic of promoters regulated by ppGpp |CITS:[7518257][6154042]|. This would negatively affect <i>serW</i> transcription as well as other tRNAs |CITS:[6154042]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB><i>serW</i>p2 appears to be under stringent control, since the -10 region is followed by a GCGCCCC (G/C-rich) sequence characteristic of promoters regulated by ppGpp <a href="#myRef" class="linkBlue">Cummings HS,1994. Travers AA,1980</a> This would negatively affect <i>serW</i> transcription as well as other tRNAs <a href="#myRef" class="linkBlue">Travers AA,1980</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="97">
+		<INTERACTION_ID>ECK125258900</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010504</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="98">
+		<INTERACTION_ID>ECK125258901</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120034292</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="99">
+		<INTERACTION_ID>ECK125258902</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120034339</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>The binding of ppGpp to <i>mnmG</i> and <i>mioC</i> genes was evaluated in <i>Escherichia coli</i> W3110 |CITS: [1745229]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>The binding of ppGpp to <i>mnmG</i> and <i>mioC</i> genes was evaluated in <i>Escherichia coli</i> W3110 <a href="#myRef" class="linkBlue">Ogawa T,1991</a>.</INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="100">
+		<INTERACTION_ID>ECK125258903</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010419</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="101">
+		<INTERACTION_ID>ECK125258904</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120030215</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>DksA-ppGpp activate the <i>iraP</i> promoter, improving &sigma;<sup>S</sup> stability |CITS:[29061665]|. On the other hand, DksA-ppGpp can increase <i>iraP</i> expression indirectly by another mechanism, possibly by reducing rRNA transcription and thereby increasing RNAP availability |CITS:[29061665]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>DksA-ppGpp activate the <i>iraP</i> promoter, improving &sigma;<sup>S</sup> stability <a href="#myRef" class="linkBlue">Girard ME,2018</a> On the other hand, DksA-ppGpp can increase <i>iraP</i> expression indirectly by another mechanism, possibly by reducing rRNA transcription and thereby increasing RNAP availability <a href="#myRef" class="linkBlue">Girard ME,2018</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="102">
+		<INTERACTION_ID>ECK125258905</INTERACTION_ID>
+		<REGULATOR_ID>ECK125140670</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010600</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="103">
+		<INTERACTION_ID>ECK125258906</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120030786</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="104">
+		<INTERACTION_ID>ECK125258907</INTERACTION_ID>
+		<REGULATOR_ID>ECK125140670</REGULATOR_ID>
+		<PROMOTER_ID>ECK120030786</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="105">
+		<INTERACTION_ID>ECK125258908</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010410</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="106">
+		<INTERACTION_ID>ECK125258909</INTERACTION_ID>
+		<REGULATOR_ID>ECK125140670</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010579</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="107">
+		<INTERACTION_ID>ECK125258910</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK125108717</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>DksA and ppGpp activate the <i>dsrA</i> promoter, improving <i>rpoS</i> translation |CITS:[29061665]|. On the other hand, DksA-ppGpp can increase <i>dsrA</i> expression indirectly by another mechanism, possibly by reducing rRNA transcription and thereby increasing RNAP availability |CITS:[29061665]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>DksA and ppGpp activate the <i>dsrA</i> promoter, improving <i>rpoS</i> translation <a href="#myRef" class="linkBlue">Girard ME,2018</a> On the other hand, DksA-ppGpp can increase <i>dsrA</i> expression indirectly by another mechanism, possibly by reducing rRNA transcription and thereby increasing RNAP availability <a href="#myRef" class="linkBlue">Girard ME,2018</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="108">
+		<INTERACTION_ID>ECK125285764</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120030656</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="109">
+		<INTERACTION_ID>ECK125285765</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120009874</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="110">
+		<INTERACTION_ID>ECK125285766</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010386</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="111">
+		<INTERACTION_ID>ECK125285768</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK125137153</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="112">
+		<INTERACTION_ID>ECK125285769</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010292</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="113">
+		<INTERACTION_ID>ECK125285770</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010540</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="114">
+		<INTERACTION_ID>ECK125285771</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120034220</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="115">
+		<INTERACTION_ID>ECK125285772</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010362</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="116">
+		<INTERACTION_ID>ECK125285773</INTERACTION_ID>
+		<REGULATOR_ID>ECK125140670</REGULATOR_ID>
+		<PROMOTER_ID>ECK120030789</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="117">
+		<INTERACTION_ID>ECK125285774</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010279</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="118">
+		<INTERACTION_ID>ECK125285775</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120009946</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="119">
+		<INTERACTION_ID>ECK125285777</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010152</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="120">
+		<INTERACTION_ID>ECK125285778</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK125145767</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE><i>rmf</i> transcription is induced positively and directly by cellular ppGpp concentrations rather than by the decreased growth rate |CITS:[11532026]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB><i>rmf</i> transcription is induced positively and directly by cellular ppGpp concentrations rather than by the decreased growth rate <a href="#myRef" class="linkBlue">Izutsu K,2001</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="121">
+		<INTERACTION_ID>ECK125285779</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120009988</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="122">
+		<INTERACTION_ID>ECK125285780</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010601</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>The nucleotide sequence (GCGC) from positions -7 to -4 (with respect to the transcription start site of the <i>thrU</i>p promoter) is responsible for the inhibition of the <i>thrU-tyrU-glyT-thrT-tufB</i> operon by ppGpp (0.2 &mu;M)  during stringent control |CITS:[2990906]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>The nucleotide sequence (GCGC) from positions -7 to -4 (with respect to the transcription start site of the <i>thrU</i>p promoter) is responsible for the inhibition of the <i>thrU-tyrU-glyT-thrT-tufB</i> operon by ppGpp (0.2 &mu;M)  during stringent control <a href="#myRef" class="linkBlue">Mizushima-Sugano J,1985</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="123">
+		<INTERACTION_ID>ECK125285781</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120009875</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="124">
+		<INTERACTION_ID>ECK125285782</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010398</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="125">
+		<INTERACTION_ID>ECK125285783</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120033713</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="126">
+		<INTERACTION_ID>ECK125285785</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120030789</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="127">
+		<INTERACTION_ID>ECK125285786</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120033247</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="128">
+		<INTERACTION_ID>ECK125285787</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK125160646</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="129">
+		<INTERACTION_ID>ECK125285788</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120009999</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="130">
+		<INTERACTION_ID>ECK125285789</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120009970</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="131">
+		<INTERACTION_ID>ECK125285792</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120034360</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>ppGpp can induce <i>qor</i> expression either directly or indirectly in parallel with the stringent response |CITS:[12123445]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>ppGpp can induce <i>qor</i> expression either directly or indirectly in parallel with the stringent response <a href="#myRef" class="linkBlue">Chang DE,2002</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="132">
+		<INTERACTION_ID>ECK125302522</INTERACTION_ID>
+		<REGULATOR_ID>ECK125140670</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296966</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="133">
+		<INTERACTION_ID>ECK125302523</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296966</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel |CITS:[15109491]|. Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters |CITS:[15109491]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel <a href="#myRef" class="linkBlue">Artsimovitch I, Patlan V, Sekine S, Vassylyeva MN, Hosaka T, Ochi K, Yokoyama S, Vassylyev DG,2004</a> Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters <a href="#myRef" class="linkBlue">Artsimovitch I, Patlan V, Sekine S, Vassylyeva MN, Hosaka T, Ochi K, Yokoyama S, Vassylyev DG,2004</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="134">
+		<INTERACTION_ID>ECK125302524</INTERACTION_ID>
+		<REGULATOR_ID>ECK125140670</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296979</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="135">
+		<INTERACTION_ID>ECK125302525</INTERACTION_ID>
+		<REGULATOR_ID>ECK125140670</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296860</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="136">
+		<INTERACTION_ID>ECK125302526</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296978</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel |CITS:[15109491]|. Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters |CITS:[15109491]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel <a href="#myRef" class="linkBlue">Artsimovitch I, Patlan V, Sekine S, Vassylyeva MN, Hosaka T, Ochi K, Yokoyama S, Vassylyev DG,2004</a> Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters <a href="#myRef" class="linkBlue">Artsimovitch I, Patlan V, Sekine S, Vassylyeva MN, Hosaka T, Ochi K, Yokoyama S, Vassylyev DG,2004</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="137">
+		<INTERACTION_ID>ECK125302527</INTERACTION_ID>
+		<REGULATOR_ID>ECK125140670</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296978</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="138">
+		<INTERACTION_ID>ECK125302528</INTERACTION_ID>
+		<REGULATOR_ID>ECK125140670</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296870</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="139">
+		<INTERACTION_ID>ECK125302529</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296922</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="140">
+		<INTERACTION_ID>ECK125302530</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296874</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel |CITS:[15109491]|. Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters |CITS:[15109491]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel <a href="#myRef" class="linkBlue">Artsimovitch I, Patlan V, Sekine S, Vassylyeva MN, Hosaka T, Ochi K, Yokoyama S, Vassylyev DG,2004</a> Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters <a href="#myRef" class="linkBlue">Artsimovitch I, Patlan V, Sekine S, Vassylyeva MN, Hosaka T, Ochi K, Yokoyama S, Vassylyev DG,2004</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="141">
+		<INTERACTION_ID>ECK125302531</INTERACTION_ID>
+		<REGULATOR_ID>ECK125140670</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296899</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="142">
+		<INTERACTION_ID>ECK125302532</INTERACTION_ID>
+		<REGULATOR_ID>ECK125140670</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296874</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="143">
+		<INTERACTION_ID>ECK125302533</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296966</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters |CITS:[15294157][21402902]|. A model reflecting the contribution of DksA under regulation of rRNA expression has been developed |CITS:[15294157]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters <a href="#myRef" class="linkBlue">Paul BJ,2004. Lemke JJ,2011</a> A model reflecting the contribution of DksA under regulation of rRNA expression has been developed <a href="#myRef" class="linkBlue">Paul BJ,2004</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="144">
+		<INTERACTION_ID>ECK125302534</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296887</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE><i>ftsQ</i>p1, <i>ftsZ</i>p4, and <i>ftsZ</i>p3 are attractive candidates for ppGpp activation, since they exhibit inverse growth rate regulation. Even so, the effect of ppGpp on the <i>ftsZ</i> gene could be indirect |CITS:[8407846]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB><i>ftsQ</i>p1, <i>ftsZ</i>p4, and <i>ftsZ</i>p3 are attractive candidates for ppGpp activation, since they exhibit inverse growth rate regulation. Even so, the effect of ppGpp on the <i>ftsZ</i> gene could be indirect <a href="#myRef" class="linkBlue">Vinella D,1993</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="145">
+		<INTERACTION_ID>ECK125302535</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120009941</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>There is a discriminator region between -10 and +1 in the <i>flu</i>p  promoter. This region is required for the positive control by ppGpp |CITS: [32548953]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>There is a discriminator region between -10 and +1 in the <i>flu</i>p  promoter. This region is required for the positive control by ppGpp <a href="#myRef" class="linkBlue">Cabrer-Panes JD,2020</a>.</INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="146">
+		<INTERACTION_ID>ECK125302536</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296860</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="147">
+		<INTERACTION_ID>ECK125302537</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296934</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="148">
+		<INTERACTION_ID>ECK125302538</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296870</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel |CITS:[15109491]|. Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters |CITS:[15109491]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel <a href="#myRef" class="linkBlue">Artsimovitch I, Patlan V, Sekine S, Vassylyeva MN, Hosaka T, Ochi K, Yokoyama S, Vassylyev DG,2004</a> Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters <a href="#myRef" class="linkBlue">Artsimovitch I, Patlan V, Sekine S, Vassylyeva MN, Hosaka T, Ochi K, Yokoyama S, Vassylyev DG,2004</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="149">
+		<INTERACTION_ID>ECK125302539</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296979</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters |CITS:[15294157][21402902]|. A model reflecting the contribution of DksA under regulation of rRNA expression has been developed |CITS:[15294157]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters <a href="#myRef" class="linkBlue">Paul BJ,2004. Lemke JJ,2011</a> A model reflecting the contribution of DksA under regulation of rRNA expression has been developed <a href="#myRef" class="linkBlue">Paul BJ,2004</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="150">
+		<INTERACTION_ID>ECK125302540</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296926</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="151">
+		<INTERACTION_ID>ECK125302541</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296899</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel |CITS:[15109491]|. Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters |CITS:[15109491]|.<br>The regulatory effects on transcription initiation and properties between (p)ppApp with (p)ppGpp were assessed using the well-studied <i>E. coli rrnB</i>P1 promoter. Different from (p)ppGpp, (p)ppApp activates transcription at this promoter, and DksA hinders this effect; in contrast, pppApp exerts a stronger effect than ppApp. The X-ray crystal structure of the RNAP-(p)ppApp complex was determined and which shows that the analogs bind near the active site and switch regions of RNAP |CITS:[30013537]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel <a href="#myRef" class="linkBlue">Artsimovitch I, Patlan V, Sekine S, Vassylyeva MN, Hosaka T, Ochi K, Yokoyama S, Vassylyev DG,2004</a> Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters <a href="#myRef" class="linkBlue">Artsimovitch I, Patlan V, Sekine S, Vassylyeva MN, Hosaka T, Ochi K, Yokoyama S, Vassylyev DG,2004</a><br>The regulatory effects on transcription initiation and properties between (p)ppApp with (p)ppGpp were assessed using the well-studied <i>E. coli rrnB</i>P1 promoter. Different from (p)ppGpp, (p)ppApp activates transcription at this promoter, and DksA hinders this effect; in contrast, pppApp exerts a stronger effect than ppApp. The X-ray crystal structure of the RNAP-(p)ppApp complex was determined and which shows that the analogs bind near the active site and switch regions of RNAP <a href="#myRef" class="linkBlue">Klitgaard RN,2018</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="152">
+		<INTERACTION_ID>ECK125302542</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296870</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters |CITS:[15294157][21402902]|. A model reflecting the contribution of DksA under regulation of rRNA expression has been developed |CITS:[15294157]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters <a href="#myRef" class="linkBlue">Paul BJ,2004. Lemke JJ,2011</a> A model reflecting the contribution of DksA under regulation of rRNA expression has been developed <a href="#myRef" class="linkBlue">Paul BJ,2004</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="153">
+		<INTERACTION_ID>ECK125302543</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296874</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters |CITS:[15294157][21402902]|. A model reflecting the contribution of DksA under regulation of rRNA expression has been developed |CITS:[15294157]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters <a href="#myRef" class="linkBlue">Paul BJ,2004. Lemke JJ,2011</a> A model reflecting the contribution of DksA under regulation of rRNA expression has been developed <a href="#myRef" class="linkBlue">Paul BJ,2004</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="154">
+		<INTERACTION_ID>ECK125302544</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296981</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel |CITS:[15109491]|. Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters |CITS:[15109491]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel <a href="#myRef" class="linkBlue">Artsimovitch I, Patlan V, Sekine S, Vassylyeva MN, Hosaka T, Ochi K, Yokoyama S, Vassylyev DG,2004</a> Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters <a href="#myRef" class="linkBlue">Artsimovitch I, Patlan V, Sekine S, Vassylyeva MN, Hosaka T, Ochi K, Yokoyama S, Vassylyev DG,2004</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="155">
+		<INTERACTION_ID>ECK125302545</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010747</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="156">
+		<INTERACTION_ID>ECK125302546</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296899</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters |CITS:[15294157][21402902]|. A model reflecting the contribution of DksA under regulation of rRNA expression has been developed |CITS:[15294157]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters <a href="#myRef" class="linkBlue">Paul BJ,2004. Lemke JJ,2011</a> A model reflecting the contribution of DksA under regulation of rRNA expression has been developed <a href="#myRef" class="linkBlue">Paul BJ,2004</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="157">
+		<INTERACTION_ID>ECK125302547</INTERACTION_ID>
+		<REGULATOR_ID>ECK125140670</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296962</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="158">
+		<INTERACTION_ID>ECK125302548</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296962</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="159">
+		<INTERACTION_ID>ECK125302549</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296967</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>The binding of ppGpp to <i>mnmG</i> and <i>mioC</i> genes was evaluated in <i>Escherichia coli</i> W3110 |CITS: [1745229]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>The binding of ppGpp to <i>mnmG</i> and <i>mioC</i> genes was evaluated in <i>Escherichia coli</i> W3110 <a href="#myRef" class="linkBlue">Ogawa T,1991</a>.</INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="160">
+		<INTERACTION_ID>ECK125302550</INTERACTION_ID>
+		<REGULATOR_ID>ECK125140670</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296972</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="161">
+		<INTERACTION_ID>ECK125302551</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296978</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters |CITS:[15294157][21402902]|. A model reflecting the contribution of DksA under regulation of rRNA expression has been developed |CITS:[15294157]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters <a href="#myRef" class="linkBlue">Paul BJ,2004. Lemke JJ,2011</a> A model reflecting the contribution of DksA under regulation of rRNA expression has been developed <a href="#myRef" class="linkBlue">Paul BJ,2004</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="162">
+		<INTERACTION_ID>ECK125302552</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296860</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="163">
+		<INTERACTION_ID>ECK125302553</INTERACTION_ID>
+		<REGULATOR_ID>ECK125140670</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296981</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="164">
+		<INTERACTION_ID>ECK125302554</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296972</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="165">
+		<INTERACTION_ID>ECK125302555</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296924</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="166">
+		<INTERACTION_ID>ECK125302556</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296987</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>DksA weakly inhibited <i>pcnBp3</i> (pB) transcription |CITS:[20700605]|. Pronounced impairment of <i>pcnBp3</i> (pB) activity was caused by ppGpp |CITS:[20700605]|. A dramatic decrease in the level of <i>pcnBp3</i> (pB)-derived transcripts was observed when both DksA and ppGpp were present in the reaction mixture |CITS:[20700605]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>DksA weakly inhibited <i>pcnBp3</i> (pB) transcription <a href="#myRef" class="linkBlue">Nadratowska-Wesolowska B,2010</a> Pronounced impairment of <i>pcnBp3</i> (pB) activity was caused by ppGpp <a href="#myRef" class="linkBlue">Nadratowska-Wesolowska B,2010</a> A dramatic decrease in the level of <i>pcnBp3</i> (pB)-derived transcripts was observed when both DksA and ppGpp were present in the reaction mixture <a href="#myRef" class="linkBlue">Nadratowska-Wesolowska B,2010</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="167">
+		<INTERACTION_ID>ECK125302557</INTERACTION_ID>
+		<REGULATOR_ID>ECK125140670</REGULATOR_ID>
+		<PROMOTER_ID>ECK120009941</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>activation</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="168">
+		<INTERACTION_ID>ECK125302558</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296987</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE />
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB />
+	</ROW>
+	<ROW num="169">
+		<INTERACTION_ID>ECK125302559</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296979</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel |CITS:[15109491]|. Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters |CITS:[15109491]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel <a href="#myRef" class="linkBlue">Artsimovitch I, Patlan V, Sekine S, Vassylyeva MN, Hosaka T, Ochi K, Yokoyama S, Vassylyev DG,2004</a> Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters <a href="#myRef" class="linkBlue">Artsimovitch I, Patlan V, Sekine S, Vassylyeva MN, Hosaka T, Ochi K, Yokoyama S, Vassylyev DG,2004</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="170">
+		<INTERACTION_ID>ECK125302560</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258877</REGULATOR_ID>
+		<PROMOTER_ID>ECK125296981</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE>DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters |CITS:[15294157][21402902]|. A model reflecting the contribution of DksA under regulation of rRNA expression has been developed |CITS:[15294157]|.</INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB>DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters <a href="#myRef" class="linkBlue">Paul BJ,2004. Lemke JJ,2011</a> A model reflecting the contribution of DksA under regulation of rRNA expression has been developed <a href="#myRef" class="linkBlue">Paul BJ,2004</a></INTERACTION_NOTE_WEB>
+	</ROW>
+	<ROW num="171">
+		<INTERACTION_ID>ECK125302651</INTERACTION_ID>
+		<REGULATOR_ID>ECK125258878</REGULATOR_ID>
+		<PROMOTER_ID>ECK120010201</PROMOTER_ID>
+		<SITE_ID />
+		<INTERACTION_FUNCTION>inhibition</INTERACTION_FUNCTION>
+		<CENTER_POSITION />
+		<INTERACTION_FIRST_GENE_ID />
+		<AFFINITY_EXP />
+		<INTERACTION_NOTE><i>hns</i> expression is inversely correlated with the intracellular concentration of (p)ppGpp  |CITS:[33050410]|.<br></INTERACTION_NOTE>
+		<INTERACTION_INTERNAL_COMMENT />
+		<INTERACTION_SEQUENCE />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+		<INTERACTION_NOTE_WEB><i>hns</i> expression is inversely correlated with the intracellular concentration of (p)ppGpp  <a href="#myRef" class="linkBlue">Brandi A,2020</a><br></INTERACTION_NOTE_WEB>
+	</ROW>
+</ROWSET>

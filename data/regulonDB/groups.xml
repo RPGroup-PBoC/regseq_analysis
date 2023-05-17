@@ -1,0 +1,121 @@
+<?xml version='1.0'?>
+<!-- # Copies and Copyright-Notice
+#
+#      RegulonDB is free for academic/noncommercial use
+#
+#      User is not entitled to change or erase data sets of the RegulonDB
+#      database or to eliminate copyright notices from RegulonDB. Furthermore,
+#      User is not entitled to expand RegulonDB or to integrate RegulonDB partly
+#      or as a whole into other databank systems, without prior written consent
+#      from CCG-UNAM.
+#
+#      Please check the license at http://regulondb.ccg.unam.mx/menu/download/full_version/terms_and_conditions.jsp
+#
+# Citation
+#
+#      Tierrafría, V. H. et al. (2022). RegulonDB 11.0: Comprehensive high-throughput datasets on transcriptional regulation in Escherichia coli K-12,
+#      Microb Genom. 2022 May;8(5). doi: 10.1099/mgen.0.000833. PMID: 35584008. https://doi.org/10.1099/mgen.0.000833
+#
+#
+# Contact
+#
+#      Person: RegulonDB Team
+#      Web Page: http://regulondb.ccg.unam.mx/menu/about_regulondb/contact_us/index.jsp
+#          (regulondb@ccg.unam.mx)
+#
+# RegulonDB: 11.1 Date:12/12/2022-->
+<!-- Created: 12/12/2022 11:48:35-->
+<!-- Table: GROUPS-->
+<!-- Columns: -->
+<!-- 1) GROUP_ID-->
+<!-- 2) GROUP_NAME-->
+<ROWSET>
+	<ROW num="1">
+		<GROUP_ID>GUe000000001</GROUP_ID>
+		<GROUP_NAME>Lipid transport and metabolism</GROUP_NAME>
+	</ROW>
+	<ROW num="2">
+		<GROUP_ID>GUe000000022</GROUP_ID>
+		<GROUP_NAME>Transcription</GROUP_NAME>
+	</ROW>
+	<ROW num="3">
+		<GROUP_ID>GUe000000023</GROUP_ID>
+		<GROUP_NAME>Amino acid transport and metabolism</GROUP_NAME>
+	</ROW>
+	<ROW num="4">
+		<GROUP_ID>GUe000000074</GROUP_ID>
+		<GROUP_NAME>Nucleotide transport and metabolism</GROUP_NAME>
+	</ROW>
+	<ROW num="5">
+		<GROUP_ID>GUe000000075</GROUP_ID>
+		<GROUP_NAME>Signal transduction mechanisms</GROUP_NAME>
+	</ROW>
+	<ROW num="6">
+		<GROUP_ID>GUe000000076</GROUP_ID>
+		<GROUP_NAME>Secondary metabolites biosynthesis, transport and catabolism</GROUP_NAME>
+	</ROW>
+	<ROW num="7">
+		<GROUP_ID>GUe000000077</GROUP_ID>
+		<GROUP_NAME>Energy production and conversion</GROUP_NAME>
+	</ROW>
+	<ROW num="8">
+		<GROUP_ID>GUe000000078</GROUP_ID>
+		<GROUP_NAME>Posttranslational modification, protein turnover, chaperones</GROUP_NAME>
+	</ROW>
+	<ROW num="9">
+		<GROUP_ID>GUe000000079</GROUP_ID>
+		<GROUP_NAME>Inorganic ion transport and metabolism</GROUP_NAME>
+	</ROW>
+	<ROW num="10">
+		<GROUP_ID>GUe000000080</GROUP_ID>
+		<GROUP_NAME>Coenzyme transport and metabolism</GROUP_NAME>
+	</ROW>
+	<ROW num="11">
+		<GROUP_ID>GUe000000081</GROUP_ID>
+		<GROUP_NAME>General function prediction only</GROUP_NAME>
+	</ROW>
+	<ROW num="12">
+		<GROUP_ID>GUe000000590</GROUP_ID>
+		<GROUP_NAME>Carbohydrate transport and metabolism</GROUP_NAME>
+	</ROW>
+	<ROW num="13">
+		<GROUP_ID>GUe000000735</GROUP_ID>
+		<GROUP_NAME>Cell motility</GROUP_NAME>
+	</ROW>
+	<ROW num="14">
+		<GROUP_ID>GUe000000736</GROUP_ID>
+		<GROUP_NAME>Cell wall/membrane/envelope biogenesis</GROUP_NAME>
+	</ROW>
+	<ROW num="15">
+		<GROUP_ID>GUe000000737</GROUP_ID>
+		<GROUP_NAME>Replication, recombination and repair</GROUP_NAME>
+	</ROW>
+	<ROW num="16">
+		<GROUP_ID>GUe000000738</GROUP_ID>
+		<GROUP_NAME>Intracellular trafficking, secretion, and vesicular transport</GROUP_NAME>
+	</ROW>
+	<ROW num="17">
+		<GROUP_ID>GUe000001485</GROUP_ID>
+		<GROUP_NAME>Function unknown</GROUP_NAME>
+	</ROW>
+	<ROW num="18">
+		<GROUP_ID>GUe000001646</GROUP_ID>
+		<GROUP_NAME>Translation, ribosomal structure and biogenesis</GROUP_NAME>
+	</ROW>
+	<ROW num="19">
+		<GROUP_ID>GUe000004434</GROUP_ID>
+		<GROUP_NAME>RNA processing and modification</GROUP_NAME>
+	</ROW>
+	<ROW num="20">
+		<GROUP_ID>GUe000004846</GROUP_ID>
+		<GROUP_NAME>Defense mechanisms</GROUP_NAME>
+	</ROW>
+	<ROW num="21">
+		<GROUP_ID>GUe000004847</GROUP_ID>
+		<GROUP_NAME>Cell cycle control, cell division, chromosome partitioning</GROUP_NAME>
+	</ROW>
+	<ROW num="22">
+		<GROUP_ID>GUe000008969</GROUP_ID>
+		<GROUP_NAME>Mobilome: prophages, transposons</GROUP_NAME>
+	</ROW>
+</ROWSET>

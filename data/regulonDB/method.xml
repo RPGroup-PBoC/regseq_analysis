@@ -1,0 +1,101 @@
+<?xml version='1.0'?>
+<!-- # Copies and Copyright-Notice
+#
+#      RegulonDB is free for academic/noncommercial use
+#
+#      User is not entitled to change or erase data sets of the RegulonDB
+#      database or to eliminate copyright notices from RegulonDB. Furthermore,
+#      User is not entitled to expand RegulonDB or to integrate RegulonDB partly
+#      or as a whole into other databank systems, without prior written consent
+#      from CCG-UNAM.
+#
+#      Please check the license at http://regulondb.ccg.unam.mx/menu/download/full_version/terms_and_conditions.jsp
+#
+# Citation
+#
+#      Tierrafría, V. H. et al. (2022). RegulonDB 11.0: Comprehensive high-throughput datasets on transcriptional regulation in Escherichia coli K-12,
+#      Microb Genom. 2022 May;8(5). doi: 10.1099/mgen.0.000833. PMID: 35584008. https://doi.org/10.1099/mgen.0.000833
+#
+#
+# Contact
+#
+#      Person: RegulonDB Team
+#      Web Page: http://regulondb.ccg.unam.mx/menu/about_regulondb/contact_us/index.jsp
+#          (regulondb@ccg.unam.mx)
+#
+# RegulonDB: 11.1 Date:12/12/2022-->
+<!-- Created: 12/12/2022 11:48:35-->
+<!-- Table: METHOD-->
+<!-- Columns: -->
+<!-- 1) METHOD_ID-->
+<!-- 2) METHOD_NAME-->
+<!-- 3) METHOD_DESCRIPTION-->
+<!-- 4) PARAMETER_USED-->
+<!-- 5) METHOD_NOTE-->
+<!-- 6) METHOD_INTERNAL_COMMENT-->
+<!-- 7) KEY_ID_ORG-->
+<ROWSET>
+	<ROW num="1">
+		<METHOD_ID>GID000054855</METHOD_ID>
+		<METHOD_NAME>Northern Blot</METHOD_NAME>
+		<METHOD_DESCRIPTION>Northern Blot</METHOD_DESCRIPTION>
+		<PARAMETER_USED />
+		<METHOD_NOTE />
+		<METHOD_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+	</ROW>
+	<ROW num="2">
+		<METHOD_ID>GID000054856</METHOD_ID>
+		<METHOD_NAME>Primer Extension</METHOD_NAME>
+		<METHOD_DESCRIPTION>Primer Extension</METHOD_DESCRIPTION>
+		<PARAMETER_USED />
+		<METHOD_NOTE />
+		<METHOD_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+	</ROW>
+	<ROW num="3">
+		<METHOD_ID>GID000064146</METHOD_ID>
+		<METHOD_NAME>transcriptional fusion</METHOD_NAME>
+		<METHOD_DESCRIPTION>transcriptional fusion</METHOD_DESCRIPTION>
+		<PARAMETER_USED>null</PARAMETER_USED>
+		<METHOD_NOTE>null</METHOD_NOTE>
+		<METHOD_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+	</ROW>
+	<ROW num="4">
+		<METHOD_ID>GID000064147</METHOD_ID>
+		<METHOD_NAME>in vitro transcription</METHOD_NAME>
+		<METHOD_DESCRIPTION>in vitro transcription</METHOD_DESCRIPTION>
+		<PARAMETER_USED>null</PARAMETER_USED>
+		<METHOD_NOTE>null</METHOD_NOTE>
+		<METHOD_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+	</ROW>
+	<ROW num="5">
+		<METHOD_ID>GID000064148</METHOD_ID>
+		<METHOD_NAME>translational fusion</METHOD_NAME>
+		<METHOD_DESCRIPTION>translational fusion</METHOD_DESCRIPTION>
+		<PARAMETER_USED>null</PARAMETER_USED>
+		<METHOD_NOTE>null</METHOD_NOTE>
+		<METHOD_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+	</ROW>
+	<ROW num="6">
+		<METHOD_ID>GID000064149</METHOD_ID>
+		<METHOD_NAME>Microdensitometry</METHOD_NAME>
+		<METHOD_DESCRIPTION>Microdensitometry</METHOD_DESCRIPTION>
+		<PARAMETER_USED>null</PARAMETER_USED>
+		<METHOD_NOTE>null</METHOD_NOTE>
+		<METHOD_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+	</ROW>
+	<ROW num="7">
+		<METHOD_ID>GID000064150</METHOD_ID>
+		<METHOD_NAME>RT-PCR</METHOD_NAME>
+		<METHOD_DESCRIPTION>RT-PCR</METHOD_DESCRIPTION>
+		<PARAMETER_USED>null</PARAMETER_USED>
+		<METHOD_NOTE>null</METHOD_NOTE>
+		<METHOD_INTERNAL_COMMENT />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+	</ROW>
+</ROWSET>

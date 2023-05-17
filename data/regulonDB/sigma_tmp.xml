@@ -1,0 +1,117 @@
+<?xml version='1.0'?>
+<!-- # Copies and Copyright-Notice
+#
+#      RegulonDB is free for academic/noncommercial use
+#
+#      User is not entitled to change or erase data sets of the RegulonDB
+#      database or to eliminate copyright notices from RegulonDB. Furthermore,
+#      User is not entitled to expand RegulonDB or to integrate RegulonDB partly
+#      or as a whole into other databank systems, without prior written consent
+#      from CCG-UNAM.
+#
+#      Please check the license at http://regulondb.ccg.unam.mx/menu/download/full_version/terms_and_conditions.jsp
+#
+# Citation
+#
+#      Tierrafría, V. H. et al. (2022). RegulonDB 11.0: Comprehensive high-throughput datasets on transcriptional regulation in Escherichia coli K-12,
+#      Microb Genom. 2022 May;8(5). doi: 10.1099/mgen.0.000833. PMID: 35584008. https://doi.org/10.1099/mgen.0.000833
+#
+#
+# Contact
+#
+#      Person: RegulonDB Team
+#      Web Page: http://regulondb.ccg.unam.mx/menu/about_regulondb/contact_us/index.jsp
+#          (regulondb@ccg.unam.mx)
+#
+# RegulonDB: 11.1 Date:12/12/2022-->
+<!-- Created: 12/12/2022 11:48:35-->
+<!-- Table: SIGMA_TMP-->
+<!-- Columns: -->
+<!-- 1) SIGMA_ID-->
+<!-- 2) SIGMA_NAME-->
+<!-- 3) SIGMA_SYNONYMS-->
+<!-- 4) SIGMA_GENE_ID-->
+<!-- 5) SIGMA_GENE_NAME-->
+<!-- 6) SIGMA_COREGULATORS-->
+<!-- 7) SIGMA_NOTES-->
+<!-- 8) SIGMA_SIGMULON_GENES-->
+<!-- 9) KEY_ID_ORG-->
+<ROWSET>
+	<ROW num="1">
+		<SIGMA_ID>ECK120013091</SIGMA_ID>
+		<SIGMA_NAME>Sigma19</SIGMA_NAME>
+		<SIGMA_SYNONYMS>FecI</SIGMA_SYNONYMS>
+		<SIGMA_GENE_ID>ECK120000285</SIGMA_GENE_ID>
+		<SIGMA_GENE_NAME>fecI</SIGMA_GENE_NAME>
+		<SIGMA_COREGULATORS />
+		<SIGMA_NOTES />
+		<SIGMA_SIGMULON_GENES />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+	</ROW>
+	<ROW num="2">
+		<SIGMA_ID>ECK125110291</SIGMA_ID>
+		<SIGMA_NAME>Sigma24</SIGMA_NAME>
+		<SIGMA_SYNONYMS>RpoE</SIGMA_SYNONYMS>
+		<SIGMA_GENE_ID>ECK120001827</SIGMA_GENE_ID>
+		<SIGMA_GENE_NAME>rpoE</SIGMA_GENE_NAME>
+		<SIGMA_COREGULATORS />
+		<SIGMA_NOTES />
+		<SIGMA_SIGMULON_GENES />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+	</ROW>
+	<ROW num="3">
+		<SIGMA_ID>ECK125110292</SIGMA_ID>
+		<SIGMA_NAME>Sigma28</SIGMA_NAME>
+		<SIGMA_SYNONYMS>FliA</SIGMA_SYNONYMS>
+		<SIGMA_GENE_ID>ECK120001324</SIGMA_GENE_ID>
+		<SIGMA_GENE_NAME>fliA</SIGMA_GENE_NAME>
+		<SIGMA_COREGULATORS />
+		<SIGMA_NOTES />
+		<SIGMA_SIGMULON_GENES />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+	</ROW>
+	<ROW num="4">
+		<SIGMA_ID>ECK125110293</SIGMA_ID>
+		<SIGMA_NAME>Sigma32</SIGMA_NAME>
+		<SIGMA_SYNONYMS>RpoH</SIGMA_SYNONYMS>
+		<SIGMA_GENE_ID>ECK120000888</SIGMA_GENE_ID>
+		<SIGMA_GENE_NAME>rpoH</SIGMA_GENE_NAME>
+		<SIGMA_COREGULATORS />
+		<SIGMA_NOTES />
+		<SIGMA_SIGMULON_GENES />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+	</ROW>
+	<ROW num="5">
+		<SIGMA_ID>ECK125110294</SIGMA_ID>
+		<SIGMA_NAME>Sigma38</SIGMA_NAME>
+		<SIGMA_SYNONYMS>RpoS</SIGMA_SYNONYMS>
+		<SIGMA_GENE_ID>ECK120000503</SIGMA_GENE_ID>
+		<SIGMA_GENE_NAME>rpoS</SIGMA_GENE_NAME>
+		<SIGMA_COREGULATORS />
+		<SIGMA_NOTES />
+		<SIGMA_SIGMULON_GENES />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+	</ROW>
+	<ROW num="6">
+		<SIGMA_ID>ECK125110295</SIGMA_ID>
+		<SIGMA_NAME>Sigma54</SIGMA_NAME>
+		<SIGMA_SYNONYMS>RpoN</SIGMA_SYNONYMS>
+		<SIGMA_GENE_ID>ECK120000889</SIGMA_GENE_ID>
+		<SIGMA_GENE_NAME>rpoN</SIGMA_GENE_NAME>
+		<SIGMA_COREGULATORS />
+		<SIGMA_NOTES />
+		<SIGMA_SIGMULON_GENES />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+	</ROW>
+	<ROW num="7">
+		<SIGMA_ID>ECK125110296</SIGMA_ID>
+		<SIGMA_NAME>Sigma70</SIGMA_NAME>
+		<SIGMA_SYNONYMS>RpoD</SIGMA_SYNONYMS>
+		<SIGMA_GENE_ID>ECK120000887</SIGMA_GENE_ID>
+		<SIGMA_GENE_NAME>rpoD</SIGMA_GENE_NAME>
+		<SIGMA_COREGULATORS />
+		<SIGMA_NOTES />
+		<SIGMA_SIGMULON_GENES />
+		<KEY_ID_ORG>ECK12</KEY_ID_ORG>
+	</ROW>
+</ROWSET>

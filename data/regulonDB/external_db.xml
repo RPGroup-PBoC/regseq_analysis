@@ -1,0 +1,1485 @@
+<?xml version='1.0'?>
+<!-- # Copies and Copyright-Notice
+#
+#      RegulonDB is free for academic/noncommercial use
+#
+#      User is not entitled to change or erase data sets of the RegulonDB
+#      database or to eliminate copyright notices from RegulonDB. Furthermore,
+#      User is not entitled to expand RegulonDB or to integrate RegulonDB partly
+#      or as a whole into other databank systems, without prior written consent
+#      from CCG-UNAM.
+#
+#      Please check the license at http://regulondb.ccg.unam.mx/menu/download/full_version/terms_and_conditions.jsp
+#
+# Citation
+#
+#      Tierrafría, V. H. et al. (2022). RegulonDB 11.0: Comprehensive high-throughput datasets on transcriptional regulation in Escherichia coli K-12,
+#      Microb Genom. 2022 May;8(5). doi: 10.1099/mgen.0.000833. PMID: 35584008. https://doi.org/10.1099/mgen.0.000833
+#
+#
+# Contact
+#
+#      Person: RegulonDB Team
+#      Web Page: http://regulondb.ccg.unam.mx/menu/about_regulondb/contact_us/index.jsp
+#          (regulondb@ccg.unam.mx)
+#
+# RegulonDB: 11.1 Date:12/12/2022-->
+<!-- Created: 12/12/2022 11:48:35-->
+<!-- Table: EXTERNAL_DB-->
+<!-- Columns: -->
+<!-- 1) EXTERNAL_DB_ID-->
+<!-- 2) EXTERNAL_DB_NAME-->
+<!-- 3) EXTERNAL_DB_DESCRIPTION-->
+<!-- 4) URL-->
+<!-- 5) EXTERNAL_DB_NOTE-->
+<!-- 6) EXT_DB_INTERNAL_COMMENT-->
+<ROWSET>
+	<ROW num="1">
+		<EXTERNAL_DB_ID>GID000000039</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>ECOCYC</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>EcoCyc</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://biocyc.org/ECOLI/new-image?object=</URL>
+		<EXTERNAL_DB_NOTE>EcoCyc is a Pathway/Genome database for the bacterium E. coli K-12 strain MG1655</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="2">
+		<EXTERNAL_DB_ID>GID000000043</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>GO</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Gene Ontology Database</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://amigo.geneontology.org/amigo/term/GO:</URL>
+		<EXTERNAL_DB_NOTE>The objective of GO is to provide controlled vocabularies for the description of the molecular function, biological process and cellular component of gene products.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="3">
+		<EXTERNAL_DB_ID>GID000000044</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>OU-MICROARRAY</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>OU-Microarray</EXTERNAL_DB_DESCRIPTION>
+		<URL>https://genexpdb.okstate.edu/databases/genexpdb/?query=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="4">
+		<EXTERNAL_DB_ID>GID000000045</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>PDB</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Protein Data Bank</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.rcsb.org/structure/</URL>
+		<EXTERNAL_DB_NOTE>The PDB archive contains information about experimentally-determined structures of proteins, nucleic acids, and complex assemblies.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="5">
+		<EXTERNAL_DB_ID>GID000000046</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>PID</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Entrez Protein Sequence</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.ncbi.nlm.nih.gov/protein/</URL>
+		<EXTERNAL_DB_NOTE>The protein entries in the Entrez search and retrieval system have been compiled from a variety of sources, including SwissProt, PIR, PRF, PDB, and translations from annotated coding regions in GenBank and RefSeq. </EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="6">
+		<EXTERNAL_DB_ID>GID000000047</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>PIR</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>PIR</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://pir.georgetown.edu/cgi-bin/nbrfget?uid=</URL>
+		<EXTERNAL_DB_NOTE>Link to a protein in PIR by the PIR id.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="7">
+		<EXTERNAL_DB_ID>GID000000048</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>PUBMED</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>PubMed</EXTERNAL_DB_DESCRIPTION>
+		<URL>https://pubmed.ncbi.nlm.nih.gov/</URL>
+		<EXTERNAL_DB_NOTE>NCBI PubMed provides access to citations from the biomedical literature.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="8">
+		<EXTERNAL_DB_ID>GID000000049</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>SWISSPROT</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>UniProtKB</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.uniprot.org/uniprot/?query=mnemonic:</URL>
+		<EXTERNAL_DB_NOTE>Technically, Swiss-Prot is a subset of UniProt.  It is preferable to<br>link using the DBID UNIPROT, because linking via DBID SWISSPROT<br>assumes we know that a protein is in SwissProt as opposed to TrEMBL.<br>DBID SWISSPROT is provided for backward compatibility with<br>earlier BioCyc links that use that DBID.  Because even in<br>the existing links it is possible that some links are really<br>to TrEMBL, I have changed the Common-Name slot in this frame<br>to be UniProtKB (PDK).<br></EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="9">
+		<EXTERNAL_DB_ID>GID000064271</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>CRYPTODB</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>CryptoDB</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://cryptodb.org/cryptodb/showRecord.do?name=GeneRecordClasses.GeneRecordClass&id=</URL>
+		<EXTERNAL_DB_NOTE>CryptoDB is an integrated genomic and functional genomic database for the parasite Cryptosporidium.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="10">
+		<EXTERNAL_DB_ID>GID000064272</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>PANTHER</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Panther</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.pantherdb.org/panther/family.do?clsAccession=</URL>
+		<EXTERNAL_DB_NOTE>The PANTHER (Protein ANalysis THrough Evolutionary Relationships) Classification System is a unique resource that classifies genes by their functions, using published scientific experimental evidence and evolutionary relationships to predict function even in the absence of direct experimental evidence.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="11">
+		<EXTERNAL_DB_ID>GID000064273</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>WIT-PWY</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>WIT-PWY</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://wit.mcs.anl.gov/WIT2/CGI/pw.cgi?pw=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="12">
+		<EXTERNAL_DB_ID>GID000064274</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>BIGG</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>BIGG</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://bigg.ucsd.edu/universal/metabolites/</URL>
+		<EXTERNAL_DB_NOTE>This is a metabolite linking with  with E. coli iAF1260 model from BiGG database.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="13">
+		<EXTERNAL_DB_ID>GID000064275</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>MODBASE</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>MODBASE</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://modbase.compbio.ucsf.edu/modbase-cgi/model_search.cgi?searchkw=name&kword=</URL>
+		<EXTERNAL_DB_NOTE>MODBASE is a database of predicted protein 3-D structures developed by the Sali lab at UCSF.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="14">
+		<EXTERNAL_DB_ID>GID000064276</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>SWISSMODEL</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Swiss-Model</EXTERNAL_DB_DESCRIPTION>
+		<URL>https://swissmodel.expasy.org/repository/uniprot/</URL>
+		<EXTERNAL_DB_NOTE>The SWISS-MODEL Repository is a database of annotated three-dimensional comparative protein structure models generated by the fully automated homology-modelling pipeline SWISS-MODEL. </EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="15">
+		<EXTERNAL_DB_ID>GID000064277</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>WIT</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>WIT</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.cme.msu.edu/wit-cgi/wit_enzyme.cgi?</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="16">
+		<EXTERNAL_DB_ID>GID000064278</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>KEGG-GLYCAN</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Kegg Glycan</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.genome.jp/dbget-bin/www_bget?gl:</URL>
+		<EXTERNAL_DB_NOTE>This class is created to add links from Kegg Glycans</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="17">
+		<EXTERNAL_DB_ID>GID000064279</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>SCODB</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION />
+		<URL>http://strepdb.streptomyces.org.uk/cgi-bin/search.pl?string=&accession=AL645882&anno_or_gene=gene</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="18">
+		<EXTERNAL_DB_ID>GID000064280</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>SVENCYC</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION />
+		<URL>http://scocyc.jic.bbsrc.ac.uk:1555/SVEN/NEW-IMAGE?type=NIL&object=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="19">
+		<EXTERNAL_DB_ID>GID000064281</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>GI</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>NCBI Entrez Protein (GI)</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&id=</URL>
+		<EXTERNAL_DB_NOTE>GI (Gene Index) is an older convention, still in use in Genbank protein entries, and is often found in<br>genome annotations.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="20">
+		<EXTERNAL_DB_ID>GID000064282</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>PRODB</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Protein Ontology</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://pir.georgetown.edu/cgi-bin/pro/entry_pro?id=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="21">
+		<EXTERNAL_DB_ID>GID000064283</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>SCABCYC</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION />
+		<URL>http://scocyc.jic.bbsrc.ac.uk:1555/SCAB/NEW-IMAGE?type=NIL&object=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="22">
+		<EXTERNAL_DB_ID>GID000064284</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>ECOL199310CYC</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Ecol199310Cyc</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://BioCyc.org/ECOL199310/new-image?object=</URL>
+		<EXTERNAL_DB_NOTE>This is a Pathway/Genome database for the bacterium Escherichia coli, Strain CFT073</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="23">
+		<EXTERNAL_DB_ID>GID000064285</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>PRINTS</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Prints</EXTERNAL_DB_DESCRIPTION>
+		<URL> http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?display_opts=Prints&category=None&queryform=false&prints_accn=</URL>
+		<EXTERNAL_DB_NOTE>PRINTS is a compendium of protein fingerprints. A fingerprint is a group of conserved motifs used to characterise a protein family; its diagnostic power is refined by iterative scanning of a SWISS-PROT/TrEMBL composite. </EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="24">
+		<EXTERNAL_DB_ID>GID000064286</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>COLIBLAST</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>ColiBlast</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.ai.sri.com/cgi-bin/sb/blast2html.pl.cgi?filename=</URL>
+		<EXTERNAL_DB_NOTE>This is not exactly a database; it is a collection of files that<br>contain blast reports from the comparision of H.inf<br>genes to E. coli genes.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="25">
+		<EXTERNAL_DB_ID>GID000064287</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>MINT</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Mint</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://mint.bio.uniroma2.it/mint/search/search.do?queryType=protein&interactorAc=</URL>
+		<EXTERNAL_DB_NOTE>MINT, the Molecular INTeraction database. MINT focuses on experimentally verified protein-protein interactions mined from the scientific literature by expert curators. </EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="26">
+		<EXTERNAL_DB_ID>GID000064289</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>ASPGD</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Aspergillus Genome Database</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.aspergillusgenome.org/cgi-bin/search/quickSearch?query=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="27">
+		<EXTERNAL_DB_ID>GID000064290</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>KEGG</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>KEGG-GENES</EXTERNAL_DB_DESCRIPTION>
+		<URL>https://www.genome.jp/dbget-bin/www_bget?sil:</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="28">
+		<EXTERNAL_DB_ID>GID000064291</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>MIM</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Online Mendelian Inheritance in Man</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://omim.org/entry/</URL>
+		<EXTERNAL_DB_NOTE>This database is a catalog of human genes and genetic disorders authored and edited by Dr. Victor A. McKusick and his colleagues at Johns Hopkins and elsewhere, and developed for the World Wide Web by NCBI, the National Center for Biotechnology Information.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="29">
+		<EXTERNAL_DB_ID>GID000064292</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>VZ</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>ViralZone</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://viralzone.expasy.org/all_by_protein/.html</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="30">
+		<EXTERNAL_DB_ID>GID000064293</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>GENOLIST</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>GenoList (SubtiList)</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://genodb.pasteur.fr/cgi-bin/WebObjects/GenoList.woa/wa/goToGene?accNum=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="31">
+		<EXTERNAL_DB_ID>GID000064294</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>INTERPRO</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>InterPro</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.ebi.ac.uk/interpro/entry/</URL>
+		<EXTERNAL_DB_NOTE>InterPro is a database of protein families, domains, regions, repeats and sites in which identifiable features found in known proteins can be applied to new protein sequences. </EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="32">
+		<EXTERNAL_DB_ID>GID000064295</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>SUBTIWIKI</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>SubtiWiki</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://subtiwiki.uni-goettingen.de/wiki/index.php/</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="33">
+		<EXTERNAL_DB_ID>GID000064297</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>GENEDB</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>GeneDB</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.genedb.org/genedb/Search?name=&organism=leish</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="34">
+		<EXTERNAL_DB_ID>GID000064298</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>SAVCYC</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION />
+		<URL>http://scocyc.streptomyces.org.uk:14980/SAV/NEW-IMAGE?type=NIL&object=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="35">
+		<EXTERNAL_DB_ID>GID000064299</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>CHLAMYCYC1</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>GOFORSYS-CHLAMY</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://chlamyto.mpimp-golm.mpg.de/chlamycyc/chlamygene.jsp?object=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="36">
+		<EXTERNAL_DB_ID>GID000064300</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>PRIDE</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Pride</EXTERNAL_DB_DESCRIPTION>
+		<URL> http://www.ebi.ac.uk/pride/searchSummary.do?queryTypeSelected=identification%20accession%20number&identificationAccessionNumber=</URL>
+		<EXTERNAL_DB_NOTE>The PRIDE PRoteomics IDEntifications database is a centralized, standards compliant, public data repository for proteomics data, including protein and peptide identifications, post-translational modifications and supporting spectral evidence.<br></EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="37">
+		<EXTERNAL_DB_ID>GID000064301</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>ASAP</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>ASAP</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://asap.ahabs.wisc.edu/asap/feature_info.php?FeatureID=</URL>
+		<EXTERNAL_DB_NOTE>ASAP is a systematic Annotation Package for Community Analysis of Genomes, run by the University of Wisconsin</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="38">
+		<EXTERNAL_DB_ID>GID000064302</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>CHLAMYCYC</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>ChlamyCyc</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://pmn.plantcyc.org/CHLAMY/new-image?object=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="39">
+		<EXTERNAL_DB_ID>GID000064303</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>NRSUB</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Non-Redundant Bacillus subtilis database</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://acnuc.univ-lyon1.fr/cgi-bin/acnuc-search-bg?query=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="40">
+		<EXTERNAL_DB_ID>GID000064304</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>VCHOCYC</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>VchoCyc</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://scocyc.jic.bbsrc.ac.uk:1555/VCHO/new-image?object=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="41">
+		<EXTERNAL_DB_ID>GID000064305</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>ARRAYEXPRESS</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>ArrayExpress</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.ebi.ac.uk/gxa/query?geneQuery=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="42">
+		<EXTERNAL_DB_ID>GID000064306</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>MGI</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION />
+		<URL>http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="43">
+		<EXTERNAL_DB_ID>GID000064307</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>SUBTILISWIKI</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>SubtilisWiki</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://subtiliswiki.net/wiki/index.php/</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="44">
+		<EXTERNAL_DB_ID>GID000064308</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>UNIPROT-VIA-REFSEQ</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>UniProt-via-RefSeq</EXTERNAL_DB_DESCRIPTION>
+		<URL> http://www.uniprot.org/uniprot/?query=</URL>
+		<EXTERNAL_DB_NOTE>The object ids used in these links are actually RefSeq IDs (example:<br>WP_068200188.1), but the UniProt website will accept such links.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="45">
+		<EXTERNAL_DB_ID>GID000064309</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>INTACT</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>IntAct</EXTERNAL_DB_DESCRIPTION>
+		<URL> http://www.ebi.ac.uk/intact/pages/interactions/interactions.xhtml?query=</URL>
+		<EXTERNAL_DB_NOTE>IntAct provides a freely available, open source database system and analysis tools for molecular interaction data.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="46">
+		<EXTERNAL_DB_ID>GID000064310</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>RHEA</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>RHEA</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.rhea-db.org/reaction?id=</URL>
+		<EXTERNAL_DB_NOTE>Rhea is a freely available, manually annotated database of chemical reactions created by a collaboration between the SwissProt Group at the Swiss Institute of Bioinformatics (SIB) and the Cheminformatics and Metabolism Group at the European Bioinformatics Institute (EBI) |CITS: [22135291]|.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="47">
+		<EXTERNAL_DB_ID>GID000064311</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>SUBTILIST</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>SubtiList (old)</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://genolist.pasteur.fr/SubtiList/genome.cgi?gene_detail+</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="48">
+		<EXTERNAL_DB_ID>GID000064312</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>GENECARDS</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>GeneCards</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.genecards.org/cgi-bin/carddisp.pl?gene=</URL>
+		<EXTERNAL_DB_NOTE>GeneCards[tm] is a database of human genes, their products and their involvement in diseases. It offers concise information about the functions of all human genes that have an approved symbol, as well as selected others. </EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="49">
+		<EXTERNAL_DB_ID>GID000064313</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>PLASMOCYC</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>PlasmoCyc</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://biocyc.org/PLASMO/NEW-IMAGE?type=PATHWAY&object=</URL>
+		<EXTERNAL_DB_NOTE>PlasmoCyc is a Genome/Pathway database specifically developed for the eukaryotic parasite Plasmodium falciparum (3D7), which is the major causal agent of malaria worldwide.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="50">
+		<EXTERNAL_DB_ID>GID000064314</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>REGULONDB</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>RegulonDB</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://regulondb.ccg.unam.mx/search?term=&organism=ECK12&type=All</URL>
+		<EXTERNAL_DB_NOTE>RegulonDB describes the E. coli K-12 transcriptional regulatory network.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="51">
+		<EXTERNAL_DB_ID>GID000064315</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>ECHOBASE</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>EchoBASE</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.york.ac.uk/res/thomas/Gene.cfm?recordID=</URL>
+		<EXTERNAL_DB_NOTE>EchoBase is a database that curates new experimental and bioinformatic information about the genes and gene products of the model bacterium Escherichia coli K-12 strain MG1655</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="52">
+		<EXTERNAL_DB_ID>GID000064316</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>NEW-WIT-PWY</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>WIT-PWY</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://wit.mcs.anl.gov/WIT/CGI/pw.cgi?compare=&pw=&org=&user=&where=show_diagram</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="53">
+		<EXTERNAL_DB_ID>GID000064317</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>PLANTCYC</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>PlantCyc</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://pmn.plantcyc.org/PLANT/new-image?object=</URL>
+		<EXTERNAL_DB_NOTE>PlantCyc is a multiorganism Pathway/Genome database that provides access to manually curated or reviewed information about shared and unique metabolic pathways present in over 250 plant species</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="54">
+		<EXTERNAL_DB_ID>GID000064318</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>CHEMSPIDER</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>ChemSpider</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.chemspider.com/</URL>
+		<EXTERNAL_DB_NOTE>ChemSpider is a free chemical structure database providing fast access to over 25 million structures, properties and associated information.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="55">
+		<EXTERNAL_DB_ID>GID000064319</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>METACYC</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>MetaCyc</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://biocyc.org/META/new-image?object=</URL>
+		<EXTERNAL_DB_NOTE>MetaCyc is a universal Pathway database curated from the literature from experimental evidence.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="56">
+		<EXTERNAL_DB_ID>GID000064320</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>NCI</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>NCI Open DB</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://cactus.nci.nih.gov/ncidb2.2/?nsc=</URL>
+		<EXTERNAL_DB_NOTE>NCI Open Database is a collection of over 130,000 compounds.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="57">
+		<EXTERNAL_DB_ID>GID000064321</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>ARAPORT</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>The Arabidopsis Information Portal</EXTERNAL_DB_DESCRIPTION>
+		<URL>https://bar.utoronto.ca/thalemine/portal.do?externalids=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="58">
+		<EXTERNAL_DB_ID>GID000064322</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>HUMANCYC</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>HumanCyc</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://biocyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=</URL>
+		<EXTERNAL_DB_NOTE>HumanCyc is a Pathway/Genome database for Homo sapiens.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="59">
+		<EXTERNAL_DB_ID>GID000064323</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>METABOLIGHTS</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>MetaboLights</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.ebi.ac.uk/metabolights/</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="60">
+		<EXTERNAL_DB_ID>GID000064325</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>GENE3D</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Gene3D</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.cathdb.info/search/by_text?q=</URL>
+		<EXTERNAL_DB_NOTE>The Gene3D database is a large collection of CATH protein domain assignments for ENSEMBL genomes and Uniprot sequences.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="61">
+		<EXTERNAL_DB_ID>GID000064326</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>HSSP</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Homology-derived Secondary Structure of Proteins</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://mrs.cmbi.ru.nl/search?db=hssp&q=</URL>
+		<EXTERNAL_DB_NOTE>Links to the HSSP database via the EBI SRS server (same URLs as HSSP links from UniProt). PDB IDs are valid IDs.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="62">
+		<EXTERNAL_DB_ID>GID000064327</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>STRING</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>String</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://string-db.org/network/</URL>
+		<EXTERNAL_DB_NOTE>STRING is a database of known and predicted protein interactions.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="63">
+		<EXTERNAL_DB_ID>GID000064328</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>EAWAG-BBD-PWY</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Eawag Biocatalysis/Biodegradation Database - Pathways</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://eawag-bbd.ethz.ch/servlets/pageservlet?ptype=p&pathway_abbr=</URL>
+		<EXTERNAL_DB_NOTE>Eawag Biocatalysis/Biodegradation Database (Eawag-BBD) is a database of Microbial biocatalytic reactions and biodegradation pathways.<br>The database is maintained by Eidgenössische Anstalt für Wasserversorgung, Abwasserreinigung und Gewässerschutz, in Switzerland.<br>Prior to July 2014, the database was named University of Minnesota Biocatalysis/Biodegradation Database (UM-BBD).</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="64">
+		<EXTERNAL_DB_ID>GID000064329</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>FRANTCYC</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>FrantCyc</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://scocyc.jic.bbsrc.ac.uk:1555/FRANT/new-image?object=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="65">
+		<EXTERNAL_DB_ID>GID000064330</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>REGTRANSBASE</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>RegTransBase</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://regtransbase.lbl.gov/cgi-bin/regtransbase?page=regulatorinfo&guid=</URL>
+		<EXTERNAL_DB_NOTE>RegTransBase is a database of regulatory interactions and transcription factor binding sites in prokaryotes, manually curated from the literature. </EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="66">
+		<EXTERNAL_DB_ID>GID000064331</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>CHEBI</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>ChEBI</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:</URL>
+		<EXTERNAL_DB_NOTE>Chemical Entities of Biological Interest (ChEBI) is a freely available dictionary of molecular entities focused on small chemical compounds.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="67">
+		<EXTERNAL_DB_ID>GID000064332</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>EAWAG-BBD-CPD</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Eawag BBD Compound</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://eawag-bbd.ethz.ch/servlets/pageservlet?ptype=c&compID=</URL>
+		<EXTERNAL_DB_NOTE>Eawag Biocatalysis/Biodegradation Database (Eawag-BBD) is a database of Microbial biocatalytic reactions and biodegradation pathways.<br>The database is maintained by Eidgenössische Anstalt für Wasserversorgung, Abwasserreinigung und Gewässerschutz, in Switzerland.<br>Prior to July 2014, the database was named University of Minnesota Biocatalysis/Biodegradation Database (UM-BBD).</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="68">
+		<EXTERNAL_DB_ID>GID000064333</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>PIRE</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>PIR</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://pir.georgetown.edu/cgi-bin/nbrfget?xref=uwgp&</URL>
+		<EXTERNAL_DB_NOTE>Link to an E. coli K-12 protein in PIR using the E. coli b-number of the gene (E. coli K-12 only)</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="69">
+		<EXTERNAL_DB_ID>GID000064334</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>ARALIP</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>ARALIP</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://aralip.plantbiology.msu.edu/pathways/</URL>
+		<EXTERNAL_DB_NOTE>This database has been developed by a worldwide community effort involving 27 authors and is accompanied by a summary for each pathway in the chapter <A href=http://www.bioone.org/doi/full/10.1199/tab.0133>Acyl Lipid Metabolism</A> in The Arabidopsis Book.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="70">
+		<EXTERNAL_DB_ID>GID000064335</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>CGSC</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Coli Genetic Stock Center</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://cgsc.biology.yale.edu/Site.php?ID=</URL>
+		<EXTERNAL_DB_NOTE>The Escherichia Coli Genetic Stock Center at Yale</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="71">
+		<EXTERNAL_DB_ID>GID000064336</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>NCBI-TAXONOMY-DB</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>NCBI Taxonomy</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=</URL>
+		<EXTERNAL_DB_NOTE>NCBI database describing evolutionary taxonomy of organisms.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="72">
+		<EXTERNAL_DB_ID>GID000064337</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>UNIPROT-PROTEIN-ID</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>UniProt (via Protein ID)</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.uniprot.org/uniprot/?query=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="73">
+		<EXTERNAL_DB_ID>GID000064338</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>ARACYC</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>AraCyc</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://pmn.plantcyc.org/ARA/NEW-IMAGE?type=PATHWAY&object=</URL>
+		<EXTERNAL_DB_NOTE>AraCyc is a Pathway/Genome database for the plant Arabidopsis thaliana columbia</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="74">
+		<EXTERNAL_DB_ID>GID000064339</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>MAIZESEQUENCE</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>MaizeSequence</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://maizesequence.org/Zea_mays/Gene/Summary?g=</URL>
+		<EXTERNAL_DB_NOTE>MaizeSequence.Org provides the latest sequence and annotation of the Zea mays spp mays genome resulting from the NSF-funded Maize Genome Sequencing Project using the public B73 cultivar.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="75">
+		<EXTERNAL_DB_ID>GID000064340</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>SOYBASE</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Soybase</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://soybase.ncgr.org/cgi-bin/ace/generic/pic/soybase?class=Reaction_or_Pathway&name=%21</URL>
+		<EXTERNAL_DB_NOTE>Soybase is a genomic database for Soybean</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="76">
+		<EXTERNAL_DB_ID>GID000064341</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>HPYCYC</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>HpyCyc</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://scocyc.jic.bbsrc.ac.uk:1555/HPY/new-image?object=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="77">
+		<EXTERNAL_DB_ID>GID000064342</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>REFSEQ</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>NCBI Reference Sequences Database</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=</URL>
+		<EXTERNAL_DB_NOTE>The Reference Sequence (RefSeq) collection aims to provide a comprehensive, integrated, non-redundant set of sequences, including genomic DNA, transcript (RNA), and protein products, for major research organisms.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="78">
+		<EXTERNAL_DB_ID>GID000064343</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>FLYBASE</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>FlyBase</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://flybase.org/reports/</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="79">
+		<EXTERNAL_DB_ID>GID000064344</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>DRUGBANK</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>DrugBank</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.drugbank.ca/drugs/</URL>
+		<EXTERNAL_DB_NOTE>The DrugBank database is a unique bioinformatics and cheminformatics resource that combines detailed drug (i.e. chemical, pharmacological and pharmaceutical) data with comprehensive drug target (i.e. sequence, structure, and pathway) information. </EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="80">
+		<EXTERNAL_DB_ID>GID000064345</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>NCBI-REFSEQ-PRO</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>NCBI-Protein</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.ncbi.nlm.nih.gov/protein/</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="81">
+		<EXTERNAL_DB_ID>GID000064346</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>CGD</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Candida Genome Database</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.candidagenome.org/cgi-bin/locus.pl?dbid=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="82">
+		<EXTERNAL_DB_ID>GID000064347</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>MAIZEGDB</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>MaizeGDB</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://maizegdb.org/cgi-bin/displaygenemodelrecord.cgi?id=</URL>
+		<EXTERNAL_DB_NOTE>MaizeGDB is the community database for biological information about the crop plant Zea mays commonly called as maize or corn.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="83">
+		<EXTERNAL_DB_ID>GID000064348</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>UNIPROT</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>UniProt</EXTERNAL_DB_DESCRIPTION>
+		<URL>https://www.uniprot.org/uniprot/</URL>
+		<EXTERNAL_DB_NOTE>The mission of UniProt is to provide the scientific community with a comprehensive, high-quality and freely accessible resource of protein sequence and functional information.. The UniProt Knowledge Base has two component databases: SwissProt and TrEMBL.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="84">
+		<EXTERNAL_DB_ID>GID000064349</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>ANTHRACYC</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>AnthraCyc</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://scocyc.jic.bbsrc.ac.uk:1555/ANTHRA/new-image?object=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="85">
+		<EXTERNAL_DB_ID>GID000064350</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>HOMINISDB2</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION />
+		<URL>http://cryptodb.org/cryptodb/showRecord.do?name=GeneRecordClasses.GeneRecordClass&id=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="86">
+		<EXTERNAL_DB_ID>GID000064351</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>SMR</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>SWISS-MODEL</EXTERNAL_DB_DESCRIPTION>
+		<URL>https://swissmodel.expasy.org/repository/uniprot/</URL>
+		<EXTERNAL_DB_NOTE>The SWISS-MODEL Repository is a database of annotated three-dimensional comparative protein structure models generated by the fully automated homology-modelling pipeline SWISS-MODEL. </EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="87">
+		<EXTERNAL_DB_ID>GID000064352</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>UNIGENE</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>NCBI UniGene (Homo sapiens)</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.ncbi.nlm.nih.gov/UniGene/clust.cgi?ORG=Hs&CID=</URL>
+		<EXTERNAL_DB_NOTE>UniGene is an experimental system for automatically partitioning GenBank sequences into a non-redundant set of gene-oriented clusters. Each UniGene cluster contains sequences that represent a unique gene, as well as related information such as the tissue types in which the gene has been expressed and map location.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="88">
+		<EXTERNAL_DB_ID>GID000064353</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>EXPLORENZ</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>IUBMB-ExplorEnz</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.enzyme-database.org/query.php?ec=</URL>
+		<EXTERNAL_DB_NOTE>EplorEnz is a enzyme information database.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="89">
+		<EXTERNAL_DB_ID>GID000064354</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>REFMET</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION />
+		<URL>https://www.metabolomicsworkbench.org/databases/refmet/refmet_details.php?REFMET_NAME=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="90">
+		<EXTERNAL_DB_ID>GID000064355</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>SMART</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Smart</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://smart.embl.de/smart/do_annotation.pl?DOMAIN=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="91">
+		<EXTERNAL_DB_ID>GID000064356</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>DISPROT</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Database of Protein Disorder</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.disprot.org/</URL>
+		<EXTERNAL_DB_NOTE>The Database of Protein Disorder (DisProt) is a curated database that provides information about proteins that lack fixed 3D structure in their putatively native states, either in their entirety or in part.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="92">
+		<EXTERNAL_DB_ID>GID000064357</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>REACTOME</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Reactome</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.reactome.org/cgi-bin/link?SOURCE=Reactome&ID=</URL>
+		<EXTERNAL_DB_NOTE>Reactome is a free, online, open-source, curated resource of core pathways and reactions in human biology. </EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="93">
+		<EXTERNAL_DB_ID>GID000064358</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>CAZY</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>CAZy</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.cazy.org/.html</URL>
+		<EXTERNAL_DB_NOTE>The CAZy (Carbohydrate-Active Enzymes) database describes the families of structurally-related catalytic and carbohydrate-binding modules (or functional domains) of enzymes that degrade, modify, or create glycosidic bonds.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="94">
+		<EXTERNAL_DB_ID>GID000064359</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>NCBI-REFSEQ-NA</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>ncbi-refseq-na</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.ncbi.nlm.nih.gov/nuccore/</URL>
+		<EXTERNAL_DB_NOTE>NCBI refseq nucleotide accession number</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="95">
+		<EXTERNAL_DB_ID>GID000064360</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>PHYTOZOME</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Phytozome, the plant genomics resource</EXTERNAL_DB_DESCRIPTION>
+		<URL>https://phytozome.jgi.doe.gov/pz/portal.html#!results?search=0&crown=1&star=1&method=0&searchText=</URL>
+		<EXTERNAL_DB_NOTE>According to the <A href=https://phytozome.jgi.doe.gov/pz/portal.html>Phytozome website</A>, Phytozome is a joint project of the Department of Energy's Joint Genome Institute and the Center for Integrative Genomics to facilitate<br>comparative genomic studies amongst green plants. Clusters of orthologous and paralogous genes that represent the<br>modern descendents of ancestral gene sets are constructed at key phylogenetic nodes.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="96">
+		<EXTERNAL_DB_ID>GID000064361</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>AGROCYC</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>AgroCyc</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://scocyc.jic.bbsrc.ac.uk:1555/AGRO/new-image?object=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="97">
+		<EXTERNAL_DB_ID>GID000064362</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>LIPID_MAPS_ISOMERS</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>LIPID MAPS isomers</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.lipidmaps.org/data/display_isomersj.pl?iso=</URL>
+		<EXTERNAL_DB_NOTE>The LIPID MAPS (Metabolites And Pathways Strategy) consortium provides the Nature Lipidomics Gateway to bring together data, tools, and resources for researchers studying lipid biology. The isomer pages allow users to see multiple structural representations of a specific compound class.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="98">
+		<EXTERNAL_DB_ID>GID000064363</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>NCBI-REFSEQ</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>NCBI-RefSeq</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.ncbi.nlm.nih.gov/nuccore/</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="99">
+		<EXTERNAL_DB_ID>GID000064364</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>UM-BBD-PWY</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Eawag Biocatalysis/Biodegradation Database - Pathways</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://eawag-bbd.ethz.ch/servlets/pageservlet?ptype=p&pathway_abbr=</URL>
+		<EXTERNAL_DB_NOTE>Eawag Biocatalysis/Biodegradation Database (Eawag-BBD) is a database of Microbial biocatalytic reactions and biodegradation pathways.<br>The database is maintained by Eidgenossische Anstalt fur Wasserversorgung, Abwasserreinigung und Gewasserschutz, in Switzerland.<br>Prior to July 2014, the database was named University of Minnesota Biocatalysis/Biodegradation Database (UM-BBD).</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="100">
+		<EXTERNAL_DB_ID>GID000064365</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>HOMINISDB</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION />
+		<URL>http://cryptodb.org/cryptodb/showRecord.do?name=GeneRecordClasses.GeneRecordClass&id=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="101">
+		<EXTERNAL_DB_ID>GID000064366</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>LIPID_MAPS</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>LIPID MAPS</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.lipidmaps.org/data/LMSDRecord.php?LMID=</URL>
+		<EXTERNAL_DB_NOTE>The LIPID MAPS (Metabolites And Pathways Strategy) consortium provides the Nature Lipidomics Gateway to bring together data, tools, and resources for researchers studying lipid biology. <br></EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="102">
+		<EXTERNAL_DB_ID>GID000064367</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>SHIGELLACYC</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>ShigellaCyc</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://BioCyc.org/SHIGELLA/new-image?object=</URL>
+		<EXTERNAL_DB_NOTE>ShigellaCyc is a Pathway/Genome database for the bacterium Shigella flexneri, Strain 2a str. 2457T.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="103">
+		<EXTERNAL_DB_ID>GID000064368</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>EUPATHDB</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Eukaryotic Pathogen Database Resources</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.eupathdb.org/gene/</URL>
+		<EXTERNAL_DB_NOTE>EuPathDB Bioinformatics Resource Center for Biodefense and Emerging/Re-emerging Infectious Diseases is a portal for accessing genomic-scale datasets associated with the eukaryotic pathogens.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="104">
+		<EXTERNAL_DB_ID>GID000064369</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>HMDB</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>HMDB</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.hmdb.ca/metabolites/</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="105">
+		<EXTERNAL_DB_ID>GID000064370</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>PYLORIGENE</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>PyloriGene</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://genolist.pasteur.fr/PyloriGene/genome.cgi?external_query+</URL>
+		<EXTERNAL_DB_NOTE>PyloriGene is a database that collates and integrates various aspects of the genomic information from Helicobacter pylori,  one of the most common chronic bacterial pathogens of humans.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="106">
+		<EXTERNAL_DB_ID>GID000064371</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>DIP</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Database of Interacting Proteins</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://dip.doe-mbi.ucla.edu/dip/Browse.cgi?ID=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="107">
+		<EXTERNAL_DB_ID>GID000064372</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>ENZYME-DB</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>ENZYME</EXTERNAL_DB_DESCRIPTION>
+		<URL>https://enzyme.expasy.org/EC/</URL>
+		<EXTERNAL_DB_NOTE>ENZYME is a repository of information relative to the nomenclature of enzymes. It is primarily based on the recommendations of the Nomenclature Committee of the International Union of Biochemistry and Molecular Biology (IUBMB) and it describes each type of characterized enzyme for which an EC (Enzyme Commission) number has been provided</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="108">
+		<EXTERNAL_DB_ID>GID000064373</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>PHYLOMEDB</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>PhylomeDB</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://phylomedb.org/?q=search_tree&seqid=</URL>
+		<EXTERNAL_DB_NOTE>PhylomeDB is a public database for complete collections of gene phylogenies.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="109">
+		<EXTERNAL_DB_ID>GID000064374</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>CAULOCYC</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>CauloCyc</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://scocyc.jic.bbsrc.ac.uk:1555/CAULO/new-image?object=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="110">
+		<EXTERNAL_DB_ID>GID000064375</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>DICTYBASE</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Dictybase</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://dictybase.org/db/cgi-bin/gene_page.pl?primary_id=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="111">
+		<EXTERNAL_DB_ID>GID000064376</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>NCBI-GENE</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>NCBI Gene</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.ncbi.nlm.nih.gov/gene?term=</URL>
+		<EXTERNAL_DB_NOTE>The NCBI Gene database  integrates information from a wide range of species. A record may include nomenclature, Reference Sequences (RefSeqs), maps, pathways, variations, phenotypes, and links to genome-, phenotype-, and locus-specific resources worldwide.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="112">
+		<EXTERNAL_DB_ID>GID000064377</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>UM-BBD-CPD</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>UMBBD Compound</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://eawag-bbd.ethz.ch/servlets/pageservlet?ptype=c&compID=</URL>
+		<EXTERNAL_DB_NOTE>Caution: This external database description is obsolete: University of Minnesota Biocatalysis/Biodegradation Database (UM-BBD) is a database of Microbial biocatalytic reactions and biodegradation pathways.<br>Instead, for dblinks, use the replacement EAWAG-BBD-CPD</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="113">
+		<EXTERNAL_DB_ID>GID000064378</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>CAS</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>CAS</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.commonchemistry.org/ChemicalDetail.aspx?ref=</URL>
+		<EXTERNAL_DB_NOTE>Chemical Abstract Service</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="114">
+		<EXTERNAL_DB_ID>GID000064379</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>LIGAND-RXN</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>KEGG reaction</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.genome.jp/dbget-bin/www_bget?rn:</URL>
+		<EXTERNAL_DB_NOTE>KEGG REACTION is a database of chemical reactions, mostly enzymatic reactions, containing all reactions that appear in the KEGG metabolic pathway maps and additional reactions that appear only in the Enzyme Nomenclature. Each reaction is identified by the R number, such as R00259 for the acetylation of L-glutamate.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="115">
+		<EXTERNAL_DB_ID>GID000064380</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>SGN</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Sol Genomics Network</EXTERNAL_DB_DESCRIPTION>
+		<URL>https://solgenomics.net/locus//view</URL>
+		<EXTERNAL_DB_NOTE>The SOL Genomics Network (SGN) is a clade oriented database dedicated to the biology of the Solanaceae family which includes a large number of closely related and many agronomically important species such as tomato, potato, tobacco, eggplant, pepper, and the ornamental Petunia hybrida.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="116">
+		<EXTERNAL_DB_ID>GID000064381</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>UCSC</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>UCSC human genome DB</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://genome.ucsc.edu/cgi-bin/hgTracks?org=human&position=</URL>
+		<EXTERNAL_DB_NOTE>This site at UCSC contains working drafts for the human, mouse, and rat genomes. </EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="117">
+		<EXTERNAL_DB_ID>GID000064382</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>HIDB</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>HIDB</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.tigr.org/docs/tigr-scripts/hi_scripts/hi_report.spl?hi_num=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="118">
+		<EXTERNAL_DB_ID>GID000064383</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>SGD-PATHWAY</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Saccharamyces Pathway Database</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://pathway.yeastgenome.org/YEAST/new-image?type=PATHWAY&object=</URL>
+		<EXTERNAL_DB_NOTE>YeastCyc is a Pathway/Genome database for the yeasr Saccharomyces cerevisiae.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="119">
+		<EXTERNAL_DB_ID>GID000064384</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>ENTREZ</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>NCBI Nucleotide</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.ncbi.nlm.nih.gov/nuccore/</URL>
+		<EXTERNAL_DB_NOTE>The NCBI Nucleotide database is a collection of sequences from several sources, including GenBank, RefSeq, TPA and PDB. Genome, gene and transcript sequence data provide the foundation for biomedical research and discovery.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="120">
+		<EXTERNAL_DB_ID>GID000064385</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>PHOSPHOSITE</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Phosphorylation site database for Archaea and Bacteria</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.phosphosite.org/uniprotAccAction.do?id=</URL>
+		<EXTERNAL_DB_NOTE>PhosphoSitePlus® (PSP) is an online systems biology resource providing comprehensive information and tools for the study of protein post-translational modifications (PTMs).</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="121">
+		<EXTERNAL_DB_ID>GID000064386</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>PUBCHEM-SID</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>PubChem SID</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=</URL>
+		<EXTERNAL_DB_NOTE>The PubChem Substance ID maintained by the NCBI (National Center for Biotechnology Information) includes records for compounds that have been electronically submitted by depositors.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="122">
+		<EXTERNAL_DB_ID>GID000064387</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>DBTBS-TRANSCRIPTION-FACTORS</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>DBTBS B. subtilis Transcription Factors</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://dbtbs.hgc.jp/cgi-bin/basic_search.cgi?search_type=trans&keyword=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="123">
+		<EXTERNAL_DB_ID>GID000064388</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>NCBI-GENBANK</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>NCBI-GenBank</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.ncbi.nlm.nih.gov/nuccore/</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="124">
+		<EXTERNAL_DB_ID>GID000064389</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>PFAM</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Pfam</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://pfam.xfam.org/family/</URL>
+		<EXTERNAL_DB_NOTE>The Pfam collection of multiple sequence alignments and hidden Markov models for common protein families and domains.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="125">
+		<EXTERNAL_DB_ID>GID000064390</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>BRENDA-COMPOUND</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>BRENDA-Compound</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.brenda-enzymes.org/ligand.php?brenda_ligand_id=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="126">
+		<EXTERNAL_DB_ID>GID000064391</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>LIGAND-MAP</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>KEGG pathway</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.genome.ad.jp/dbget-bin/www_bget?</URL>
+		<EXTERNAL_DB_NOTE>KEGG PATHWAY is a collection of manually drawn pathway maps representing knowledge of the molecular interaction, reaction and relation networks for:<br>1. Metabolism (Global/overview   Carbohydrate   Energy   Lipid   Nucleotide   Amino acid   Other amino   Glycan       Cofactor/vitamin   Terpenoid/PK   Other secondary metabolite   Xenobiotics   Chemical structure)<br>2. Genetic Information Processing<br>3. Environmental Information Processing<br>4. Cellular Processes<br>5. Organismal Systems<br>6. Human Diseases<br>7. Drug Development</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="127">
+		<EXTERNAL_DB_ID>GID000064392</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>NCBI-BIOPROJECT</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>NCBI BioProject</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.ncbi.nlm.nih.gov/bioproject/</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="128">
+		<EXTERNAL_DB_ID>GID000064393</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>TRITRYPDB</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>TriTrypDB, Kinetoplastid Genomic Ressource</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://tritrypdb.org/tritrypdb/showRecord.do?name=GeneRecordClasses.GeneRecordClass&primary_key=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="129">
+		<EXTERNAL_DB_ID>GID000064394</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>HAMAP</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION />
+		<URL>http://www.expasy.org/unirules/</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="130">
+		<EXTERNAL_DB_ID>GID000064395</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>LIGAND-CPD</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Kegg Ligand</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.genome.ad.jp/dbget-bin/www_bget?</URL>
+		<EXTERNAL_DB_NOTE>KEGG LIGAND is a composite database consisting of COMPOUND, GLYCAN, REACTION, RPAIR, and ENZYME databases, whose entries are identified by C, G, R, RP, and EC numbers, respectively. </EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="131">
+		<EXTERNAL_DB_ID>GID000064396</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>SGD</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Saccharamyces Genome Database</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.yeastgenome.org/locus/</URL>
+		<EXTERNAL_DB_NOTE>SGD is a scientific database of the molecular biology and genetics of the yeast Saccharomyces cerevisiae, which is commonly known as baker's or budding yeast.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="132">
+		<EXTERNAL_DB_ID>GID000064397</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>ENSEMBL-BSUB</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Ensembl <i>B. subtilis</i></EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.ensemblgenomes.org/id/ </URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="133">
+		<EXTERNAL_DB_ID>GID000064398</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>GRAMENE</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Gramene</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.gramene.org/Zea_mays/Gene/Summary?g=</URL>
+		<EXTERNAL_DB_NOTE>Gramene is a curated, open-source data resource that provides plant biologists, geneticists and plant breeders with biological and genomic information on crop and model plants.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="134">
+		<EXTERNAL_DB_ID>GID000064399</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>PUBCHEM</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>PubChem (CID)</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=</URL>
+		<EXTERNAL_DB_NOTE>PubChem provides information on the biological activities of small molecules.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="135">
+		<EXTERNAL_DB_ID>GID000064400</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>DBTBS-GENES</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>DBTBS B. subtilis Operons</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://dbtbs.hgc.jp/cgi-bin/basic_search.cgi?search_type=prom&keyword=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="136">
+		<EXTERNAL_DB_ID>GID000064401</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>ENSEMBL</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Ensembl Human</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.ensembl.org/Homo_sapiens/Gene/Summary?g=</URL>
+		<EXTERNAL_DB_NOTE>Ensembl is a joint project between EMBL - EBI and the Sanger Institute to develop a software system which produces and maintains automatic annotation on eukaryotic genomes.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="137">
+		<EXTERNAL_DB_ID>GID000064402</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>PDBSUM</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>PDBsum</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.ebi.ac.uk/pdbsum/</URL>
+		<EXTERNAL_DB_NOTE>PDBsum is a pictorial database that provides an at-a-glance overview of the contents of each 3D structure deposited in the Protein Data Bank (PDB). </EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="138">
+		<EXTERNAL_DB_ID>GID000064403</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>BRENDA</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>BRENDA</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.brenda-enzymes.org/enzyme.php?ecno=</URL>
+		<EXTERNAL_DB_NOTE>BRENDA (BRaunschweig ENzyme DAtabase) is a comprehensive database for functional and molecular properties of enzymes.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="139">
+		<EXTERNAL_DB_ID>GID000064404</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>DBGET</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION />
+		<URL>http://www.genome.ad.jp/dbget-bin/www_bget?</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="140">
+		<EXTERNAL_DB_ID>GID000064405</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>MTBRVCYC</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Mtbh37RvCyc</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://BioCyc.org/MTBH37RV/new-image?object=</URL>
+		<EXTERNAL_DB_NOTE>Mtbh37rvcyc is a Pathway/Genome database for the bacterium Mycobacterium tuberculosis, Strain H37Rv</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="141">
+		<EXTERNAL_DB_ID>GID000064406</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>TRANSPORTER_CLASSIFICATION_DATABASE</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Transporter Classification Database</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.tcdb.org/search/result.php?tc=</URL>
+		<EXTERNAL_DB_NOTE>The Transporter Classification Database provides information about membrane transport proteins that are classified based on a 5-part comprehensive IUBMB-approved system.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="142">
+		<EXTERNAL_DB_ID>GID000064407</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>BIOSAMPLE</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>BIOSAMPLE</EXTERNAL_DB_DESCRIPTION>
+		<URL>https://www.ncbi.nlm.nih.gov/biosample/</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="143">
+		<EXTERNAL_DB_ID>GID000064408</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>LIGAND</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>KEGG-legacy</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.genome.ad.jp/dbget-bin/www_bget?</URL>
+		<EXTERNAL_DB_NOTE>KEGG LIGAND is a composite database consisting of COMPOUND, GLYCAN, REACTION, RPAIR, and ENZYME databases, whose entries are identified by C, G, R, RP, and EC numbers, respectively. </EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="144">
+		<EXTERNAL_DB_ID>GID000064409</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>SFLE198214CYC</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Sfle198214Cyc</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://BioCyc.org/SFLE198214/new-image?object=</URL>
+		<EXTERNAL_DB_NOTE>Sfle198214Cyc is a Pathway/Genome database for the bacterium Shigella flexneri, Strain 2a str. 301</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="145">
+		<EXTERNAL_DB_ID>GID000064410</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>TAIR</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>The Arabidopsis Information Resource</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.arabidopsis.org/servlets/TairObject?type=locus&name=</URL>
+		<EXTERNAL_DB_NOTE>The Arabidopsis Information Resource (TAIR) maintains a database of genetic and molecular biology data for the model higher plant Arabidopsis thaliana  </EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="146">
+		<EXTERNAL_DB_ID>GID000064411</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>GOLD</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Genomes Online Database</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://genomesonline.org/projects?id=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="147">
+		<EXTERNAL_DB_ID>GID000064412</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>PROTEINMODELPORTAL</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Protein Model Portal</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.proteinmodelportal.org/query/uniprot/</URL>
+		<EXTERNAL_DB_NOTE>PMP gives access to various models computed by comparative modeling methods provided by different partner sites, and provides access to various interactive services for model building, and quality assessment. </EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="148">
+		<EXTERNAL_DB_ID>GID000064413</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>SCP2DB</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION />
+		<URL>http://streptomyces.org.uk/cgi-bin/scp2/external.pl?name=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="149">
+		<EXTERNAL_DB_ID>GID000064414</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>ECOO157CYC</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>EcoO157Cyc</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://BioCyc.org/ECOO157/new-image?object=</URL>
+		<EXTERNAL_DB_NOTE>This is a Pathway/Genome database for the bacteriumEscherichia coli, Strain O157:H7 EDL933</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="150">
+		<EXTERNAL_DB_ID>GID000064415</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>PROSITE</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Prosite</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://prosite.expasy.org/cgi-bin/prosite/nicedoc.pl?</URL>
+		<EXTERNAL_DB_NOTE>PROSITE is a database of protein families and domains.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="151">
+		<EXTERNAL_DB_ID>GID000064416</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>DB1</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>GeneDB</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.genedb.org/genedb/Search?name=&organism=leish</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="152">
+		<EXTERNAL_DB_ID>GID000064417</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>MTBCDCCYC</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>MtbCdcCyc</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://BioCyc.org/MTBCDC/new-image?object=</URL>
+		<EXTERNAL_DB_NOTE>MtbCdcCyc is a Pathway/Genome database for the bacterium Mycobacterium tuberculosis, Strain CDC1551</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="153">
+		<EXTERNAL_DB_ID>GID000064418</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>PATRIC</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>PATRIC</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://patricbrc.org/portal/portal/patric/Feature?cType=feature&cId=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="154">
+		<EXTERNAL_DB_ID>GID000064419</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>BIOHEALTHBASE</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>BioHealthBase</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.biohealthbase.org/GSearch/details.do?locus=</URL>
+		<EXTERNAL_DB_NOTE>The Biodefense and Public Health Database (BioHealthBase) Bioinformatics Resource Center (BRC) provides a comprehensive genomic and proteomic data repository for five pathogenic organism groups that pose a threat to public health</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="155">
+		<EXTERNAL_DB_ID>GID000064420</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>KNAPSACK</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>KNApSAcK</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.knapsackfamily.com/knapsack_core/information.jsp?word=</URL>
+		<EXTERNAL_DB_NOTE>KNApSAcK is a species-metabolite relation database provided by the Nara Institute of Science and Technology (NAIST).</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="156">
+		<EXTERNAL_DB_ID>GID000064421</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>MPMP</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION />
+		<URL>http://sites.huji.ac.il/malaria/maps/.html</URL>
+		<EXTERNAL_DB_NOTE>The Malaria parasite database describes metabolic pathways in Plasmodium falciparum</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="157">
+		<EXTERNAL_DB_ID>GID000064422</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>Wikipedia</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Wikipedia</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://en.wikipedia.org/wiki/</URL>
+		<EXTERNAL_DB_NOTE><A href=http://en.wikipedia.org/>Wikipedia</A> is a multilingual, web-based, free content<br>encyclopedia project, which is written collaboratively by volunteers from all around the world. </EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="158">
+		<EXTERNAL_DB_ID>GID000064423</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>GOA</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Gene Ontology Annotation</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://www.ebi.ac.uk/QuickGO/GProtein?ac=</URL>
+		<EXTERNAL_DB_NOTE>Links to the GOA database via the QuickGO web interface. UniProt accession numbers are valid IDs.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="159">
+		<EXTERNAL_DB_ID>GID000064424</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>KEGG-PWY</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION />
+		<URL>http://www.kegg.com/dbget-bin/show_pathway?</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="160">
+		<EXTERNAL_DB_ID>GID000064425</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>ECOLIWIKI</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>EcoliWiki</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://ecoliwiki.net/colipedia/index.php/</URL>
+		<EXTERNAL_DB_NOTE>The EcoliWiki is EcoliHub's subsystem for community annotation.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="161">
+		<EXTERNAL_DB_ID>GID000064426</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>SCP1DB</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION />
+		<URL>http://streptomyces.org.uk/cgi-bin/scp1/external.pl?name=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="162">
+		<EXTERNAL_DB_ID>GID000064427</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>CYRPTODB</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>CryptoDB</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://cryptodb.org/cryptodb/showRecord.do?name=GeneRecordClasses.GeneRecordClass&id=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="163">
+		<EXTERNAL_DB_ID>GID000064428</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>ECOLIHUB</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>PortEco</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://porteco.org/AjaxSearch.jsp?searchString=</URL>
+		<EXTERNAL_DB_NOTE>EcoliHub is being developed to make information now housed in multiple information resources, databases, and websites readily available from a single source.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="164">
+		<EXTERNAL_DB_ID>GID000064429</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>PRODOM</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>ProDom; a protein domain database</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://prodom.prabi.fr/prodom/current/cgi-bin/request.pl?question=SPTR&query=</URL>
+		<EXTERNAL_DB_NOTE>ProDom is a comprehensive set of protein domain families automatically generated from the UniProt Knowledge Database.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="165">
+		<EXTERNAL_DB_ID>GID000064430</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>BIOCYC</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>BioCyc</EXTERNAL_DB_DESCRIPTION>
+		<URL>https://biocyc.org/getid?id=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="166">
+		<EXTERNAL_DB_ID>GID000068346</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>COG</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>COG</EXTERNAL_DB_DESCRIPTION>
+		<URL>https://www.ncbi.nlm.nih.gov/research/cog/cog//</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="167">
+		<EXTERNAL_DB_ID>GID000068347</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>EGGNOG</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>EggNog</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://eggnog5.embl.de/#/app/results?target_nogs=</URL>
+		<EXTERNAL_DB_NOTE>EggNog is a database of orthology relationships, functional annotation, and gene evolutionary histories |CITS: [30418610]|.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="168">
+		<EXTERNAL_DB_ID>GID000068724</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>IMG</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Integrated Microbial Genomes & Microbiomes</EXTERNAL_DB_DESCRIPTION>
+		<URL>https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=GeneDetail&page=geneDetail&gene_oid=</URL>
+		<EXTERNAL_DB_NOTE>The mission of the Integrated Microbial Genomes & Microbiomes(IMG/M) system is to support the annotation, analysis and distribution of microbial genome and microbiome datasets sequenced at DOE's Joint Genome Institute (JGI).</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="169">
+		<EXTERNAL_DB_ID>GID000069369</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>ALPHAFOLD</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>AlphaFold</EXTERNAL_DB_DESCRIPTION>
+		<URL>https://alphafold.ebi.ac.uk/entry/</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="170">
+		<EXTERNAL_DB_ID>GID000069724</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>ASSEMBLY</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>NCBI Assembly</EXTERNAL_DB_DESCRIPTION>
+		<URL>https://www.ncbi.nlm.nih.gov/assembly/</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="171">
+		<EXTERNAL_DB_ID>GID000069725</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>ZINC</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>ZINC</EXTERNAL_DB_DESCRIPTION>
+		<URL>https://zinc15.docking.org/substances/</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="172">
+		<EXTERNAL_DB_ID>GID000069726</EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>GlyToucan</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>GlyToucan</EXTERNAL_DB_DESCRIPTION>
+		<URL>https://glytoucan.org/Structures/Glycans/</URL>
+		<EXTERNAL_DB_NOTE>GlyTouCan is the international glycan structure repository.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="173">
+		<EXTERNAL_DB_ID>GID0065865  </EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>MYCOBROWSER</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Mycobrowser</EXTERNAL_DB_DESCRIPTION>
+		<URL>https://mycobrowser.epfl.ch/genes/</URL>
+		<EXTERNAL_DB_NOTE>ycobrowser (Mycobacterial browser) is a comprehensive genomic and proteomic data repository for pathogenic mycobacteria. It provides manually-curated annotations and appropriate tools to facilitate genomic and proteomic study of these organisms.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="174">
+		<EXTERNAL_DB_ID>GID0065866  </EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>AUREOWIKI</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>aureowiki</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://aureowiki.med.uni-greifswald.de/</URL>
+		<EXTERNAL_DB_NOTE>Link to a gene in aureowiki by gene accession number.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="175">
+		<EXTERNAL_DB_ID>GID0067407  </EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>COMPLEX-PORTAL</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Complex Portal</EXTERNAL_DB_DESCRIPTION>
+		<URL>https://www.ebi.ac.uk/complexportal/complex/</URL>
+		<EXTERNAL_DB_NOTE>Contains information about protein complexes.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="176">
+		<EXTERNAL_DB_ID>GID0067408  </EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>RNA-CENTRAL</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>RNAcentral</EXTERNAL_DB_DESCRIPTION>
+		<URL>https://rnacentral.org/rna/</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="177">
+		<EXTERNAL_DB_ID>GID0067859  </EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>METANETX-RXN</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>METANETX</EXTERNAL_DB_DESCRIPTION>
+		<URL>https://www.metanetx.org/equa_info/</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="178">
+		<EXTERNAL_DB_ID>GID0067860  </EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>REACTOME-CPD</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Reactome</EXTERNAL_DB_DESCRIPTION>
+		<URL>https://reactome.org/content/query?cluster=true&q=</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="179">
+		<EXTERNAL_DB_ID>GID0067861  </EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>METANETX</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>MetaNetX</EXTERNAL_DB_DESCRIPTION>
+		<URL>https://www.metanetx.org/chem_info/</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="180">
+		<EXTERNAL_DB_ID>GID0067862  </EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>MEDIADB</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>MediaDB</EXTERNAL_DB_DESCRIPTION>
+		<URL>https://mediadb.systemsbiology.net/defined_media/</URL>
+		<EXTERNAL_DB_NOTE>MediaB is a database of chemically-defined growth conditions.  It collects chemically defined growth media from primary literature sources for full sequenced organisms.</EXTERNAL_DB_NOTE>
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+	<ROW num="181">
+		<EXTERNAL_DB_ID>GID0067863  </EXTERNAL_DB_ID>
+		<EXTERNAL_DB_NAME>SEED</EXTERNAL_DB_NAME>
+		<EXTERNAL_DB_DESCRIPTION>Seed</EXTERNAL_DB_DESCRIPTION>
+		<URL>http://modelseed.org/biochem/compounds/</URL>
+		<EXTERNAL_DB_NOTE />
+		<EXT_DB_INTERNAL_COMMENT />
+	</ROW>
+</ROWSET>
